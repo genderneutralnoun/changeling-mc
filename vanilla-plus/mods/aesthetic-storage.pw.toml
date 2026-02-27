@@ -1,0 +1,13 @@
+name = "Aesthetic Storage"
+filename = "aestheticstorage-1.21.1_fabric_v.2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6e12b818e2dad0ba67a39ef0ffa84d2122e6a99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7183007
+project-id = 1269588

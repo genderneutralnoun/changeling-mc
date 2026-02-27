@@ -1,0 +1,3 @@
+key_modifiers_key.beltborne_lanterns.toggle_lantern:1,0,0
+key_modifiers_key.do_a_barrel_roll.toggle_enabled:1,0,0
+key_modifiers_key.rolling_down_in_the_deep.toggle_enabled:1,0,0

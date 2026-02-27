@@ -1,0 +1,13 @@
+name = "Clean Connected Glass(DiagonalWindows Patch)"
+filename = "Clean_Connected_Glass(1.20_fix_with_DiagonalWindows_mod).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e79bd931e1fb8a874466dc86a201d2a029ccd3d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6896784
+project-id = 1329174

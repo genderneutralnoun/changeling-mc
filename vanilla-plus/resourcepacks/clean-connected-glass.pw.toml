@@ -1,0 +1,13 @@
+name = "Clean Connected Glass"
+filename = "Clean Connected Glass [1.21.5+].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f753a8457cfb69020ead536571f7adc2aea17c26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7116231
+project-id = 581147

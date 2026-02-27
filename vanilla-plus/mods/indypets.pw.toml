@@ -1,0 +1,13 @@
+name = "IndyPets - Independent Pets (Fabric)"
+filename = "indypets-1.4.7-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27b68bb323e157b04ba2d16456393fe5d5ac49a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6368192
+project-id = 320967

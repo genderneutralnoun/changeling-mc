@@ -1,0 +1,13 @@
+name = "BoxLib"
+filename = "Boxlib-fabric-14.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf26401d921da4cd8d4dc824df461eecffd9c95e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6469306
+project-id = 1021348

@@ -1,0 +1,13 @@
+name = "Compostables"
+filename = "compostables-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a53641732f360873f3037a67122856df3d15867"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5454156
+project-id = 683408

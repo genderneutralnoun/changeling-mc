@@ -1,0 +1,13 @@
+name = "Dynamic Surroundings"
+filename = "dynamicsurroundings-fabric-1.21.1-0.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bffadbe66ca57be50bc9afb2de9be1e88a67944e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6063186
+project-id = 238891

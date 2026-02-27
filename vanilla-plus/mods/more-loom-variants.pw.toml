@@ -1,0 +1,13 @@
+name = "More Loom Variants"
+filename = "MoreLoomVariants-1.2.1+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d9f278c3820021a676ec3e3bb7aa6c873f49d7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6364149
+project-id = 1065985

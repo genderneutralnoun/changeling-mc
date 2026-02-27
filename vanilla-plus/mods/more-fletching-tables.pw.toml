@@ -1,0 +1,13 @@
+name = "More Fletching Tables"
+filename = "MoreFletchingTables-1.8.2+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "314f8074be4f0321851d5593aba62c9a4264cae2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6245460
+project-id = 1058440

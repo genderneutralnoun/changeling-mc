@@ -1,0 +1,13 @@
+name = "Persistent Parrots"
+filename = "persistentparrots-1.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96903d72319fe100ee56243bdd84010825efa752"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5424119
+project-id = 999681

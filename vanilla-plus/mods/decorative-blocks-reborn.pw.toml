@@ -1,0 +1,13 @@
+name = "Decorative Blocks Reborn"
+filename = "DecorativeBlocks-Reborn-fabric-1.21.1-6.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "809490ab898c378e89d3f11d1ddfc1a9a80150bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6897415
+project-id = 1327768

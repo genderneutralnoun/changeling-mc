@@ -1,0 +1,13 @@
+name = "Save My Shaky Network"
+filename = "smsn-fabric-1.3.5-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf38d961901715a8de10ea49a38693a9dc44857e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7301084
+project-id = 1129397

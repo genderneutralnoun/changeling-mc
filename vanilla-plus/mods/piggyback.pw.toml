@@ -1,0 +1,13 @@
+name = "Piggyback"
+filename = "piggyback-fabric-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11bb761aaa443bff604fbc5f73197589e145f99b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7166643
+project-id = 1241247

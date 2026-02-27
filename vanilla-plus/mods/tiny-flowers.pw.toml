@@ -1,0 +1,13 @@
+name = "Tiny Flowers"
+filename = "tiny-flowers-mc1.21.1-1.2.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c93dcb792508afa7821df464d7eda9d989299d4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6405880
+project-id = 1183435

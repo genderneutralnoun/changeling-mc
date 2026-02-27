@@ -1,0 +1,13 @@
+name = "Beltborne Lanterns: Accessories Layer"
+filename = "bl_accessories_layer-1.0.4-fabric+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5eb8251d1b73795043a87559352adc0bbb7e7e0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7181998
+project-id = 1342341

@@ -1,0 +1,6 @@
+["Fabric Dedicated Config"]
+	#Disable DTN Rice Grains randomly drop from Grass.
+	disable_rice_loot = false
+	#Disable DTN Soy Beans randomly drop when certain entities is being
+	#killed by Dogs.
+	disable_soy_loot = false

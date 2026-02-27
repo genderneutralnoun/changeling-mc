@@ -1,0 +1,13 @@
+name = "Floras delight"
+filename = "flora-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b322b5a450233ffdf4fa80c045fb87fa624c98af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7280593
+project-id = 1395620

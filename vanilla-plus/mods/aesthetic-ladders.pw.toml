@@ -1,0 +1,13 @@
+name = "Aesthetic Ladders"
+filename = "aestheticladders-1.21.1_fabric_v2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f8f8178df2a14275ff73414b1628c252a0ff54b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7148875
+project-id = 1251348

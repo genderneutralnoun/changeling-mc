@@ -1,0 +1,13 @@
+name = "xali's Enchanted Books - Fix"
+filename = "xali's Enchanted Books Fix v2 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d3f1dc557fc7ea5876f4adbfff5949d32a9ddea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5502402
+project-id = 1057128

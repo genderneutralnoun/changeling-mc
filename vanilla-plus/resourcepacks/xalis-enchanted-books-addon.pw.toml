@@ -1,0 +1,13 @@
+name = "xali's Enchanted Books - Addon"
+filename = "xali's Enchanted Books Addon v3 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd9cd61ae566c8df1e5c467f8935646f36c6179c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5501009
+project-id = 947578

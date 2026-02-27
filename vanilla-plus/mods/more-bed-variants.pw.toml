@@ -1,0 +1,13 @@
+name = "More Bed Variants"
+filename = "MoreBedVariants-2.1.2+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f02cd7277f3f7ededba19aea2cbbf5c3a427bc92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7318066
+project-id = 1077380

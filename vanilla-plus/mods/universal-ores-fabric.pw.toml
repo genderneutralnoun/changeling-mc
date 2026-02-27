@@ -1,0 +1,13 @@
+name = "Universal Ores (Fabric)"
+filename = "universal_ores-v1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da2fe686288e7990b3a16e0081c6547f9819aa8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6117947
+project-id = 489884

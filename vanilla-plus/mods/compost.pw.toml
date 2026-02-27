@@ -1,0 +1,13 @@
+name = "Compost"
+filename = "compost-fabric-1.21.1-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6adc983d94208438186f0bef1f1f0c5e77abea6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6895862
+project-id = 581323

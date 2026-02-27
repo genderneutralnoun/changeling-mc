@@ -1,0 +1,13 @@
+name = "Aesthetic Tables"
+filename = "aesthetictables-1.21.1_fabric_v2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd2680626e3fd9bdc21642de8cd23eb8fad4116a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7257030
+project-id = 1258505

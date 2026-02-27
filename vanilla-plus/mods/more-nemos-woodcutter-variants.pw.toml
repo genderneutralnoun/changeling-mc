@@ -1,0 +1,13 @@
+name = "More Nemo's Woodcutter Variants"
+filename = "MoreNemosWoodcutterVariants-1.1.5+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fd8630bada381e321349e8166179718dd66e4af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6451239
+project-id = 1062068

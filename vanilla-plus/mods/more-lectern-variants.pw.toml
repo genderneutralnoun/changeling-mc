@@ -1,0 +1,13 @@
+name = "More Lectern Variants"
+filename = "MoreLecternVariants-1.8.4+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dde0bf4162c6b1962cae46a05b68c8b8b987cac8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6621177
+project-id = 1058412

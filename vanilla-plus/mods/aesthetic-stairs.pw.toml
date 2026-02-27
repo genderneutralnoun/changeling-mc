@@ -1,0 +1,13 @@
+name = "Aesthetic Stairs"
+filename = "aestheticstairs-1.21.1_fabric_v2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cdc7e8d37e8b3c3ebcfaa2f31097db1afd61722"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7162374
+project-id = 1279305

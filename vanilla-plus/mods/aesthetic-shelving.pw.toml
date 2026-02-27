@@ -1,0 +1,13 @@
+name = "Aesthetic Shelving"
+filename = "aestheticshelving-1.21.1_fabric_v.2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65d4e0519aaa7a9c6e36330651725bbda31a5e3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7238200
+project-id = 1265388

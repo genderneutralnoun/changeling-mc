@@ -1,0 +1,13 @@
+name = "Bamboo Everything"
+filename = "bambooeverything-fabric-21.1.2+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3cac0ddd69fbc02b8959d4f023c33de26c294d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7170710
+project-id = 331723

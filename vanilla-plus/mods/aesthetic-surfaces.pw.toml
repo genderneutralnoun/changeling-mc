@@ -1,0 +1,13 @@
+name = "Aesthetic Surfaces"
+filename = "aestheticsurfaces-1.21.1_v.0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2189c3acef6e78f33716a8cdb2d99de05e009be4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6440674
+project-id = 1246871

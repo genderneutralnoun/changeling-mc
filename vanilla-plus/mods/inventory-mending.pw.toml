@@ -1,0 +1,13 @@
+name = "Inventory Mending"
+filename = "inventorymending-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fedd198238933c4133d4d52d4bc74087b079709d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6283393
+project-id = 1202499

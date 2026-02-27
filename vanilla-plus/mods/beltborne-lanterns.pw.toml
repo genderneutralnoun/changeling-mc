@@ -1,0 +1,13 @@
+name = "Beltborne Lanterns"
+filename = "beltborne_lanterns-1.2.3-fabric+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f40ce5401449e502c31f5ec205f0369aef98a76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141739
+project-id = 1337474

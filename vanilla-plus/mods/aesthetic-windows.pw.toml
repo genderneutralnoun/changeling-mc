@@ -1,0 +1,13 @@
+name = "Aesthetic Windows"
+filename = "aestheticwindows-1.21.1_fabric_v2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c848fbabce51457958e978978130c89b005fe292"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7201994
+project-id = 1259810

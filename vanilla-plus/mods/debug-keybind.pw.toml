@@ -1,0 +1,13 @@
+name = "Debug Keybind"
+filename = "DebugKeybind-fabric-12.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "916faa2fb2868e2b0e02401a27000855b1358e62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6337044
+project-id = 901782

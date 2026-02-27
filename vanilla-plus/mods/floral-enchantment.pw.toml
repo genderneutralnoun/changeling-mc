@@ -1,0 +1,13 @@
+name = "Floral Enchantment"
+filename = "Floral Enchantment-fabric-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff925fca657f9cd2f0dbc6c14e8d9195c023853c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6527347
+project-id = 511569

@@ -1,0 +1,13 @@
+name = "Respawnable Pets"
+filename = "respawnablepets-1.21-r2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e16b31f25570bbfb00424c166b92951e0b9e442b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5801046
+project-id = 319582

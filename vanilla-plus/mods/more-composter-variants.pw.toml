@@ -1,0 +1,13 @@
+name = "More Composter Variants"
+filename = "MoreComposterVariants-1.8.1+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7c817ff2e83ce1831cbd1bb782e9018824a5fbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6176228
+project-id = 1058421

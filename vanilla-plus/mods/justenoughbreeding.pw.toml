@@ -1,0 +1,13 @@
+name = "Just Enough Breeding (JEBr)"
+filename = "justenoughbreeding-fabric-1.21-1.21.1-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc416978736aa76e11485c7293bc93badaf9671f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6816402
+project-id = 899386

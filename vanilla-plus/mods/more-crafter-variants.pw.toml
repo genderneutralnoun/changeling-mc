@@ -1,0 +1,13 @@
+name = "More Crafter Variants"
+filename = "MoreCrafterVariants-1.0.0+1.21-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a1242a239526cebae1354a12cba87e88bbf7f02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5642669
+project-id = 1086725

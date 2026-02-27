@@ -1,0 +1,13 @@
+name = "More Feeding Trough Variants"
+filename = "MoreFeedingTroughVariants-1.2.0+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f38986ab341e268626fdc70a5f45489c870bdb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7237442
+project-id = 1079760

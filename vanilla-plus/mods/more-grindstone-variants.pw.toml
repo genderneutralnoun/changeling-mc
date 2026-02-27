@@ -1,0 +1,13 @@
+name = "More Grindstone Variants"
+filename = "MoreGrindstoneVariants-1.1.4+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bae731327dbc7e8acce333f400bf82dd30918143"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7324012
+project-id = 1058442

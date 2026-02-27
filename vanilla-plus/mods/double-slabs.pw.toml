@@ -1,0 +1,13 @@
+name = "Double Slabs"
+filename = "doubleslabs-fabric-1.21.1-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe01a07bc09f7e3c1c7296550c3298cbcf0f7b41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6839897
+project-id = 350179

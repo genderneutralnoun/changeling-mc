@@ -1,0 +1,13 @@
+name = "More Furnaces Variants"
+filename = "MoreFurnaceVariants-1.0.3+1.21-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "124262a0cdc6ef3007fcd0c24133c6b9336dd31f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5482752
+project-id = 1002272

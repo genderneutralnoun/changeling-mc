@@ -1,0 +1,13 @@
+name = "GPUTape"
+filename = "GpuTape-1.18x-1.21x-1.0.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcfb81808c318356e7a7a4544be27b220fecfd96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200076
+project-id = 1201803

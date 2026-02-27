@@ -1,0 +1,13 @@
+name = "Wither Skull Overhaul"
+filename = "wither-skull-overhaul-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e053178a5a23047255dc686427c2d6a33a4e83fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6208558
+project-id = 1131269

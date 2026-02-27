@@ -1,0 +1,13 @@
+name = "Plenty Plates [Archived]"
+filename = "PlentyPlates-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e921bab4f8593c2a776785a2250a9b025b1d2e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5716643
+project-id = 857969

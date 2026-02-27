@@ -1,0 +1,13 @@
+name = "Aesthetic Seating"
+filename = "aestheticseating-1.21.1_fabric_v.0.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89a224cdc302ec5281c965827518417e4c117b4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7151257
+project-id = 1135421

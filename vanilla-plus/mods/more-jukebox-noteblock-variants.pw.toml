@@ -1,0 +1,13 @@
+name = "More Jukebox/Noteblock Variants"
+filename = "MoreJukeboxNoteblockVariants-1.2.0+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b36ccacccdbe3ab6cc55f5381674fe0188f5c25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6702532
+project-id = 1083947

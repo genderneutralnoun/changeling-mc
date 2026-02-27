@@ -1,0 +1,13 @@
+name = "REVIVED Farmer's Delight crops 3D Refabricated"
+filename = "REVIVED_Farmer's Delight_crops_3D_Refabricated_R1.5-1.20.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13e6732cbfffaa37c78bf8147eb9611ca0e94411"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6747364
+project-id = 1191760

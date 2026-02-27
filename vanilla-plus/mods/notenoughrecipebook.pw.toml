@@ -1,0 +1,13 @@
+name = "Not Enough Recipe Book [NERB]"
+filename = "Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7fcc3d8969f0838e32bf8dd0ed17ef46c07a655"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6880049
+project-id = 738663

@@ -1,0 +1,13 @@
+name = "Distinguished Potions [Archived]"
+filename = "DistinguishedPotions-v21.1.1-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49c97149db50ff039b626c26c05b7951e2392d6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6025980
+project-id = 682565

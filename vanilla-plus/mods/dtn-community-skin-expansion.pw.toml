@@ -1,0 +1,13 @@
+name = "Doggy Talents Next's Community Skin Expansion"
+filename = "DTNCommunitySkinExpansion[Fabric]-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02da112fa8721752dce39cf2ce17124295cc2f3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6362210
+project-id = 1101287

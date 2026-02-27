@@ -1,0 +1,13 @@
+name = "More Barrel Variants"
+filename = "MoreBarrelVariants-1.8.0+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26e64229d0ed8d4c9abfc8b41b791c38cdeddd3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7048572
+project-id = 1058391

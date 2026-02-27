@@ -1,0 +1,13 @@
+name = "Nirvana Library"
+filename = "Nirvana Lib-fabric-1.21.1-2.0.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5d253e2c0fa5db611954865de8cc50a8a1f9583"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7188082
+project-id = 1164411

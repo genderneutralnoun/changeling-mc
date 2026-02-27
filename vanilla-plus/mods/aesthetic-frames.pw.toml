@@ -1,0 +1,13 @@
+name = "Aesthetic Frames"
+filename = "aestheticframes-1.21.1_fabric_v.2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d7650ec20d86af6935883fce3881af8db16aaeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7132112
+project-id = 1262729

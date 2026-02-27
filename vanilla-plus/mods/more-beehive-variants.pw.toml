@@ -1,0 +1,13 @@
+name = "More Beehive Variants"
+filename = "MoreBeehiveVariants-1.2.1+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2ad05fe753b72266f8cf0d87b3f9e35ad7cd4a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6459424
+project-id = 1078562

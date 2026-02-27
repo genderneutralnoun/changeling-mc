@@ -1,0 +1,5 @@
+renderbuffer_depth:true
+fast_math:true
+fast_random:true
+dsa:"all"
+bindless_texture:"core"

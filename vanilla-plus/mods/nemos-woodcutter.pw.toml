@@ -1,0 +1,13 @@
+name = "Nemo's Woodcutter"
+filename = "nemos-woodcutter-1.12.3-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20ee572b2608c94d8a9bce262afa7dcee3363b2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5888197
+project-id = 914549

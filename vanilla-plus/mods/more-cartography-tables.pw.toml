@@ -1,0 +1,13 @@
+name = "More Cartography Tables"
+filename = "MoreCartographyTables-1.8.2+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2784275934d09dfbffdeb08ec7664f4fe3a5797c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7220048
+project-id = 1058429

@@ -1,0 +1,12 @@
+{
+  "isSimulatingEnabled": true,
+  "minTimePassedSecs": 60,
+  "activeBlockSimulationGroups": [
+    "stalk_blocks",
+    "campfire",
+    "furnace",
+    "crops"
+  ],
+  "doMobAging": true,
+  "chickenEggs": true
+}
