@@ -1,13 +1,16 @@
-name = "IndyPets - Independent Pets (Fabric)"
-filename = "indypets-1.4.7-1.21.jar"
-side = "both"
+filename = 'indypets-1.4.7-1.21.jar'
+name = 'IndyPets - Independent Pets'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "27b68bb323e157b04ba2d16456393fe5d5ac49a8"
-mode = "metadata:curseforge"
+hash = '87ffe214a6e5840a6694f4e8b1f2ebe7ed81e5e1130118bd142b27f4631c1594b3517b74954982b514e5f57d781b54afecf2b55c26527f6bf2bcaa35dc71d8c0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SVJhmJvx/versions/HOjegS8s/indypets-1.4.7-1.21.jar'
 
-[update]
-[update.curseforge]
-file-id = 6368192
-project-id = 320967
+[update.modrinth]
+mod-id = 'SVJhmJvx'
+version = 'HOjegS8s'

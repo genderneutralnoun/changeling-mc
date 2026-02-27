@@ -1,0 +1,16 @@
+filename = 'Decorative Lamps-1.21.1-1.7.4.jar'
+name = 'Decorative Lamps'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a4c08f1a0ef83e6d8ef1df588d517494ff74ac03ee7eaa1502456317ecf43ab96df4821c7956b4fabb4bb3ac04935d717560765f84fe2a2412629e55b143f996'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B4n7BWWA/versions/xu2VmN8n/Decorative Lamps-1.21.1-1.7.4.jar'
+
+[update.modrinth]
+mod-id = 'B4n7BWWA'
+version = 'xu2VmN8n'

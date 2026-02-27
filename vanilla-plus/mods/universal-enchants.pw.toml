@@ -1,13 +1,16 @@
-name = "Universal Enchants"
-filename = "UniversalEnchants-v21.1.6-1.21.1-Fabric.jar"
-side = "both"
+filename = 'UniversalEnchants-v21.1.6-1.21.1-Fabric.jar'
+name = 'Universal Enchants'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "95addd52471befc07af55ef422667b8b70df46f6"
-mode = "metadata:curseforge"
+hash = '30d428effd2708ec5ad347db2ac54d9af35e17b229c8ca87f2923fc4bcbcc118ab600b8be0444d87db7d993d2abf08df526e2aa40f5c3974b1ad7e6fcce0e831'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DT56YDir/versions/Kke2ZSg0/UniversalEnchants-v21.1.6-1.21.1-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 6790330
-project-id = 593958
+[update.modrinth]
+mod-id = 'DT56YDir'
+version = 'Kke2ZSg0'

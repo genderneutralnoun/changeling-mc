@@ -1,13 +1,16 @@
+filename = 'nemos-woodcutter-1.12.3-1.21.1.jar'
 name = "Nemo's Woodcutter"
-filename = "nemos-woodcutter-1.12.3-1.21.1.jar"
-side = "both"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "20ee572b2608c94d8a9bce262afa7dcee3363b2a"
-mode = "metadata:curseforge"
+hash = 'dca69fb9da60fd5c65c744a70f84b93a2de05a963fddcfada306820195ff844e838c02f623ef45af3e3281de7870cc80e74caa1d0f92f1a276b59715bd7c0053'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mr1LTtgz/versions/XDslDeud/nemos-woodcutter-1.12.3-1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 5888197
-project-id = 914549
+[update.modrinth]
+mod-id = 'mr1LTtgz'
+version = 'XDslDeud'

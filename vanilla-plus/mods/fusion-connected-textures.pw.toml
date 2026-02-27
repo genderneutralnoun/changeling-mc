@@ -1,13 +1,16 @@
-name = "Fusion (Connected Textures)"
-filename = "fusion-1.2.11-fabric-mc1.21.jar"
-side = "both"
+filename = 'fusion-1.2.11-fabric-mc1.21.jar'
+name = 'Fusion (Connected Textures)'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "4f70f5975780ef8c76b35cce0b3f88a3a0f501ed"
-mode = "metadata:curseforge"
+hash = '0215e89ad8ee42f831f41b28cc263044b3462ed6dcf52b4c89f83189f275781022051e3ccff786eff325b1d97332ebf580ee6ff9dc32832cf060fe5ec7a3128a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/pOKxWr1C/fusion-1.2.11-fabric-mc1.21.jar'
 
-[update]
-[update.curseforge]
-file-id = 6916613
-project-id = 854949
+[update.modrinth]
+mod-id = 'p19vrgc2'
+version = 'pOKxWr1C'

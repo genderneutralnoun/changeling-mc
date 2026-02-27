@@ -1,13 +1,16 @@
-name = "Enchanting Infuser"
-filename = "EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar"
-side = "both"
+filename = 'EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar'
+name = 'Enchanting Infuser'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "dd516646b83976faf24fbb5618fca15c4be1cfe2"
-mode = "metadata:curseforge"
+hash = 'a137119b4a90b8de1205301167d9e73e80b1efa8ee5ade0291a09c7a2fada5938bd507a9d206344f483804d2424bd03059af8f70bd53a57f6409ee51ae87d5b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ePv85y52/versions/8Myn7TRZ/EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 6874070
-project-id = 551151
+[update.modrinth]
+mod-id = 'ePv85y52'
+version = '8Myn7TRZ'

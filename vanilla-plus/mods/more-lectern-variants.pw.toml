@@ -1,13 +1,16 @@
-name = "More Lectern Variants"
-filename = "MoreLecternVariants-1.8.4+1.21(.1)-Fabric.jar"
-side = "both"
+filename = 'MoreLecternVariants-1.8.4+1.21(.1)-Fabric.jar'
+name = 'More Lectern Variants'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "dde0bf4162c6b1962cae46a05b68c8b8b987cac8"
-mode = "metadata:curseforge"
+hash = 'ec7586d0aa610605429569f7c7bf72fbe08691191f3832208112ad92328d41fbadb4674d21d132464508b0f8eae8de5124b19735e53f688d2bd8040682f4b87b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pLsa93bN/versions/haaKGwBb/MoreLecternVariants-1.8.4%2B1.21%28.1%29-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 6621177
-project-id = 1058412
+[update.modrinth]
+mod-id = 'pLsa93bN'
+version = 'haaKGwBb'

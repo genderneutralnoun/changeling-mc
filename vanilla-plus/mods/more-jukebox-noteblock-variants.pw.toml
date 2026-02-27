@@ -1,13 +1,16 @@
-name = "More Jukebox/Noteblock Variants"
-filename = "MoreJukeboxNoteblockVariants-1.2.0+1.21(.1)-Fabric.jar"
-side = "both"
+filename = 'MoreJukeboxNoteblockVariants-1.2.0+1.21(.1)-Fabric.jar'
+name = 'More Jukebox/Noteblock Variants'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "5b36ccacccdbe3ab6cc55f5381674fe0188f5c25"
-mode = "metadata:curseforge"
+hash = '145acb5aacf4904bcecbd71a50ac88de96bb8e0d74a0a49fbc67b90df8925cf837f700772699d8c5a2c92a193362c39604ea67913828d5ec0201a83f3e75c861'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CLgavC7x/versions/AGSPjbnt/MoreJukeboxNoteblockVariants-1.2.0%2B1.21%28.1%29-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 6702532
-project-id = 1083947
+[update.modrinth]
+mod-id = 'CLgavC7x'
+version = 'AGSPjbnt'

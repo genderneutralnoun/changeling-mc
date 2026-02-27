@@ -1,13 +1,16 @@
-name = "Immersive Tips"
-filename = "immersivetips-fabric-1.0.1-1.21.1.jar"
-side = "both"
+filename = 'immersivetips-fabric-1.0.2-1.21.1.jar'
+name = 'Immersive Tips'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "3e7a5698d5eee65b51d53c12eb76f422081063be"
-mode = "metadata:curseforge"
+hash = '601a3b8e04a3d6f56f0c59333be71545462af17bbe1eccbe6f139c7e01e8d564668dd80fb41bd4bf900366460cc0257959981227514ea735139b0c74a5292b2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FyiLzCSu/versions/auKCfwL4/immersivetips-fabric-1.0.2-1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6328183
-project-id = 1172669
+[update.modrinth]
+mod-id = 'FyiLzCSu'
+version = 'auKCfwL4'

@@ -1,13 +1,16 @@
-name = "Respawnable Pets"
-filename = "respawnablepets-1.21-r2.jar"
-side = "both"
+filename = 'respawnablepets-1.21-r2.jar'
+name = 'Respawnable Pets'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "e16b31f25570bbfb00424c166b92951e0b9e442b"
-mode = "metadata:curseforge"
+hash = '076914fc222740c7678b2863549b866ec6f6ff0a94050619329012c5ca735ad32c6f1122dea1e79e9aa3fd997756693f32b398e34ad286057fe60a971e5cbfed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gbFe1FWa/versions/DxDhy0br/respawnablepets-1.21-r2.jar'
 
-[update]
-[update.curseforge]
-file-id = 5801046
-project-id = 319582
+[update.modrinth]
+mod-id = 'gbFe1FWa'
+version = 'DxDhy0br'

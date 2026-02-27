@@ -1,13 +1,16 @@
-name = "Name Tag Tweaks"
-filename = "nametagtweaks-1.21.1-4.0.jar"
-side = "both"
+filename = 'nametagtweaks-1.21.1-4.0.jar'
+name = 'Name Tag Tweaks'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "b391a3d3199306acf83ecc8ed8172aaab3a2bb60"
-mode = "metadata:curseforge"
+hash = 'de74cd8c264f9f5a4b18fa45486459891ca2976907e00627b1dd72b5ded61c97c5b7715f0b880c2c622cc9ca28d75be8af29aeee812001eaa93a395918deda49'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LrLZEnPl/versions/5Qka8LfN/nametagtweaks-1.21.1-4.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 6185525
-project-id = 391972
+[update.modrinth]
+mod-id = 'LrLZEnPl'
+version = '5Qka8LfN'

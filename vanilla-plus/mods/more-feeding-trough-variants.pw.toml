@@ -1,13 +1,16 @@
-name = "More Feeding Trough Variants"
-filename = "MoreFeedingTroughVariants-1.2.0+1.21(.1)-Fabric.jar"
-side = "both"
+filename = 'MoreFeedingTroughVariants-1.2.0+1.21(.1)-Fabric.jar'
+name = 'More Feeding Trough Variants'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "0f38986ab341e268626fdc70a5f45489c870bdb6"
-mode = "metadata:curseforge"
+hash = '8e9ff67eefdbeeea933365f5c05214284571b179779d73fe9ed0772623d27454a79bf41cd564b739edf383a5a64bc40d31e4394e2c9f6737dcb939e5b4ca1f77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1tqQKQKR/versions/l1Is1AAu/MoreFeedingTroughVariants-1.2.0%2B1.21%28.1%29-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 7237442
-project-id = 1079760
+[update.modrinth]
+mod-id = '1tqQKQKR'
+version = 'l1Is1AAu'

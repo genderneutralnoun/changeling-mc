@@ -1,13 +1,16 @@
-name = "Accessories"
-filename = "accessories-fabric-1.1.0-beta.52+1.21.1.jar"
-side = "both"
+filename = 'accessories-fabric-1.1.0-beta.52+1.21.1.jar'
+name = 'Accessories'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash-format = "sha1"
-hash = "e4c823950882d127f6e4c7a710d33c2c84b9c304"
-mode = "metadata:curseforge"
+hash = 'b0cd93f4341fe29e9fb9ef43c197313b694ce0b11c58c97594ee81c7c662605df7f6c2b37bfba4c6767b68e97c1e6a4fcea03cfbca18fe3d316ffe165ecbf3f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jtmvUHXj/versions/uPPIhLTH/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7046412
-project-id = 938917
+[update.modrinth]
+mod-id = 'jtmvUHXj'
+version = 'uPPIhLTH'

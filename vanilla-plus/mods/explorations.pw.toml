@@ -1,13 +1,16 @@
-name = "Explorations"
-filename = "explorations-fabric-1.21.1-1.6.2.jar"
-side = "both"
+filename = 'explorations-fabric-1.21.1-1.6.2.jar'
+name = 'Explorations'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "f460d869b556a842a7594429b712ef9669b02a7c"
-mode = "metadata:curseforge"
+hash = '0b8e58067635370026ba70917f5d6770d2f9d18ec9344facde8e50f8df0afe52ffe1f0d962136b62fd170792cb20a5c66293e80d6a2ef55a231830b68d4b9f43'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pcGnjJ39/versions/u3zAhTEO/explorations-fabric-1.21.1-1.6.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 6485557
-project-id = 550247
+[update.modrinth]
+mod-id = 'pcGnjJ39'
+version = 'u3zAhTEO'

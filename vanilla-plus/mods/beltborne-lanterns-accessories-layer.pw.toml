@@ -1,13 +1,16 @@
-name = "Beltborne Lanterns: Accessories Layer"
-filename = "bl_accessories_layer-1.0.4-fabric+1.21.1.jar"
-side = "both"
+filename = 'bl_accessories_layer-1.0.4-fabric+1.21.1.jar'
+name = 'Beltborne Lanterns: Accessories Layer'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash-format = "sha1"
-hash = "5eb8251d1b73795043a87559352adc0bbb7e7e0d"
-mode = "metadata:curseforge"
+hash = '164faef4562cb3cbb47ccebb9fc3c4dad3cc2dfba517643211e6c44577a54e3d8719970f0a7a3d2e106a9cb98e45f7005224da304588a35805932d68ec353c0a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/geZ7ilkE/versions/jL33NAcP/bl_accessories_layer-1.0.4-fabric%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7181998
-project-id = 1342341
+[update.modrinth]
+mod-id = 'geZ7ilkE'
+version = 'jL33NAcP'

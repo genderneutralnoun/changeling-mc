@@ -1,13 +1,16 @@
-name = "Advanced Backups"
-filename = "AdvancedBackups-fabric-1.21-3.7.1.jar"
-side = "both"
+filename = 'AdvancedBackups-fabric-1.21-3.7.1.jar'
+name = 'Advanced Backups'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "a599f0c79ace2598a700475c3ac2c7fc2c59d0c2"
-mode = "metadata:curseforge"
+hash = '755bf9ab10599319aa46209502338af63157e4543f08853190f6b519bd83da8546adf99a0c3e3055d6c2dbbab4c56907cf4dde577d648e61b625d386801fddc4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Jrmoreqs/versions/WA3oNjMA/AdvancedBackups-fabric-1.21-3.7.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6148229
-project-id = 876284
+[update.modrinth]
+mod-id = 'Jrmoreqs'
+version = 'WA3oNjMA'

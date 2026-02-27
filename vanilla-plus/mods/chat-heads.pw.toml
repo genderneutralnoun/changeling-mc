@@ -1,13 +1,16 @@
-name = "Chat Heads"
-filename = "chat_heads-0.14.2-fabric-1.21.jar"
-side = "both"
+filename = 'chat_heads-0.14.2-fabric-1.21.jar'
+name = 'Chat Heads'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "7f7b45a2b029165a7c980784fd103b7aa995691e"
-mode = "metadata:curseforge"
+hash = '155e95d91c01812be603d6940db8e1e348dafbbfd82cd9d238d17c951e7bd5859c42d99b612f59e5b4f52ac9babbf936495fa3ebf76a0f6acc2382d4ee4eb049'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9dRmYosQ/chat_heads-0.14.2-fabric-1.21.jar'
 
-[update]
-[update.curseforge]
-file-id = 7211720
-project-id = 407206
+[update.modrinth]
+mod-id = 'Wb5oqrBJ'
+version = '9dRmYosQ'

@@ -1,13 +1,16 @@
-name = "More Bed Variants"
-filename = "MoreBedVariants-2.1.2+1.21(.1)-Fabric.jar"
-side = "both"
+filename = 'MoreBedVariants-2.1.2+1.21(.1)-Fabric.jar'
+name = 'More Bed Variants'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "f02cd7277f3f7ededba19aea2cbbf5c3a427bc92"
-mode = "metadata:curseforge"
+hash = '724d9ac3ac3cca94379cde6b55df64676feb311168e786b810eec1cb83a27a7df88763514fdd36f5d7bdc89f7290a079fd4fcc10db60df7841c1668fda9f6bb5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nKaiA11S/versions/cpzmkA2R/MoreBedVariants-2.1.2%2B1.21%28.1%29-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 7318066
-project-id = 1077380
+[update.modrinth]
+mod-id = 'nKaiA11S'
+version = 'cpzmkA2R'

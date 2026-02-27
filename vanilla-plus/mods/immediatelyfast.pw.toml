@@ -1,13 +1,16 @@
-name = "ImmediatelyFast"
-filename = "ImmediatelyFast-Fabric-1.6.8+1.21.1.jar"
-side = "both"
+filename = 'ImmediatelyFast-Fabric-1.6.8+1.21.1.jar'
+name = 'ImmediatelyFast'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "403fb9ae5c292323c69e2adde1aa317644137fec"
-mode = "metadata:curseforge"
+hash = 'dd6d6981c373f2149125f2921bc2e31ae92c3fe3e17b83d3d86b412981ef5a8bacd2c00fe10a6771f8675267acbe0ee46c55443dad241d5613d909c172eb8e3f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5ZwdcRci/versions/uA4KLlrL/ImmediatelyFast-Fabric-1.6.8%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7313113
-project-id = 686911
+[update.modrinth]
+mod-id = '5ZwdcRci'
+version = 'uA4KLlrL'

@@ -1,13 +1,16 @@
-name = "Tiny Flowers"
-filename = "tiny-flowers-mc1.21.1-1.2.0+1.21.1.jar"
-side = "both"
+filename = 'tiny-flowers-mc1.21.1-1.2.0+1.21.1.jar'
+name = 'Tiny Flowers'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "c93dcb792508afa7821df464d7eda9d989299d4f"
-mode = "metadata:curseforge"
+hash = 'ae1f1c7b45a3e0820504a446d381a741e2d901573f8bed2e09551b2fe35bb69dd5a7c9b3e55eba821b98b917852bd0f9125e15dbb14c56308bd65ea4ff74f106'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/S0Lqneqb/versions/FHk0ysUS/tiny-flowers-mc1.21.1-1.2.0%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6405880
-project-id = 1183435
+[update.modrinth]
+mod-id = 'S0Lqneqb'
+version = 'FHk0ysUS'

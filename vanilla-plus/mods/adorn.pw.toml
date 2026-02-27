@@ -1,13 +1,16 @@
-name = "Adorn"
-filename = "Adorn-6.1.2+1.21.1-fabric.jar"
-side = "both"
+filename = 'Adorn-6.1.2+1.21.1-fabric.jar'
+name = 'Adorn'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "30b2e89f343179d97032426687c7a6ac88505e98"
-mode = "metadata:curseforge"
+hash = 'e16a96c212fffb5f95c9a2f1cbc2cdfcc7a79c5e493111f4e3fae8a9ae9613ce692d74de3abb1ab380b345ad398b2eb0c65c48eaa6e7631939b35de45b8158b2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E6FUtRJh/versions/eOTfiVsw/Adorn-6.1.2%2B1.21.1-fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 7066169
-project-id = 320215
+[update.modrinth]
+mod-id = 'E6FUtRJh'
+version = 'eOTfiVsw'

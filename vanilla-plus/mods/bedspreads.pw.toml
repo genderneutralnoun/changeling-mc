@@ -1,13 +1,16 @@
-name = "Bedspreads"
-filename = "bedspreads-fabric-7.0.0+1.21.1.jar"
-side = "both"
+filename = 'bedspreads-fabric-7.0.0+1.21.1.jar'
+name = 'Bedspreads'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "b3b7d24f89f382ff05dba9a838922122ff4c2f2d"
-mode = "metadata:curseforge"
+hash = '34c065ee0e33a5bb3162f815167631762e94f33ed5c19527ddb85143440b68073fac4aadb3bd5d0c6da10c8e4eb6408fe6a0144374c6d636feeb6223620a161d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vNNL5mc7/versions/PB8FAt3M/bedspreads-fabric-7.0.0%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6405992
-project-id = 308653
+[update.modrinth]
+mod-id = 'vNNL5mc7'
+version = 'PB8FAt3M'

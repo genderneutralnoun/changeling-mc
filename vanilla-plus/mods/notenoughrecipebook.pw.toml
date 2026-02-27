@@ -1,13 +1,16 @@
-name = "Not Enough Recipe Book [NERB]"
-filename = "Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar"
-side = "both"
+filename = 'Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar'
+name = 'Not Enough Recipe Book [NERB]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "f7fcc3d8969f0838e32bf8dd0ed17ef46c07a655"
-mode = "metadata:curseforge"
+hash = '7809b60a7564ca518131325a9c40e5ac473f896e8c153a42db0bee7e94717cc9c428c24431645af39a9715cc45160bd03f8442e36cf7edb1a30cf31f01a47fa8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bQh7xzFq/versions/IdupyNOK/Not Enough Recipe Book-FABRIC-0.4.3%2B1.21.jar'
 
-[update]
-[update.curseforge]
-file-id = 6880049
-project-id = 738663
+[update.modrinth]
+mod-id = 'bQh7xzFq'
+version = 'IdupyNOK'

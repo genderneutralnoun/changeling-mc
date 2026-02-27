@@ -1,13 +1,16 @@
-name = "Sound Physics Remastered"
-filename = "sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
-side = "both"
+filename = 'sound-physics-remastered-fabric-1.21.1-1.5.1.jar'
+name = 'Sound Physics Remastered'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash-format = "sha1"
-hash = "07d9f758338ad5be38b7fa1eb32c71a7c4840ea0"
-mode = "metadata:curseforge"
+hash = '72c69678b6afc5ec48027f6e40f7421370dffa1483e23767e0b5f1b36581be652308b33864848e186845df9052f512b79698c69242adb297058cdc3357b64d60'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qyVF9oeo/versions/tVu2EZ4u/sound-physics-remastered-fabric-1.21.1-1.5.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7032249
-project-id = 535489
+[update.modrinth]
+mod-id = 'qyVF9oeo'
+version = 'tVu2EZ4u'

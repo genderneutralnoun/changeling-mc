@@ -1,13 +1,16 @@
-name = "Compostables"
-filename = "compostables-2.0.0.jar"
-side = "both"
+filename = 'compostables-2.0.0.jar'
+name = 'Compostables'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "6a53641732f360873f3037a67122856df3d15867"
-mode = "metadata:curseforge"
+hash = '28fb16b522d293d16690a6daf4b6fb98e0774e1a11cb767584a906079271944c73b0dd14929a77dc58581739c83575345c27a76113c8ba009c2a0cb66777c3ea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3lmTDgee/versions/RW9y1iEZ/compostables-2.0.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 5454156
-project-id = 683408
+[update.modrinth]
+mod-id = '3lmTDgee'
+version = 'RW9y1iEZ'

@@ -1,13 +1,16 @@
-name = "More Cartography Tables"
-filename = "MoreCartographyTables-1.8.2+1.21(.1)-Fabric.jar"
-side = "both"
+filename = 'MoreCartographyTables-1.8.2+1.21(.1)-Fabric.jar'
+name = 'More Cartography Tables'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "2784275934d09dfbffdeb08ec7664f4fe3a5797c"
-mode = "metadata:curseforge"
+hash = '566a195fe0eb6bce1811235f0bf94b7bb708ee66d446ef86a6a18d8bf49f82ac85298ef527a079a14aeeffa9b24c5bff5f8fe913638b52b4110e3114224725ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pEwUc4MK/versions/nXgKjwOw/MoreCartographyTables-1.8.2%2B1.21%28.1%29-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 7220048
-project-id = 1058429
+[update.modrinth]
+mod-id = 'pEwUc4MK'
+version = 'nXgKjwOw'

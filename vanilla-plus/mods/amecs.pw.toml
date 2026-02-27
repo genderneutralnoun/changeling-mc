@@ -1,13 +1,16 @@
-name = "Amecs (Fabric)"
-filename = "amecs-1.5.0+mc1.21.1.jar"
-side = "both"
+filename = 'amecs-1.5.0+mc1.21.1.jar'
+name = 'Amecs'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "c3ec8923850282e5ddf0f87593d7c9b2e2e03484"
-mode = "metadata:curseforge"
+hash = '9a3c86d9d88d6a49a17848a836a88474c7a8937ff904c0777cc8a8129f075ac721e8671b29d98c001306e94bd1077e74635ab614aa81afa83f726562319a1831'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rcLriA4v/versions/8VycPzXj/amecs-1.5.0%2Bmc1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7039211
-project-id = 324564
+[update.modrinth]
+mod-id = 'rcLriA4v'
+version = '8VycPzXj'

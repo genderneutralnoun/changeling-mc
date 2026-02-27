@@ -1,13 +1,16 @@
-name = "Magic Vibe Decorations (Crystals, Halloween)"
-filename = "magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1.jar"
-side = "both"
+filename = 'magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1.jar'
+name = 'Magic Vibe Decorations (Crystals, Halloween)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "a90274dfb92979b24118432d511c0d3e6efebb05"
-mode = "metadata:curseforge"
+hash = 'f04fedbb686652637b339ad01e4b6f8f0b4a6dd20c5fe39136840f9e00700900b87eaddd68b8137908c7ad62c35b9f4f7e084a23e773fdd2af396bb2f2136b44'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MPAgKQOE/versions/en00c0hm/magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 5837794
-project-id = 900435
+[update.modrinth]
+mod-id = 'MPAgKQOE'
+version = 'en00c0hm'

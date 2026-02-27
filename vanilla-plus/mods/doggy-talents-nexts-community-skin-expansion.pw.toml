@@ -1,0 +1,16 @@
+filename = 'DTNCommunitySkinExpansion[Fabric]-1.21.1-1.2.jar'
+name = "Doggy Talents Next's Community Skin Expansion"
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '682802617de60d6cf8703d4602589b02fbd15113cd5908baf4acbd4525ea99428387082219c42e0cba85c07ce4c1b6717e898285fbf3d4a527ba30caa5de9967'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VkScpwHM/versions/gvrYKjVF/DTNCommunitySkinExpansion%5BFabric%5D-1.21.1-1.2.jar'
+
+[update.modrinth]
+mod-id = 'VkScpwHM'
+version = 'gvrYKjVF'

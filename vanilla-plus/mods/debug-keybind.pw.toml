@@ -1,13 +1,16 @@
-name = "Debug Keybind"
-filename = "DebugKeybind-fabric-12.0.1.jar"
-side = "both"
+filename = 'DebugKeybind-fabric-12.0.1.jar'
+name = 'Debug Keybind'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "916faa2fb2868e2b0e02401a27000855b1358e62"
-mode = "metadata:curseforge"
+hash = '92ef46aab5d2a5f441164cf4d018c46a5c9b6afed6a7ac707eebeee92420a8b30c67573a717ef75bf6392e064d3790ae86872f85b52137b526eb556c70dab3b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DX9ioka8/versions/dMsGEIpM/DebugKeybind-fabric-12.0.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6337044
-project-id = 901782
+[update.modrinth]
+mod-id = 'DX9ioka8'
+version = 'dMsGEIpM'

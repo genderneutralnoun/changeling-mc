@@ -1,13 +1,16 @@
+filename = 'MoreNemosWoodcutterVariants-1.1.5+1.21.1-Fabric.jar'
 name = "More Nemo's Woodcutter Variants"
-filename = "MoreNemosWoodcutterVariants-1.1.5+1.21.1-Fabric.jar"
-side = "both"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "2fd8630bada381e321349e8166179718dd66e4af"
-mode = "metadata:curseforge"
+hash = 'c3638949b3e0369180de1eb64b8e569299bf55917e83613defb5f9f6d78de8c4d276704a42c207f06157d15b99eaaede507a41e741f5030e206fe4517f7281cd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hoNwshLV/versions/TUWA6J9E/MoreNemosWoodcutterVariants-1.1.5%2B1.21.1-Fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 6451239
-project-id = 1062068
+[update.modrinth]
+mod-id = 'hoNwshLV'
+version = 'TUWA6J9E'

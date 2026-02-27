@@ -1,13 +1,31 @@
-name = "Compost"
-filename = "compost-fabric-1.21.1-2.1.1.jar"
-side = "both"
+filename = 'compost-fabric-1.21.1-2.1.1.jar'
+name = 'Compost'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21 Pre-Release 1',
+    '1.21 Pre-Release 2',
+    '1.21 Pre-Release 3',
+    '1.21 Pre-Release 4',
+    '1.21 rc1',
+    '1.21.1',
+    '1.21.1 rc1',
+    '24w18a',
+    '24w19a',
+    '24w19b',
+    '24w20a',
+    '24w21a',
+    '24w21b'
+]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "f6adc983d94208438186f0bef1f1f0c5e77abea6"
-mode = "metadata:curseforge"
+hash = '9522c58bc605d5ef9067c59fcbffe28eefc110c461e7644e9a19ba2c21b436bda84bc0194fa319c70e0376388cf26ac5c2d723db2201307d023c57ff4d795c21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1hn9SStW/versions/jFITYQ8H/compost-fabric-1.21.1-2.1.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6895862
-project-id = 581323
+[update.modrinth]
+mod-id = '1hn9SStW'
+version = 'jFITYQ8H'

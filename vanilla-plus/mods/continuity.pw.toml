@@ -1,13 +1,16 @@
-name = "Continuity"
-filename = "continuity-3.0.0+1.21.jar"
-side = "both"
+filename = 'continuity-3.0.0+1.21.jar'
+name = 'Continuity'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c"
-mode = "metadata:curseforge"
+hash = '3601ddb50f19142c087d32525bc0afcfb5f49a2e7477b6645a98ec191218739fdf3c6ac95cd298e826eb34fc533af43bb0e78c64e51292866ecabade4d14b13a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar'
 
-[update]
-[update.curseforge]
-file-id = 5962881
-project-id = 531351
+[update.modrinth]
+mod-id = '1IjD5062'
+version = 'kSPJ4hQv'

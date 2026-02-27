@@ -1,13 +1,16 @@
-name = "Immersive Messages API"
-filename = "immersivemessages-fabric-1.0.18-1.21.1.jar"
-side = "both"
+filename = 'immersivemessages-fabric-1.0.18-1.21.1.jar'
+name = 'Immersive Messages API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "52d3f869f5ab4836485d9df4a25319d750522ef9"
-mode = "metadata:curseforge"
+hash = '5850c74db217661b005256c99e4aafd1136df20a57f1b849c0157979eea4f0f8139f2637c96d969a54529be7bb83f1e36524f8e2d91f91f917f47d3af9b6b3cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6xvrmbjn/versions/iby4yPIL/immersivemessages-fabric-1.0.18-1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6480773
-project-id = 1109713
+[update.modrinth]
+mod-id = '6xvrmbjn'
+version = 'iby4yPIL'

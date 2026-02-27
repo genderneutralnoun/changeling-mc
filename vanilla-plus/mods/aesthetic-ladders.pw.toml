@@ -1,13 +1,16 @@
-name = "Aesthetic Ladders"
-filename = "aestheticladders-1.21.1_fabric_v2.0.1.jar"
-side = "both"
+filename = 'aestheticladders-1.21.1_fabric_v2.0.1.jar'
+name = 'Aesthetic Ladders'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "0f8f8178df2a14275ff73414b1628c252a0ff54b"
-mode = "metadata:curseforge"
+hash = '0953419da31ffbf86f722975bb62ce3982fc16cdacb06734b0ad931eaef0256ee670d74a7fe55b4f811cecc4625183c1b31d59f4b433a79742326075a88388d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sMhyGakx/versions/RCEpeC36/aestheticladders-1.21.1_fabric_v2.0.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7148875
-project-id = 1251348
+[update.modrinth]
+mod-id = 'sMhyGakx'
+version = 'RCEpeC36'

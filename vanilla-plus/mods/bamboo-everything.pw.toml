@@ -1,13 +1,16 @@
-name = "Bamboo Everything"
-filename = "bambooeverything-fabric-21.1.2+mc1.21.1.jar"
-side = "both"
+filename = 'bambooeverything-fabric-21.1.2+mc1.21.1.jar'
+name = 'Bamboo Everything'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "a3cac0ddd69fbc02b8959d4f023c33de26c294d8"
-mode = "metadata:curseforge"
+hash = '09ace9159d6b8ac403ecfe29c8eb5acc155ea32d9604c53c16679898875744f81ac575b32678d7ead0b668f578cf4cac8a8af758ca765ee23ac2255b49fb49cc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cpRkny9R/versions/HcKQHchZ/bambooeverything-fabric-21.1.2%2Bmc1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7170710
-project-id = 331723
+[update.modrinth]
+mod-id = 'cpRkny9R'
+version = 'HcKQHchZ'

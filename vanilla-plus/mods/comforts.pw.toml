@@ -1,13 +1,16 @@
-name = "Comforts"
-filename = "comforts-fabric-9.0.4+1.21.1.jar"
-side = "both"
+filename = 'comforts-fabric-9.0.4+1.21.1.jar'
+name = 'Comforts'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "824926718c6fca399efc8635e108e01927ea0d98"
-mode = "metadata:curseforge"
+hash = '095d6f795722408fe8e6a7eef7bc27f0c52fd445ab33fe85e210f434eabe2b094140004a6be127e5e01abe7b0af66be0cd27e54000c91ce7a30b9c780771e898'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SaCpeal4/versions/lsjaY4WO/comforts-fabric-9.0.4%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6559907
-project-id = 276951
+[update.modrinth]
+mod-id = 'SaCpeal4'
+version = 'lsjaY4WO'

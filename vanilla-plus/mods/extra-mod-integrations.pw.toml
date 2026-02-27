@@ -1,13 +1,16 @@
-name = "EMI Extra Integrations"
-filename = "extra-mod-integrations-all-fabric-1.0.3+1.21.1.jar"
-side = "both"
+filename = 'extra-mod-integrations-all-fabric-1.0.3+1.21.1.jar'
+name = 'EMI Addon: Extra Mod Integrations'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "fae672b7508d9196df9f437173aee0979293117e"
-mode = "metadata:curseforge"
+hash = 'b82c04a01659ff594f8c843af986839791cb6dc2581e7eed80768a86ed7e3093403428735ec12040c48263b8a5ccdd99f80deab2fcea1e9fd731d537ff2be0f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bpRHnWUb/versions/YCTD39C5/extra-mod-integrations-all-fabric-1.0.3%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 6939680
-project-id = 739970
+[update.modrinth]
+mod-id = 'bpRHnWUb'
+version = 'YCTD39C5'

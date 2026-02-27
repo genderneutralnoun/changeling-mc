@@ -1,13 +1,16 @@
-name = "Basic Storage"
-filename = "basicstorage-1.2.1+1.21.1.jar"
-side = "both"
+filename = 'basicstorage-1.2.1+1.21.1.jar'
+name = 'Basic Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "bbb010c24ef6a36c3e593b1a5777f278c5e1af9f"
-mode = "metadata:curseforge"
+hash = '35d1970175be3894b05a2627d89326cb428dd4f3df0f1c6ed7afc811552fc73a038b9c780bf3a3deade5ee7acd7c9ca3878f3411bea4f0f23145045a917c654a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NMOanmPo/versions/ylHKs1Xs/basicstorage-1.2.1%2B1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7249070
-project-id = 1054506
+[update.modrinth]
+mod-id = 'NMOanmPo'
+version = 'ylHKs1Xs'

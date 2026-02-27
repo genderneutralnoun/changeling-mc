@@ -1,13 +1,16 @@
-name = "Colorful Hearts"
-filename = "colorfulhearts-fabric-1.21.1-10.5.9.jar"
-side = "both"
+filename = 'colorfulhearts-fabric-1.21.1-10.5.9.jar'
+name = 'Colorful Hearts'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "1cdab0ba524700fc04d52a2efe89d5aa3bc90a07"
-mode = "metadata:curseforge"
+hash = 'f59587165a627457f9ebd9a2b97dabbcee1b59c4a06a3407a809852340f817e38b3b3516c4bc37b5957d6ee9aa08c432b6a9011000d67ebaa0707ef9bb45e2ca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wQfMUdZT/versions/ZGVfx1WG/colorfulhearts-fabric-1.21.1-10.5.9.jar'
 
-[update]
-[update.curseforge]
-file-id = 6830398
-project-id = 854213
+[update.modrinth]
+mod-id = 'wQfMUdZT'
+version = 'ZGVfx1WG'

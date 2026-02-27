@@ -1,13 +1,16 @@
-name = "Entity Culling Fabric/Forge"
-filename = "entityculling-fabric-1.9.3-mc1.21.1.jar"
-side = "both"
+filename = 'entityculling-fabric-1.9.3-mc1.21.1.jar'
+name = 'EntityCulling'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha1"
-hash = "f2b94ee52789bb0c50bc28030269a232e354a176"
-mode = "metadata:curseforge"
+hash = 'f06043d1130598e504659babe31c16e8912808840e1380aed5ca946ca9ea4effc992ad4f545b6979d6e3a7f39d27b9d4ac0febf02f91c4e0a69d253533f583bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NNAgCjsB/versions/K4vXrboK/entityculling-fabric-1.9.3-mc1.21.1.jar'
 
-[update]
-[update.curseforge]
-file-id = 7167810
-project-id = 448233
+[update.modrinth]
+mod-id = 'NNAgCjsB'
+version = 'K4vXrboK'
