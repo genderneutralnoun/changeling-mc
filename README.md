@@ -1,0 +1,1 @@
+This is a repository for a few private Minecraft modpacks. They're all quite sloppily done, so while you're free to take inspiration or whatever, I wouldn't reccommend it.
