@@ -1802,11 +1802,6 @@ hash = "63865d61af37be86e16508b6a514874ccd004301b5e6cf4d510e9f8a831f4d87"
 metafile = true
 
 [[files]]
-file = "mods/accessible-step.pw.toml"
-hash = "cebb6cd3d1f0365f84d41cfc898395b8be89c24f675fd3fdb7f8c63e2a0c0366"
-metafile = true
-
-[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "625b031835f92dc488ceadc8c8b04498b14e7c094a137614cd3813dd26d10193"
 metafile = true
@@ -2807,11 +2802,6 @@ hash = "4e56446755de39f990541c75b8759edebbf345c77929566c4c02b4a3dc1b28f8"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "30d1c0ac5a0e4afb44b22d1ffca10651fa31ec9b84306bfd1b5679da1bab4b9d"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "4eb2893e0995e524464ee59f3d9accc908b239798cbf453766af17de6c9b5552"
 metafile = true
@@ -3184,6 +3174,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "4e0e919ffac2f0f410bf7635791f3ab106e74d5323389c29ebb84ac453b0cd0f"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]
