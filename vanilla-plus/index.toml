@@ -934,11 +934,6 @@ hash = "e46c2e926645ce98c311039c1ce9285bbdff77a66c776ff05c41bda0a8f451c5"
 metafile = true
 
 [[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "bba477873975812f8895f4ef52b8f8a363119905845251ef75ceb5acd672db2b"
-metafile = true
-
-[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "78c1dac7b1e611921d37d284cefe68e1687f69ec35fce037a4869169f2f24afa"
 metafile = true
@@ -986,11 +981,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "9184ba17817b64719a52699c469fec5ae7daf7f7044d48670d076ae477e3bc28"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "518bfd8e2f1bd192d424dca547f4b602fffd30cbd30eb55973225282212a6b89"
 metafile = true
 
 [[files]]
@@ -1330,7 +1320,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-mobs.pw.toml"
-hash = "a68f564a7f28119f68fe32b7e997564fcfbf5d008087a3385f106b5b9b70d9f7"
+hash = "f62538a622191a234f3febc6dbc22883c39775229b5607aa6e27f871de127ecf"
 metafile = true
 
 [[files]]
