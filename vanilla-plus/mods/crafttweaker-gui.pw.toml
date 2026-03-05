@@ -1,0 +1,16 @@
+filename = 'ctgui-fabric-1.21.1-0.3.0.jar'
+name = 'CraftTweaker GUI'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ee1ff8d5b85609a14a84d6cf8d2d813afa9baa5b311f854f320dfcbd7e36836bc0b9828d77cd66a827f1535ae576e3d97520be6b92bf2457626709903aa95c8e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FPG0nezA/versions/iSsXjIke/ctgui-fabric-1.21.1-0.3.0.jar'
+
+[update.modrinth]
+mod-id = 'FPG0nezA'
+version = 'iSsXjIke'
