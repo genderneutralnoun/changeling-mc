@@ -1,6 +1,6 @@
 filename = 'geofont-mc-v2.1.3.zip'
 name = 'Geometric Font 2'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.13',

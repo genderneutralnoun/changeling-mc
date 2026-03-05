@@ -1,6 +1,6 @@
 filename = "xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip"
 name = "xali's Enhanced Vanilla"
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.13',

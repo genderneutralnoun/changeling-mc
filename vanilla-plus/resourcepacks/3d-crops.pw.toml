@@ -1,6 +1,6 @@
 filename = 'crops-3d.zip'
 name = '3D crops Revamped'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.10',

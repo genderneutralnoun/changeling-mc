@@ -1,6 +1,6 @@
 filename = 'Better-Leaves-9.5.zip'
 name = "Motschen's Better Leaves"
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.20',

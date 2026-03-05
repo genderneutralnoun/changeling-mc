@@ -1,6 +1,6 @@
 filename = "REVIVED_Farmer's Delight_crops_3D_Refabricated_R1.5-1.20.x.zip"
 name = "REVIVED Farmer's Delight crops 3D Refabricated"
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'

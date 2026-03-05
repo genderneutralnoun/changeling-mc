@@ -1,6 +1,6 @@
 filename = 'DiagonalPerfectRails2.1.zip'
 name = 'Diagonal Perfect Rails 3D PBR'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.20',

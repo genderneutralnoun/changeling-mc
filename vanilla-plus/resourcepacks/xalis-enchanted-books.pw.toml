@@ -1,6 +1,6 @@
 filename = "xali's enchanted book v1.0.0.zip"
 name = "xali's Enchanted Books"
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.13',

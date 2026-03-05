@@ -1,6 +1,6 @@
 filename = 'Clean_Connected_Glass(1.20_fix_with_DiagonalWindows_mod).zip'
 name = 'Clean Connected Glass(DiagonalWindows Patch)'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.20',

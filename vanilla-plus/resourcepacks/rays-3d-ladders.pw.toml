@@ -1,6 +1,6 @@
 filename = "§9RAY's §f3D §6Ladders§8§o§k.zip"
 name = "RAY's 3D Ladders"
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.13',

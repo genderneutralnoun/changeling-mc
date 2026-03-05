@@ -1,6 +1,6 @@
 filename = 'DTNxNW-1.6.zip'
 name = 'Doggy Talents Next X New Wolves'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.18.2',

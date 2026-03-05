@@ -1,6 +1,6 @@
 filename = 'Bushier Fragrance.zip'
 name = 'Bushier Fragrance'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.19.2', '1.19.2', '1.20.1', '1.20.1', '1.20.2', '1.20.2', '1.20.3', '1.20.3', '1.20.4', '1.20.4' ]
 x-prismlauncher-release-type = 'release'
