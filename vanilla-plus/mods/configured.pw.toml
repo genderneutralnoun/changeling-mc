@@ -1,4 +1,4 @@
-filename = 'configured-fabric-1.21.1-2.6.3.jar'
+filename = 'configured-fabric-1.21.1-2.6.2.jar'
 name = 'Configured'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,10 +6,10 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7d1f43eb143c528e2431d8dcaf2e3007837ddf08'
+hash = '9d8687122bbbee943576b0a9dba341e0c44bd12d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 
 [update.curseforge]
-file-id = 7276575
+file-id = 7122913
 project-id = 457570

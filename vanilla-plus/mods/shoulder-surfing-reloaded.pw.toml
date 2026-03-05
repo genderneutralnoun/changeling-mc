@@ -1,4 +1,4 @@
-filename = 'ShoulderSurfing-Fabric-1.21.1-4.17.1.jar'
+filename = 'ShoulderSurfing-Fabric-1.21.1-4.16.1.jar'
 name = 'Shoulder Surfing Reloaded'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '8207dd4780a3d0f5fda4831f2487656ff5f757e205cdac12dfd91d589066be41e75dfbfe7be7c49866581ddbed27e5320001b21bf31d68f7044e890535e3d295'
+hash = '23c72431f1f8d11e8fa59fbbb6d8409826c862843e4b95d966ef4a51f47ab50d7bc5d47062fb734a3dfc6c937780e8aa51e7783dfd9653fadccb68933e61ac3d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kepjj2sy/versions/QNRxJsgA/ShoulderSurfing-Fabric-1.21.1-4.17.1.jar'
+url = 'https://cdn.modrinth.com/data/kepjj2sy/versions/57Z0UVSh/ShoulderSurfing-Fabric-1.21.1-4.16.1.jar'
 
 [update.modrinth]
 mod-id = 'kepjj2sy'
-version = 'QNRxJsgA'
+version = '57Z0UVSh'

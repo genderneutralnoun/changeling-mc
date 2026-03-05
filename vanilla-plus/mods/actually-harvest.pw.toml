@@ -1,4 +1,4 @@
-filename = 'actuallyharvest-1.21.1-1.1.6.2-FABRIC.jar'
+filename = 'actuallyharvest-1.21.1-1.1.6.1-FABRIC.jar'
 name = 'ActuallyHarvest'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7682ee2d877ce9522ea4936a0fb02ec0c09fe5b7e125848b7444e9884c19be345a2d7ab67706e666ab90300e472c054c4a8a65136ba534f08c6510bd423c5991'
+hash = 'fc8ba862c33a1e70955d847cfcc1016f2af99c60b9424d06c91f6e0b7fde7910906ed8eff4a74dbbb036a83d0c833750384aa1a403b926fafe6259c148df0c7b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/sUbuUC7R/versions/nHa9DUlW/actuallyharvest-1.21.1-1.1.6.2-FABRIC.jar'
+url = 'https://cdn.modrinth.com/data/sUbuUC7R/versions/1gxG87qR/actuallyharvest-1.21.1-1.1.6.1-FABRIC.jar'
 
 [update.modrinth]
 mod-id = 'sUbuUC7R'
-version = 'nHa9DUlW'
+version = '1gxG87qR'

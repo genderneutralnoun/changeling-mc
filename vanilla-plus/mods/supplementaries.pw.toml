@@ -1,4 +1,4 @@
-filename = 'supplementaries-1.21-3.5.10-fabric.jar'
+filename = 'supplementaries-1.21-3.4.20-fabric.jar'
 name = 'Supplementaries'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '4677ff19670bd56f1766331ffa2d9a8e2cf2a2f33d803c9740cabb0bb04318e31d321cb867f40aa423cd9b4a6fbdb50faeefe0f57ee2a1e3df52adb481823b0d'
+hash = '3b3c319296daa553259c6c58aaa41666f8bcd9a0e41282f37f22907d27882751015bfba580618237153b24c13fe85e0fed165194b83a915355ba05e4dcb8f99e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/UO88Q0Ai/supplementaries-1.21-3.5.10-fabric.jar'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/DGhfsUAq/supplementaries-1.21-3.4.20-fabric.jar'
 
 [update.modrinth]
 mod-id = 'fFEIiSDQ'
-version = 'UO88Q0Ai'
+version = 'DGhfsUAq'
