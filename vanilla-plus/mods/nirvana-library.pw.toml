@@ -1,0 +1,16 @@
+filename = 'Nirvana Lib-fabric-1.21.1-2.0.17.jar'
+name = 'Nirvana Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e9b96e6c9ac8fa8b69ff6b834ebc0881b5941382d2a2dc61c4d6e89ba6087dcb4618fd4c7b3a18f8f0eb8275dc30723df20305963077af833e87603e91466801'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6gKEW2ql/versions/ZOkRjHGT/Nirvana Lib-fabric-1.21.1-2.0.17.jar'
+
+[update.modrinth]
+mod-id = '6gKEW2ql'
+version = 'ZOkRjHGT'

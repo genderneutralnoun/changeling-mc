@@ -1,0 +1,16 @@
+filename = 'Sparkweave-Fabric-0.510.0.jar'
+name = 'Sparkweave Engine'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2cff91a530266880bc2160927b0a69c70b0803bd130ddafc4d6064ff300e664f9f4d9f547051001ad57169c19cb1a749613d6e8a93936f7a43be4b6022f32a1b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nf68xfAw/versions/UQuUW6MR/Sparkweave-Fabric-0.510.0.jar'
+
+[update.modrinth]
+mod-id = 'nf68xfAw'
+version = 'UQuUW6MR'

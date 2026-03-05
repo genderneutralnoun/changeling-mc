@@ -1,0 +1,16 @@
+filename = 'MoreFurnaceVariants-1.0.3+1.21-Fabric.jar'
+name = 'More Furnaces Variants'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0fc2ab87c4eeea9be61d3ecdb187b5bf2fecd942b20e6382553b04ee9a5df345b7a21224e9935b99819983bbb6826ceb0ca6835417f4a0b11ec55cc8968222cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aFKTqsnr/versions/Ks6oEPuf/MoreFurnaceVariants-1.0.3%2B1.21-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'aFKTqsnr'
+version = 'Ks6oEPuf'

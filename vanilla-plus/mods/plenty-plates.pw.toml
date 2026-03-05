@@ -1,0 +1,16 @@
+filename = 'PlentyPlates-v21.1.0-1.21.1-Fabric.jar'
+name = 'Plenty Plates'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4dcf17c8f9b6ce7227f86939d65cf51aede50b2f52fd7be843fcaf2c077fae7ceacb80f4e533bea66a588c0dcf9ee8652e1175fcedf052bf1b8ce9dee0e8b826'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VmcdxJxh/versions/7CbAiUp3/PlentyPlates-v21.1.0-1.21.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'VmcdxJxh'
+version = '7CbAiUp3'

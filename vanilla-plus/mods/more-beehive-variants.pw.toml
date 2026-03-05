@@ -1,0 +1,16 @@
+filename = 'MoreBeehiveVariants-1.2.1+1.21.1-Fabric.jar'
+name = 'More Beehive Variants'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '02c61082ea54bb91c62800bc17eb5f2241fa8532bcacb5d40d7b726a85ad553adb3e9e67c979562ba99254f4207241f760eb2a06a2af10eef3845aaa91949160'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/evbwy51Z/versions/2fam7fY0/MoreBeehiveVariants-1.2.1%2B1.21.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'evbwy51Z'
+version = '2fam7fY0'
