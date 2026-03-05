@@ -3177,11 +3177,6 @@ hash = "4e0e919ffac2f0f410bf7635791f3ab106e74d5323389c29ebb84ac453b0cd0f"
 metafile = true
 
 [[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
-metafile = true
-
-[[files]]
 file = "mods/nemos-woodcutter.pw.toml"
 hash = "8d1ad3497f2e9fd50fb5465b0784c75ba538544d4a5051e33fb897cbde0b51e6"
 metafile = true
