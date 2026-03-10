@@ -1,9 +1,9 @@
 filename = 'justenoughbreeding-fabric-1.21-1.21.1-1.6.2.jar'
 name = 'Just Enough Breeding (JEBr)'
 side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '99d9a7fd6c3503a17635769f8d8bad7ed52a4b74748f95a2c459c3a0b6d229dee700b402dd81be4ff540b6c653f7113df7fb13a61dd55e7898fa163efaf6d331'

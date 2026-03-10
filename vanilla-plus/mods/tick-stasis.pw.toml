@@ -1,8 +1,8 @@
 filename = 'tick-stasis-1.1.1.jar'
 name = 'Tick Stasis'
 side = 'server'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [
     '1.14',
     '1.14 Pre-Release 1',
     '1.14 Pre-Release 2',
@@ -334,7 +334,7 @@ x-prismlauncher-mc-versions = [
     '24w35a',
     '3D Shareware v1.34'
 ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '346fae7e0f1a62636525a9331643ac4343b781c240db6ef9bafe1b3a295d24d131d2b4b20cef8edc33835e9069fcaf1c2e2b3ce9ced9a2ec6e4e3d82770f52c6'

@@ -1,9 +1,9 @@
 filename = 'MoreVariants.jar'
 name = "Mo' Variants"
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9508e85159ef85010f6838a22ae0e1a1e3ccaa9af5a9feaf65880d99362c9183490eb61d4be07216d0bc1f7be97d3e887f6301dcf43d94764c715e44ba307fe1'

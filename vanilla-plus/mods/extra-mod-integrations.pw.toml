@@ -1,9 +1,9 @@
 filename = 'extra-mod-integrations-all-fabric-1.0.3+1.21.1.jar'
 name = 'EMI Addon: Extra Mod Integrations'
 side = 'client'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'b82c04a01659ff594f8c843af986839791cb6dc2581e7eed80768a86ed7e3093403428735ec12040c48263b8a5ccdd99f80deab2fcea1e9fd731d537ff2be0f9'

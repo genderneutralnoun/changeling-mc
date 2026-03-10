@@ -1,9 +1,9 @@
 filename = 'MoreChiseledBookshelfVariants-1.7.3+1.21(.1)-Fabric.jar'
 name = 'More Chiseled Bookshelf Variants'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '6fe3e546c956a6a549096271382a597e9dab5337e8936d95457d9511e3be05dcc2ffaa0f1d20f505d1fa4ff678735a5b2afed38a19acc1b6f35a892e2d4df7da'

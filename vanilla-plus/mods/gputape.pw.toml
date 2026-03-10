@@ -1,8 +1,8 @@
 filename = 'GpuTape-1.18x-1.21x-1.0.5.1.jar'
 name = 'GPUBooster'
 side = 'client'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [
     '1.18',
     '1.18.1',
     '1.18.2',
@@ -24,7 +24,7 @@ x-prismlauncher-mc-versions = [
     '1.21.3',
     '1.21.4'
 ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9b38e8702d6a99569c4d6e83e748294bd5579cf7044c21d68db5151f8a57195d272c85747fe8f9a26a411cc663555738fe932314f18d9ba05d3af7db5e1c959b'

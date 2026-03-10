@@ -1,9 +1,9 @@
 filename = 'explorations-fabric-1.21.1-1.6.2.jar'
 name = 'Explorations'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0b8e58067635370026ba70917f5d6770d2f9d18ec9344facde8e50f8df0afe52ffe1f0d962136b62fd170792cb20a5c66293e80d6a2ef55a231830b68d4b9f43'

@@ -1,9 +1,9 @@
 filename = 'chatpatches-8.0-alpha.6+1.21.1-fabric.jar'
 name = 'Chat Patches'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'alpha'
 
 [download]
 hash = '1edc17559a3cdbbc5cf4c9c219426dc25deca3c55d11cc28e300f8f6814827973d6c229bb8cc342fbea70d69c812409af9b1d48bafe598b157983c882ca83df3'

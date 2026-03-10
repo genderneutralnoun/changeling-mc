@@ -1,9 +1,9 @@
 filename = 'immersivemessages-fabric-1.0.18-1.21.1.jar'
 name = 'Immersive Messages API'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '5850c74db217661b005256c99e4aafd1136df20a57f1b849c0157979eea4f0f8139f2637c96d969a54529be7bb83f1e36524f8e2d91f91f917f47d3af9b6b3cb'

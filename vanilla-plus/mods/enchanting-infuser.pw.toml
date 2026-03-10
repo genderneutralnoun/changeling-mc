@@ -1,9 +1,9 @@
 filename = 'EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar'
 name = 'Enchanting Infuser'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'a137119b4a90b8de1205301167d9e73e80b1efa8ee5ade0291a09c7a2fada5938bd507a9d206344f483804d2424bd03059af8f70bd53a57f6409ee51ae87d5b8'

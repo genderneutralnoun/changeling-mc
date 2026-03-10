@@ -1,9 +1,9 @@
 filename = 'MoreFeedingTroughVariants-1.2.0+1.21(.1)-Fabric.jar'
 name = 'More Feeding Trough Variants'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '8e9ff67eefdbeeea933365f5c05214284571b179779d73fe9ed0772623d27454a79bf41cd564b739edf383a5a64bc40d31e4394e2c9f6737dcb939e5b4ca1f77'

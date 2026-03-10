@@ -1,9 +1,9 @@
 filename = 'XaeroPlus-2.29.1+fabric-1.21.1-WM1.39.12-MM25.2.10.jar'
 name = 'XaeroPlus'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'b826dd8cb60fab1ca3f9f6e42b4c9315b336ea64a0f85bb88e60a447370851058c1cab88f8656ded77274135085dfdf9fb171f0cb793d0d51d328945dbf46869'

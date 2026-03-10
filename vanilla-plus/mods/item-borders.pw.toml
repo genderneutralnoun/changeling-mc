@@ -1,9 +1,9 @@
 filename = 'ItemBorders-1.21-fabric-1.2.5.jar'
 name = 'Item Borders'
 side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'e34801c50c8bfb15987d2283524882f661cb30178e17d63ed941f363b240ba4dcf5bdccd1cc0e32b470803aadf670ef74bd4e3b1bf412bbdb32adbdc012213e9'

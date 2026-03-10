@@ -1,59 +1,13 @@
-filename = 'EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar'
-name = 'Euphoria Patcher'
-side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
-    '1.14',
-    '1.14.1',
-    '1.14.2',
-    '1.14.3',
-    '1.14.4',
-    '1.15',
-    '1.15.1',
-    '1.15.2',
-    '1.16',
-    '1.16.1',
-    '1.16.2',
-    '1.16.3',
-    '1.16.4',
-    '1.16.5',
-    '1.17',
-    '1.17.1',
-    '1.18',
-    '1.18.1',
-    '1.18.2',
-    '1.19',
-    '1.19.1',
-    '1.19.2',
-    '1.19.3',
-    '1.19.4',
-    '1.20',
-    '1.20.1',
-    '1.20.2',
-    '1.20.3',
-    '1.20.4',
-    '1.20.5',
-    '1.20.6',
-    '1.21',
-    '1.21.1',
-    '1.21.10',
-    '1.21.2',
-    '1.21.3',
-    '1.21.4',
-    '1.21.5',
-    '1.21.6',
-    '1.21.7',
-    '1.21.8',
-    '1.21.9'
-]
-x-prismlauncher-release-type = 'release'
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"
+side = "client"
 
 [download]
-hash = 'e6f14390e8063ae751ea4a5a52c551ef1b95fb2668aab64cc2c061998dff512c4844b3593d45340cd0db395efbfc3ede401111d5ea23ff114315d8c7f4e4fc86'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/3Xavpohp/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar'
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/pI6g9nqi/EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"
+hash-format = "sha512"
+hash = "f2294cbb72d9972434e56a18eb37b16b1bd03eeb7bdb5562be1e2db755791a04e78ef8ea01944df91cd5716fbe773fd8f5605c8f7c4d3f926ee96cb11a323acb"
 
+[update]
 [update.modrinth]
-mod-id = '4H6sumDB'
-version = '3Xavpohp'
+mod-id = "4H6sumDB"
+version = "pI6g9nqi"

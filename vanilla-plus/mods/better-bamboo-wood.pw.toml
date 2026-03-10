@@ -1,9 +1,9 @@
 filename = 'better-bamboo-wood-4.jar'
 name = 'Better Bamboo Wood'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '3f1083f8c2965f0b1fdf9f04a617f36848a6460e944df324ebf4550b155f90ce31ad4c660602895e3ee5f0e510ea41b3353039c853f99ca8239a71632ba635e6'

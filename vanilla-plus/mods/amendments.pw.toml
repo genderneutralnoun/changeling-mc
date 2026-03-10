@@ -1,9 +1,9 @@
 filename = 'amendments-1.21-2.0.9-fabric.jar'
 name = 'Amendments'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'fb43e3ae2ea50eaf8d24d61f71d60ccb343c1611a5553af89207837722c5fe7c5114a24043345ccbdce3aacd3f00bd1099d2d897e8970c26cdadc00e64568838'

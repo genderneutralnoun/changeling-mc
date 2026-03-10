@@ -1,8 +1,8 @@
 filename = 'compost-fabric-1.21.1-2.1.1.jar'
 name = 'Compost'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [
     '1.21',
     '1.21 Pre-Release 1',
     '1.21 Pre-Release 2',
@@ -18,7 +18,7 @@ x-prismlauncher-mc-versions = [
     '24w21a',
     '24w21b'
 ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9522c58bc605d5ef9067c59fcbffe28eefc110c461e7644e9a19ba2c21b436bda84bc0194fa319c70e0376388cf26ac5c2d723db2201307d023c57ff4d795c21'

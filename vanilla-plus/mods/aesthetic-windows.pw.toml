@@ -1,9 +1,9 @@
 filename = 'aestheticwindows-1.21.1_fabric_v2.0.0.jar'
 name = 'Aesthetic Windows'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'cfdf070fd40a53c85680b7ab4f133ddf2623dbba692a50ad10f650920fdd6322f239dbc9921e1c2d1d0fb2668455306b9fdb4465beafd74f519a1c26d0edb51d'

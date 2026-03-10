@@ -1,9 +1,9 @@
 filename = 'smoothswapping-0.9.3.1-1.21.1-fabric.jar'
 name = 'Smooth Swapping'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = 'd1e4dc6a6aef03a12e8033e464ed336820b15a48f0977b12fcf316fbdf9a7ac156269e683ce97e287b90cc13d9116cb76686304f1ba99eba28a45a44273d96ab'

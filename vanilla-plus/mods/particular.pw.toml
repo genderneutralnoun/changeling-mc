@@ -1,9 +1,9 @@
 filename = 'particular-1.1.2+1.21.jar'
 name = 'Particular ✨'
 side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = 'fc1c85f5bfd1913b9c6a43b5630a369ffed0bfac143680d28597d3561d14f9c45465d2a74b464e5a52696547b9954db30680a1839c491d0ff81c238091a88ad6'

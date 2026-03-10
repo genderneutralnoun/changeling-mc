@@ -1,9 +1,9 @@
 filename = 'convenient-mobgriefing-2.1.2.jar'
 name = 'Convenient mobGriefing'
 side = 'server'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '3b2a8f39906f3e4da65ff5d3a22580ba429534892b9c75cb3f88a0b33fb9b52c2ea78eb21952f6f1f0b47fb5bf17385470c029c6d69b9e769540ed44a7edf6d6'

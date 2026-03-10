@@ -1,9 +1,9 @@
 filename = 'NetherChested-v21.1.1-1.21.1-Fabric.jar'
 name = 'Nether Chested'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9d03e97700e0894ef56ab12a5a4311c22f1bafd666393cffee2213838609d102082f1b934e51ca7bd664e58db4cf901629b6b71694d79435540c7cdd3729513a'

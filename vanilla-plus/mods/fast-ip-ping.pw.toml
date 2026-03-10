@@ -1,9 +1,9 @@
 filename = 'fast-ip-ping-v1.0.7-mc1.21.1-fabric.jar'
 name = 'Fast IP Ping'
 side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '463d5beac77e17828c609f6a8beba39e6a00a668d29f32aa93dab60a8f6bd56b372bcf83569741698d2efce472fec4e2b6a45e3f41407ef70d1b2b71d3fadcda'

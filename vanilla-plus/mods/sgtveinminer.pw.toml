@@ -1,9 +1,9 @@
 filename = 'Veinminer-fabric-3.0.2+mc1.21.1.jar'
 name = 'Veinminer'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '42eff41e6df75addda6907dcf5c7540c0d022618bd3e3d74ab8de28ca0c07b05cbe6cdc5ee31d4e96385638584564f04fb70bdc669742a6a000a4fd4730f9286'

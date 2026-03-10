@@ -1,9 +1,9 @@
 filename = 'pneumonocore-1.2.0+1.21.1.jar'
 name = 'PneumonoCore'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '4a54348740bcdd3302346f868328fb6aa379c35bf76ea5493c56ce6386079d25c56c3e6f8d8154a25d030806f693e25ada8267d1262460010251b95d86fc6e99'

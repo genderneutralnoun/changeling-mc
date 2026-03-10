@@ -1,9 +1,9 @@
 filename = 'another_furniture-fabric-4.0.0.jar'
 name = 'Another Furniture'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'e525135d24143fb0185c25360c26ebaebeccb3cfabb97b1e125e3c7fc3ebb50db3629739db6a07f7b42808bfdb7b85103f86fe613f4c2fbb6937ed225d9e40f3'

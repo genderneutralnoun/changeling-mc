@@ -1,9 +1,9 @@
 filename = 'moonlight-1.21-2.26.6-fabric.jar'
 name = 'Moonlight Lib'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'cdb7f7400db0a09f3614cd6abbc642b45e39f5407fd05d104bb80e11b4e86caa51b8309abbfb250ead759f905b853d58bc552137f9d1d777dade2dda95adaaf9'

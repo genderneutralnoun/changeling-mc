@@ -1,9 +1,9 @@
 filename = 'bl_accessories_layer-1.0.4-fabric+1.21.1.jar'
 name = 'Beltborne Lanterns: Accessories Layer'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = '164faef4562cb3cbb47ccebb9fc3c4dad3cc2dfba517643211e6c44577a54e3d8719970f0a7a3d2e106a9cb98e45f7005224da304588a35805932d68ec353c0a'

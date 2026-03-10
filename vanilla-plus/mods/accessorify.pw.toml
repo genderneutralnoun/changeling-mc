@@ -1,9 +1,9 @@
 filename = 'accessorify-2.3.5+1.21.1.jar'
 name = 'Accessorify'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'fdd97b48f3e62943da7b82fe7c7f546b6113cc157ddf8e0707422722a49c3690b13da8238a52b85cb5e9146b30e61ad87b4055d3121c8b55e95143aa8b913876'

@@ -1,9 +1,9 @@
 filename = 'MoreCrafterVariants-1.0.0+1.21-Fabric.jar'
 name = 'More Crafter Variants'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '28c7d15a65b90428c969e8e57122d44005f6cd68dff527788a2198e1a72cf3d5dc429c9b0b30a3a7cd54f2f83e63c11ea743d3075fd1b7a4e8faa1f8bb353a80'

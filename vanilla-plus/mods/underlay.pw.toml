@@ -1,9 +1,9 @@
 filename = 'underlay-1.21-v0.9.8.jar'
 name = 'Underlay'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '56e2ae70822efb9259ea88bd70d5bd308c9484ff8281a5d349d9eb2bf64960519a84612607176abfc5a1bdc9e2051d16216554b00458e9843f72f141253bb0df'

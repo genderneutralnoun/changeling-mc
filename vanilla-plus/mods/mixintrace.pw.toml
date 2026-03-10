@@ -1,8 +1,8 @@
 filename = 'mixintrace-1.1.1+1.17.jar'
 name = 'MixinTrace'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [
     '1.17',
     '1.17.1',
     '1.18',
@@ -23,7 +23,7 @@ x-prismlauncher-mc-versions = [
     '1.21',
     '1.21.1'
 ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'ea9034b60bc1c64629a9bcad2e619907692fe6e7464026236c55cc5a4892a20d21dd6318ad0380ab2ec245f7077939b6717d2ed58e00708c17470be14f5e0b5f'

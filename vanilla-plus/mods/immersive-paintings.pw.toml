@@ -1,9 +1,9 @@
 filename = 'immersive_paintings-fabric-1.21.1-0.7.4.jar'
 name = 'Immersive Paintings'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '79aa433fd4c41cfa9fde6af593a35a70329e26e99d63554762249e0fc3144af82c10aec542a6349883ca8e0b5f6b7ba81fc304bd35070145d5e60aff8c31a50c'

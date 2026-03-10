@@ -1,9 +1,9 @@
 filename = 'smsn-fabric-1.3.4-1.21.1.jar'
 name = 'Save My Shit Network'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'a4d1f43006dd263d5b1a8d0350c92d422dc0571d1bc78db53714d67d75c293bf718d9ff55205032410f378d7372fc75756eb46be5df0a50b8ebc0b2e9d1a9954'

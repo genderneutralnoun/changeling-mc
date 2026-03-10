@@ -1,9 +1,9 @@
 filename = 'cyclepaintings-1.21.1-4.1.jar'
 name = 'Cycle Paintings'
 side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0129d073d9e8c40066335db2cf63bc99f632f2dd82e9dd600e89df07b33a4c9c276c4103cb5a365db32a830e7e6741781f41d73042b34cb102ce6a4b3ca357a9'

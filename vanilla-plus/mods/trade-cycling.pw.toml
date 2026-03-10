@@ -1,9 +1,9 @@
 filename = 'trade-cycling-fabric-1.21.1-1.0.18.jar'
 name = 'Trade Cycling'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = '164a6720a6942e5e224a4bca56fc20cbee4e002e8ee272bcd4d6bf56595afb49981e1a0937271e282a1f1b2d3b43d3caa7f57b9805f3c61c55b7405de63c7a00'

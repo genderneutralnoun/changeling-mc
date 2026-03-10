@@ -1,9 +1,9 @@
 filename = 'convenientdecor-0.4.3.jar'
 name = 'Convenient Decor'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'alpha'
 
 [download]
 hash = '9963b8a771aee6d25dbbb3f2a8ee19ab479ff9b7dd268a68a7f249506f02d90661882d631d36d82c0ec028fc0f2269f63aa2241687c4b2d8cd1eec4df0cc2fd8'

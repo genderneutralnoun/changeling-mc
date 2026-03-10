@@ -1,9 +1,9 @@
 filename = 'immersivetips-fabric-1.0.2-1.21.1.jar'
 name = 'Immersive Tips'
 side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '601a3b8e04a3d6f56f0c59333be71545462af17bbe1eccbe6f139c7e01e8d564668dd80fb41bd4bf900366460cc0257959981227514ea735139b0c74a5292b2e'

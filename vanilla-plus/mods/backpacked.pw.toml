@@ -1,9 +1,9 @@
 filename = 'backpacked-fabric-1.21.1-3.0.0-beta.18-signed.jar'
 name = 'Backpacked'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'alpha'
 
 [download]
 hash = 'f53f1507a207cdaf4fceb4aebcf419ea66182b99'

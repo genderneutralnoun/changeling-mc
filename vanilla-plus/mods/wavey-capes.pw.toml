@@ -1,9 +1,9 @@
 filename = 'waveycapes-fabric-1.8.0-mc1.21.1.jar'
 name = 'WaveyCapes'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0cee2467a240f786c46d5891c6e3d2e4024f6db2dfada077d148c6e20a1a9c2f68581a9f00c90b13a448dcdabfa836b0ffafad3c4d273233d93e5c48d5756e30'

@@ -1,8 +1,8 @@
 filename = 'fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar'
 name = 'Fabric Language Kotlin'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [
+#x-prismlauncher-loaders = [ 'fabric' ]
+#x-prismlauncher-mc-versions = [
     '1.14',
     '1.14.1',
     '1.14.2',
@@ -46,7 +46,7 @@ x-prismlauncher-mc-versions = [
     '1.21.8',
     '1.21.9'
 ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0453a8a4eb8d791b5f0097a6628fae6f13b6dfba1e2bd1f91218769123808c4396a88bcdfc785f1d6bca348f267b32afc2aa9e0d5ec93a7b35bcfe295268c7bc'

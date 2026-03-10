@@ -1,9 +1,9 @@
 filename = 'midnightlib-fabric-1.9.1+1.21.1.jar'
 name = 'MidnightLib'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'de41ec842ff676dce76e7a04174ba1166f91be416c6ad6a385679c21213b2332e4b02c8c76f4e26b58957009f303bdb1a578594b041a43657888e2c439fd99df'

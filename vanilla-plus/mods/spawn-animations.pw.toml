@@ -1,8 +1,8 @@
 filename = 'spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar'
 name = 'Spawn Animations'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
+#x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
+#x-prismlauncher-mc-versions = [
     '1.17',
     '1.17.1',
     '1.17.1 Pre-Release 1',
@@ -268,7 +268,7 @@ x-prismlauncher-mc-versions = [
     '25w36b',
     '25w37a'
 ]
-x-prismlauncher-release-type = 'release'
+#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '26a996b6c8eb1335ac1198f95d07faecaf241c78eb7249fdac890daad258fca60df87e4d9f430a9a7de69cbb711361b5552d167db177d75e1c3b7e71545d67ff'
