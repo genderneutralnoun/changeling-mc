@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/bbrb.pw.toml"
-hash = "6b8c10c31c14018a0e9042d516901f985d2c1aec85635314fec0292f33cc2c98"
+hash = "ef3892aa1fca433734abdba89e9b78a5edbe65cdc86edf1638056e888615fe3c"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk-colorful-addon.pw.toml"
-hash = "f06d47005fa949113f66774404465ca72c0d3e3496876b89ff5c1b5c828e17a8"
+hash = "42e8e46bd86ff6a476b5c9722013e63bc0629ee14a69f6e773f9ce4f8355e608"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "b07fa1fc8e95305bfa16accec970dd1535fdb2c0643f9a568589440fd0faed04"
+hash = "f12664a3765a15d1507fb05965dc71ccf4055d868a919e587e5a87a9181dfc15"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/compost.pw.toml"
-hash = "9d6933922f90dae3e139a16e41777658243bf777df8da1257433e733bd8eec75"
+hash = "3f6a1c6e30dc6b78bb4a9afc95ea6f2fd2617e660a36aa1ae4ee912615640070"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7c824ceba908fface131e8b89df0a1bdca17815827742feece17709a27b53ef6"
+hash = "47271e485a17bdaea34dcb3b8b62b0dedeebc30d8d572f7b6d6c78b2177700b7"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "964d4a2333177d8f068d78fc05c6bb07b35684107b8bb50cf0e1f6ec8d6d4b0b"
+hash = "e041273e0dc73e1afc171af761def9439101b84ad336a2622a02e6c0b11a96c7"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "b625eaec28f401703eef5649d8c58f3d81bb92587aead868ca32e6757f9101fe"
+hash = "4dfb34cfca086aa7cda9f584b5a08d019d9f73ba5e4476f32f48ad3f9d4d351e"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "a996b5a042b0915d74bb687c9da3757b0d6f7afece84f8f836b9de278852ab7e"
+hash = "58de8c7d846c8c051d312a78590294c6595c96c841d302dc2cd0bbf2391f9a11"
 metafile = true
 
 [[files]]
@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
-hash = "107698bedfd234c11d4c88ca38f38f6b3bcdedc672d746c9d8d8bacaebad2674"
+hash = "07a2cc5aeb16e37865c2a40f6ecaf3e85e4177d017ed8d98a379dc55fd3ea9e4"
 metafile = true
 
 [[files]]
@@ -1345,7 +1345,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "d170042f2faecaad34088a2755b72b391f343a101a47655ea4cec566b9326c14"
+hash = "e20c51727e7c7e96f653cbb6565e609fcfd8abaf085544e2d0edb33527294511"
 metafile = true
 
 [[files]]
@@ -1410,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "29d9426eb6c3b17904d4f85b3c903af652bfc06f02c517b01277c020fd9d723c"
+hash = "115117c246a37fc7080a623ae2bc22be447f76bd8e6b6e9933b95555135100d8"
 metafile = true
 
 [[files]]
@@ -1465,7 +1465,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "6bf35c051ac019d8c650bd92de077a540f551e89f893c11575e5cc11247639b4"
+hash = "72ac3c015aa7d6055f75c93b7f99b83e94e42f928596912b27b1904c40c5dd88"
 metafile = true
 
 [[files]]
@@ -1670,7 +1670,7 @@ metafile = true
 
 [[files]]
 file = "mods/serverpingerfixer.pw.toml"
-hash = "8c92e2fe1cc39d34b1eeb3d540f60f13b1723ecf32f0697f08ac32723eea1170"
+hash = "39345a4fe0190ae988696310c9df4ae90b5fd4d6810c4378fc2d422577ac8120"
 metafile = true
 
 [[files]]
@@ -1750,12 +1750,12 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations.pw.toml"
-hash = "60e5b3722af31030c82681b528f8bebe0b8bdffa49feb6c920b3c85c058acf32"
+hash = "854840e6333d78625543d51fee1780f6530b186f338027386888bbe4f15231ac"
 metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "536c75c4d551359849972f6619ddeb1fc269a5a6e019d7e9dc3f54ed0311853e"
+hash = "3d30f615ec76a96cb441b2cf5b81c6f3707bc387ccd367a6c04a209ef3ec1fd9"
 metafile = true
 
 [[files]]
@@ -1820,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/tick-stasis.pw.toml"
-hash = "cd165607e68850b9119c7e53cfa9159cd4dc0b331736ce85c227eb60f83047d3"
+hash = "716a4b84fc877b71b80601f5ecf78d5880ca493c45e53baf6df0d8a1078e637c"
 metafile = true
 
 [[files]]
@@ -1995,7 +1995,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "f73e06116cc65d761e2548d3bd7a1c41d828dcf0299d5bdc65e8a1ac4041defe"
+hash = "486730999345947d642d5270834ac573a44d1c2daef1f78909744ba114414c33"
 metafile = true
 
 [[files]]

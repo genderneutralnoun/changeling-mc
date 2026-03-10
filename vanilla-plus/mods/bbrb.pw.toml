@@ -15,7 +15,7 @@ side = 'client'
 #    '1.21.8',
 #    '1.21.9',
 #    '25w14craftmine'
-]
+#]
 #x-prismlauncher-release-type = 'release'
 
 [download]
