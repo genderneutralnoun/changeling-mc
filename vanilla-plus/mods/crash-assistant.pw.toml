@@ -15,4 +15,4 @@ version = "5syLA0Cv"
 [option]
 optional = true
 default = true
-description = 'Crash debugger, helps Flamy fix your issues. Only advanced users should disable this.'
+description = '''Crash debugger, helps Flamy fix your issues. Only advanced users should disable this.'''

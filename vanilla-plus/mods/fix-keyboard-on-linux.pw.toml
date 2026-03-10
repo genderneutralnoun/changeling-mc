@@ -43,4 +43,4 @@ version = 'hoSPSRQf'
 [option]
 optional = true
 default = false
-description = 'Only needed on Linux, and not in all cases'
+description = '''Only needed on Linux, and not in all cases'''

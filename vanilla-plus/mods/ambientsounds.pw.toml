@@ -18,4 +18,4 @@ version = 'ybXRUW4r'
 [option]
 optional = true
 default = true
-description = 'Audio enhancement, disable for better performance'
+description = '''Audio enhancement, disable for better performance'''

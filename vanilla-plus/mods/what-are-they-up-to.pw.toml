@@ -18,4 +18,4 @@ version = 'iHAQTK0N'
 [option]
 optional = true
 default = true
-description = 'Shows visual indicators of other players\' activity\. Known to cause issues on Thistle Linux'
+description = '''Shows visual indicators of other players\' activity\. Known to cause issues on Thistle Linux'''

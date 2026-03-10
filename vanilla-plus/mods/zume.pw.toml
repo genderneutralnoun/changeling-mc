@@ -15,4 +15,4 @@ version = "zOLMcYq6"
 [option]
 optional = true
 default = true
-description = 'Zoom-in mod'
+description = '''Zoom-in mod'''

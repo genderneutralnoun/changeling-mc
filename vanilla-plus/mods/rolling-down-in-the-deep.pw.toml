@@ -18,4 +18,4 @@ version = 'Lzwmnqcs'
 [option]
 optional = true
 default = true
-description = 'Swimming changes, can be even more nausea inducing. Requires Do A Barrel Roll'
+description = '''Swimming changes, can be even more nausea inducing. Requires Do A Barrel Roll'''

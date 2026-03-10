@@ -18,4 +18,4 @@ version = 'phATjGhF'
 [option]
 optional = true
 default = true
-description = 'Makes the debug screen \(F3\) easier to read\. Not to everyone\'s taste.'
+description = '''Makes the debug screen \(F3\) easier to read\. Not to everyone\'s taste.'''

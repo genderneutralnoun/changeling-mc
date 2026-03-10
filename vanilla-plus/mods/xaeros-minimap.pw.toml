@@ -18,4 +18,4 @@ version = 'IaH8q5hM'
 [option]
 optional = true
 default = true
-description = 'One part of the modpack\'s intended map mods'
+description = '''One part of the modpack\'s intended map mods'''
