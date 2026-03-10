@@ -18,4 +18,4 @@ version = 'Y3tbAReX'
 [option]
 optional = true
 default = true
-description = '''Visual change not to everyone\'s taste\. May have minor performance impact'''
+description = '''Visual change not to everyone's taste. May have minor performance impact.'''

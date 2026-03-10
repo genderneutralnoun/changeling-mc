@@ -18,4 +18,4 @@ version = '9O6JgDPz'
 [option]
 optional = true
 default = true
-description = '''Additional compatibility for Dynamic Crosshair'''
+description = '''Additional compatibility for Dynamic Crosshair.'''

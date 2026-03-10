@@ -18,4 +18,4 @@ version = 'f4suO4vX'
 [option]
 optional = true
 default = true
-description = '''Visual not to everyone\'s taste\. Performance impact\, if any\, is negligable'''
+description = '''Visual not to everyone's taste. Performance impact, if any, is negligable.'''

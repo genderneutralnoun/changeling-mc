@@ -18,4 +18,4 @@ version = 'vBXl66wc'
 [option]
 optional = true
 default = true
-description = '''Microsoft Flight Simulator-style flying, may be nausea inducing'''
+description = '''Microsoft Flight Simulator-style flying, may be nausea inducing.'''

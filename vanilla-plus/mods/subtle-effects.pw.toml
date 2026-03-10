@@ -18,4 +18,4 @@ version = 'nb7vI8JQ'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement, disable for better performance'''
+description = '''Visual enhancement, disable for better performance.'''

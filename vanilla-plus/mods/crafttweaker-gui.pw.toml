@@ -18,4 +18,4 @@ version = 'iSsXjIke'
 [option]
 optional = true
 default = false
-description = '''GUI for creating CraftTweaker scripts. Not useable while logged into a server, but fun to play with in singleplayer'''
+description = '''GUI for creating CraftTweaker scripts. Not useable while logged into a server, but fun to play with in singleplayer.'''

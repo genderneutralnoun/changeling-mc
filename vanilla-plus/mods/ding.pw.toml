@@ -18,4 +18,4 @@ version = 'rBn3e7NE'
 [option]
 optional = true
 default = true
-description = '''Plays the XP orb pickup sound when the game is finished loading'''
+description = '''Plays the XP orb pickup sound when the game is finished loading.'''
