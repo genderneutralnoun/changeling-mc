@@ -18,4 +18,4 @@ version = 'KOL3yc9k'
 [option]
 optional = true
 default = true
-description = 'Joke mod, gives villager trade UI a very subjective "improvement"'
+description = 'Joke mod, gives villager trade UI a very subjective \"improvement\"'

@@ -18,4 +18,4 @@ version = 'KWZCioh0'
 [option]
 optional = true
 default = true
-description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'
+description = 'Visual change not to everyone\'s taste. Performance impact, if any, is negligable'

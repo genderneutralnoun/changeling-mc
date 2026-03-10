@@ -18,4 +18,4 @@ version = 'kgy0Eg0q'
 [option]
 optional = true
 default = true
-description = 'GUI change not to everyone's taste. Performance impact, if any, is negligable'
+description = 'GUI change not to everyone\'s taste. Performance impact, if any, is negligable'

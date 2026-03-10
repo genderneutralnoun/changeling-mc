@@ -18,4 +18,4 @@ version = 'Aw3IjzlB'
 [option]
 optional = true
 default = false
-description = 'Adds a better autojump that functions like half-block step up, but for full blocks. Configurable in-game and able to be disabled.'
+description = 'Adds a better autojump that functions like half-block step up, but for full blocks. Configurable in-game and able to be disabled'
