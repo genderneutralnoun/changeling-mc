@@ -10,7 +10,7 @@ hash = "73e6019253d0b015d92ffdbd3a2a8c71c614d62f9296ced6042b7c491d047802"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "d4c711c2dc82e051aad60d066a91aa1ebc22a4a5c4cbd200e95249418e2399f2"
+hash = "ba4ebb33866a178bc131320f411831b5f39eba52525e070a65a5499579dcaf94"
 metafile = true
 
 [[files]]
@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "401fa52618ff7bf458d5bfb68411bf62505f0cbbac0fd6598aaf90daa1cfc7a6"
+hash = "f9855eeaacf2a3e82b4fdae9946312fe4c97925825d3fdc42a761ee908ed8832"
 metafile = true
 
 [[files]]
@@ -1970,17 +1970,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "2e01ffaa2151cbcfdd7cdba695795f338c8308a4a03ef2a7b58290bdd2ecf6cb"
+hash = "69ab4cfe6bea8802243f0ff63776eb0e461cc5d5700c0684aa6ee1bf5df638a1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2887fd4eb88d5b3942e09511c008dc9dc70cc92eba5687e8f07825d841fd3837"
+hash = "a4c7eb810289603b004b45e727a566f900672f57df87da98a6d226ae75c77c63"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "98f162ad2e9b8ed26d13d0c5e853ba18b4bfca95c88b52977fa6bba22fdd88ac"
+hash = "8ffdedfca7cfd23813b95dc15880176250c42b84415144e5c9a6cf17065e1199"
 metafile = true
 
 [[files]]
