@@ -14,8 +14,3 @@ url = 'https://cdn.modrinth.com/data/NcUtCpym/versions/HXRzzOuL/XaerosWorldMap_1
 [update.modrinth]
 mod-id = 'NcUtCpym'
 version = 'HXRzzOuL'
-
-[option]
-optional = true
-default = true
-description = '''One part of the modpack's intended map mods.'''

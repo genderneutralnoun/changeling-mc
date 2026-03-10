@@ -14,8 +14,3 @@ url = 'https://cdn.modrinth.com/data/4q8UOK1d/versions/nb7vI8JQ/SubtleEffects-fa
 [update.modrinth]
 mod-id = '4q8UOK1d'
 version = 'nb7vI8JQ'
-
-[option]
-optional = true
-default = true
-description = '''Visual enhancement, disable for better performance.'''

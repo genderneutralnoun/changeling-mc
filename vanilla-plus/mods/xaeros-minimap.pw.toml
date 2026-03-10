@@ -14,8 +14,3 @@ url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/IaH8q5hM/Xaeros_Minimap_2
 [update.modrinth]
 mod-id = '1bokaNcj'
 version = 'IaH8q5hM'
-
-[option]
-optional = true
-default = true
-description = '''One part of the modpack's intended map mods.'''
