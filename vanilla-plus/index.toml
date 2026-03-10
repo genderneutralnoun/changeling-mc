@@ -14,6 +14,11 @@ hash = "9cfd693e724be0098f874372f75e3240daa0bbbad02e64010d9f55aa29064091"
 metafile = true
 
 [[files]]
+file = "mods/accessible-step.pw.toml"
+hash = "6bf01a26d57abbd6020577942aa1a7c1b1431c13f7206b35ff46656a4d371d35"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "561509c8ce36905effa546deb0bdcb1e14a3cd11c72874b652cb6fdb22ac0e04"
 metafile = true
