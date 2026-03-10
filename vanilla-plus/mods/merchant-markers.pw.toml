@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/AGhiJWsU/versions/guv4URio/MerchantMarkers-
 [update.modrinth]
 mod-id = 'AGhiJWsU'
 version = 'guv4URio'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'

@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/gbJLUhZP/versions/OJV9Q68B/distraction_free
 [update.modrinth]
 mod-id = 'gbJLUhZP'
 version = 'OJV9Q68B'
+
+[option]
+optional = true
+default = true
+description = 'Hides EMI when not in use. Can be disabled in-game'

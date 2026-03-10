@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/EwPIWPJ9/versions/9O6JgDPz/dynamiccrosshair
 [update.modrinth]
 mod-id = 'EwPIWPJ9'
 version = '9O6JgDPz'
+
+[option]
+optional = true
+default = true
+description = 'Additional compatibility for Dynamic Crosshair'

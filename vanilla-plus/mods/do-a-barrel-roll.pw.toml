@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/6FtRfnLg/versions/vBXl66wc/do_a_barrel_roll
 [update.modrinth]
 mod-id = '6FtRfnLg'
 version = 'vBXl66wc'
+
+[option]
+optional = true
+default = true
+description = 'Microsoft Flight Simulator-style flying, may be nausea inducing'

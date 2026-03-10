@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/9wv7LuMc/versions/1Qx4v8mx/ImmersiveUI-FABR
 [update.modrinth]
 mod-id = '9wv7LuMc'
 version = '1Qx4v8mx'
+
+[option]
+optional = true
+default = true
+description = 'Visual enhancement, disable for better performance'

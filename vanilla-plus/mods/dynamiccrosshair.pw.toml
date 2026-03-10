@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/ZcR9weSm/versions/79wERqfk/dynamiccrosshair
 [update.modrinth]
 mod-id = 'ZcR9weSm'
 version = '79wERqfk'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'

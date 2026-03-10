@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/LQ3K71Q1/versions/td4DfKSI/dynamic-fps-3.9.
 [update.modrinth]
 mod-id = 'LQ3K71Q1'
 version = 'td4DfKSI'
+
+[option]
+optional = true
+default = true
+description = 'Causes game to use less system resources when the window is not active, but may cause problems on some setups. Generally reccommended.'

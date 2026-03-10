@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/OoOVj3J3/versions/viLbr66Z/BetterAnimations
 [update.modrinth]
 mod-id = 'OoOVj3J3'
 version = 'viLbr66Z'
+
+[option]
+optional = true
+default = true
+description = 'Visual enhancement, disable for better performance'

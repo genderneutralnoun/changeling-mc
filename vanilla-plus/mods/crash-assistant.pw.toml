@@ -11,3 +11,8 @@ hash = "975d6ad8f56851c3dc6d0cdc8729bc306d45b4b08625e36498c6c13a8a23a36080b91c8b
 [update.modrinth]
 mod-id = "ix1qq8Ux"
 version = "5syLA0Cv"
+
+[option]
+optional = true
+default = true
+description = 'Crash debugger, helps Flamy fix your issues. Only advanced users should disable this.'

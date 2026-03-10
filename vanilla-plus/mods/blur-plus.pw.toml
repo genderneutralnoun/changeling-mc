@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/NK39zBp2/versions/rdg9QFmT/blur-fabric-5.2.
 [update.modrinth]
 mod-id = 'NK39zBp2'
 version = 'rdg9QFmT'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. May have minor performance impact'

@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/rUgZvGzi/versions/KWZCioh0/eating-animation
 [update.modrinth]
 mod-id = 'rUgZvGzi'
 version = 'KWZCioh0'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'

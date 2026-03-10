@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/UEtTD3gP/versions/rBn3e7NE/Ding-1.21-Fabric
 [update.modrinth]
 mod-id = 'UEtTD3gP'
 version = 'rBn3e7NE'
+
+[option]
+optional = true
+default = true
+description = 'Plays the XP orb pickup sound when the game is finished loading'

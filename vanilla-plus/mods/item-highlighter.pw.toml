@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/cVNW5lr6/versions/Pg76zkO0/Highlighter-1.21
 [update.modrinth]
 mod-id = 'cVNW5lr6'
 version = 'Pg76zkO0'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'

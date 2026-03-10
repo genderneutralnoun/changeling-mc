@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/5srFLIaK/versions/Ta9mG3DR/better-clouds-1.
 [update.modrinth]
 mod-id = '5srFLIaK'
 version = 'Ta9mG3DR'
+
+[option]
+optional = true
+default = true
+description = 'Visual enhancement, disable for better performance'

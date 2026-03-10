@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/AtB5mHky/versions/iHAQTK0N/watut-fabric-1.2
 [update.modrinth]
 mod-id = 'AtB5mHky'
 version = 'iHAQTK0N'
+
+[option]
+optional = true
+default = true
+description = 'Shows visual indicators of other players' activity. Known to cause issues on Thistle Linux'

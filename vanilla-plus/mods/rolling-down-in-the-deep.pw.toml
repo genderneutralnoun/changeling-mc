@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/zQqsEeqy/versions/Lzwmnqcs/rolling-down-in-
 [update.modrinth]
 mod-id = 'zQqsEeqy'
 version = 'Lzwmnqcs'
+
+[option]
+optional = true
+default = true
+description = 'Swimming changes, can be even more nausea inducing. Requires Do A Barrel Roll'

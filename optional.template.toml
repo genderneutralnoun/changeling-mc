@@ -1,4 +1,4 @@
 [option]
 optional = true
 default = true
-description = "Funny description"
+description = 'Funny description'

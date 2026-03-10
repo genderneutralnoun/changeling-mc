@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/SSXJmyua/versions/KOL3yc9k/tradeoffer-0.1.2
 [update.modrinth]
 mod-id = 'SSXJmyua'
 version = 'KOL3yc9k'
+
+[option]
+optional = true
+default = true
+description = 'Joke mod, gives villager trade UI a very subjective "improvement"'

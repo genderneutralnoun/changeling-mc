@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/fM515JnW/versions/ybXRUW4r/AmbientSounds_FA
 [update.modrinth]
 mod-id = 'fM515JnW'
 version = 'ybXRUW4r'
+
+[option]
+optional = true
+default = true
+description = 'Audio enhancement, disable for better performance'

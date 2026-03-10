@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-
 [update.modrinth]
 mod-id = '8shC1gFX'
 version = 'phATjGhF'
+
+[option]
+optional = true
+default = true
+description = 'Makes the debug screen (F3) easier to read. Not to everyone's taste.'

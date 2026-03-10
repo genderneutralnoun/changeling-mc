@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/ydZic5r4/versions/RglNPV8C/smoothswapping-0
 [update.modrinth]
 mod-id = 'ydZic5r4'
 version = 'RglNPV8C'
+
+[option]
+optional = true
+default = true
+description = 'Visual enhancement, disable for better performance'

@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/Ud3A1Fat/versions/X3hByxU6/dense-flowers-0.
 [update.modrinth]
 mod-id = 'Ud3A1Fat'
 version = 'X3hByxU6'
+
+[option]
+optional = true
+default = true
+description = 'Visual enhancement, disable for better performance'

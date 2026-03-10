@@ -11,3 +11,8 @@ hash = "f2294cbb72d9972434e56a18eb37b16b1bd03eeb7bdb5562be1e2db755791a04e78ef8ea
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "pI6g9nqi"
+
+[option]
+optional = true
+default = true
+description = 'Enhanced features for Complementary Shaders, not needed if you don't use them'

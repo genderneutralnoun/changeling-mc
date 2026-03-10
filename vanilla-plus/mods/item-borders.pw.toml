@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/b1fMg6sH/versions/yZWXg0WM/ItemBorders-1.21
 [update.modrinth]
 mod-id = 'b1fMg6sH'
 version = 'yZWXg0WM'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'

@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/atHH8NyV/versions/f4suO4vX/LegendaryTooltip
 [update.modrinth]
 mod-id = 'atHH8NyV'
 version = 'f4suO4vX'
+
+[option]
+optional = true
+default = true
+description = 'Visual not to everyone's taste. Performance impact, if any, is negligable'

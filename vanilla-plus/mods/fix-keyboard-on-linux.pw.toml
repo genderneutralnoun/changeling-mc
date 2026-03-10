@@ -39,3 +39,8 @@ url = 'https://cdn.modrinth.com/data/siXFh9dn/versions/hoSPSRQf/fix-keyboard-on-
 [update.modrinth]
 mod-id = 'siXFh9dn'
 version = 'hoSPSRQf'
+
+[option]
+optional = true
+default = false
+description = 'Only needed on Linux, and not in all cases'

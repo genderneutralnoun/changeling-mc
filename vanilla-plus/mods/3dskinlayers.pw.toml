@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/zV5r3pPn/versions/Z97u4Bic/skinlayers3d-fab
 [update.modrinth]
 mod-id = 'zV5r3pPn'
 version = 'Z97u4Bic'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'

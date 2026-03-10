@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/lPSTdJm7/versions/WdGCtron/expcounter-1.21.
 [update.modrinth]
 mod-id = 'lPSTdJm7'
 version = 'WdGCtron'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable'

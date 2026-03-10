@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/wMkevcSR/versions/3KyrwMAv/tia-fabric-1.21-
 [update.modrinth]
 mod-id = 'wMkevcSR'
 version = '3KyrwMAv'
+
+[option]
+optional = true
+default = true
+description = 'Visual enhancement, disable for better performance'

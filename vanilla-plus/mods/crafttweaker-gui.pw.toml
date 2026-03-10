@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/FPG0nezA/versions/iSsXjIke/ctgui-fabric-1.2
 [update.modrinth]
 mod-id = 'FPG0nezA'
 version = 'iSsXjIke'
+
+[option]
+optional = true
+default = false
+description = 'GUI for creating CraftTweaker scripts. Not useable while logged into a server, but fun to play with in singleplayer'

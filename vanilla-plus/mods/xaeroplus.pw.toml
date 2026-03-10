@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/EnPUzSTg/versions/THzaATJq/XaeroPlus-2.29.1
 [update.modrinth]
 mod-id = 'EnPUzSTg'
 version = 'THzaATJq'
+
+[option]
+optional = true
+default = true
+description = 'One part of the modpack's intended map mods'
