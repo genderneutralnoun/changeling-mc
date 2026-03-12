@@ -14,3 +14,8 @@ url = 'https://cdn.modrinth.com/data/o5fhgLeQ/versions/jCjQWU8Y/minecraft-cursor
 [update.modrinth]
 mod-id = 'o5fhgLeQ'
 version = 'jCjQWU8Y'
+
+[option]
+optional = true
+default = true
+description = 'Visual change not to everyone's taste. Performance impact, if any, is negligable.'
