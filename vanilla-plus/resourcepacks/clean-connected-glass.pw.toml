@@ -1,6 +1,6 @@
 filename = 'Clean Connected Glass [1.20-1.21.11].zip'
 name = 'Clean Connected Glass'
-side = 'client'
+side = ''
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.20',
