@@ -279,6 +279,11 @@ hash = "7e51aefd84db7484f44a01debd74ab4f23811ff0c3cb505fe24006bff8b9b3a0"
 metafile = true
 
 [[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "5980c97f2502e03850c3dea5e8bf8e21dcdbc353c807b0cfcc8a30b129dce721"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "45996efdabb0479bc1f2be0b1c9222ca80b4d29cc2266cf870bfd0f41985d778"
 metafile = true
@@ -315,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "524138594a9be3fc762450049dd78546e440abc553ce0090d2e369cf33497f1c"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
@@ -340,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/compostables.pw.toml"
-hash = "f48c0b55bbaee711ebddcf40039e54873f978587f98e36b95c9c0ac00454aecd"
+hash = "52786b47ca0835a17602117935416e6434e22749c62a780f2ac2999cc0445843"
 metafile = true
 
 [[files]]
@@ -375,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
-hash = "e27a4aa508cc2376d479e6ad7be1b2ed21e6e20a443dd7a5d8d4beb1b5e8786a"
+hash = "990f60a16a077fa66a5f4ad5c9a47ff57546eec43a0b4f69cb4de492fe99c3ae"
 metafile = true
 
 [[files]]
@@ -425,7 +430,12 @@ metafile = true
 
 [[files]]
 file = "mods/crying-portals.pw.toml"
-hash = "033c2cd3595ac19b50201077d47801ce48f126d71129379b3842b2d88bb3570e"
+hash = "c25d279a9cec066168bace606ec1b03f3bb371c44bf2c878472d74e5a3c425b7"
+metafile = true
+
+[[files]]
+file = "mods/cryingportals.pw.toml"
+hash = "25af46f70e4ee4a94f3d054c1198bfaaf4d2f9b3cfc271a4837d90182d22d7cc"
 metafile = true
 
 [[files]]
@@ -511,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight-fabric.pw.toml"
 hash = "04dc2eb956a406219bdc44ad47f1bc59120e1db8d7282caf5041b848a217a126"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
 
 [[files]]
@@ -1989,7 +2004,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/clean-connected-glass.pw.toml"
-hash = "70e0f1d055133d0290354bad860a81f35783e55543711918737e1f7222028661"
+hash = "ee0d4ba293cab5b3470d6edcf3c326d6f4d0b3cfd4d2a5ddc75a813d57f129fd"
 metafile = true
 
 [[files]]
