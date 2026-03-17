@@ -1,0 +1,13 @@
+name = "Changeling Guild Vanilla Plus"
+author = "genderneutralnoun"
+version = "0.1.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e997b921e54c496d98558e53abbc67511dac0310c936b445c923ed0be6c84f47"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
