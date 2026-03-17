@@ -2039,7 +2039,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/clean-connected-glass.pw.toml"
+<<<<<<< HEAD
 hash = "7d74be5018930a8e065192393ced4c245c76337fad2d706b8dd226260648b78f"
+=======
+hash = "70e0f1d055133d0290354bad860a81f35783e55543711918737e1f7222028661"
+>>>>>>> 3c6b7c8 (Fix Clean Connected Glass version)
 metafile = true
 
 [[files]]

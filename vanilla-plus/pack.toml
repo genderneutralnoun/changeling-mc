@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "f9b886d72a8ca6c4c93fa7631c26835ec9d3f88f98830c818872dad5846fa31b"
+=======
+hash = "474379d8c1bd95b4b1ece82bc6411651d3202aa73264ec9955f5ab2ca945eecf"
+>>>>>>> 3c6b7c8 (Fix Clean Connected Glass version)
 
 [versions]
 fabric = "0.18.4"
