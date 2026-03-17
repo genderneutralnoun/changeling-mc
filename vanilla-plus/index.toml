@@ -434,11 +434,6 @@ hash = "c25d279a9cec066168bace606ec1b03f3bb371c44bf2c878472d74e5a3c425b7"
 metafile = true
 
 [[files]]
-file = "mods/cryingportals.pw.toml"
-hash = "25af46f70e4ee4a94f3d054c1198bfaaf4d2f9b3cfc271a4837d90182d22d7cc"
-metafile = true
-
-[[files]]
 file = "mods/csearcher.pw.toml"
 hash = "d66f1f15a2ebcce6779ab6d6e29ccc0f236c4a4e74c522a3455012174ca981dc"
 metafile = true
