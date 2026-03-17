@@ -54,51 +54,6 @@ hash = "e9c27de331a3f75bcf6064baee50b48962332d8d948a36a0c549ca1c95fdbb9c"
 metafile = true
 
 [[files]]
-file = "mods/aesthetic-frames.pw.toml"
-hash = "8ca4b67fb2915c7684d89ac3bddc242fe8101bafa0969e73f6a71867f6434cdb"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-ladders.pw.toml"
-hash = "ae91368559178430ce6d78404efb8c4bbb07ba3bf02b17049d5593f807ee425e"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-seating.pw.toml"
-hash = "69ea1f9d68cf84c33f63cde6e685daaae363754368fe16b7ca22a0bf1089e363"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-shelving.pw.toml"
-hash = "e6bc620be5f625113e799601207e5f1cd8b994e64806b6d1b8c6c3137749c7f2"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-stairs.pw.toml"
-hash = "4bb8fbdf01d685598e25e859cbe17b2b46e6dff1dbc3bd205d71fabb36d636fc"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-storage.pw.toml"
-hash = "b875c5709e4d8904e8402d84a13841849621b7ba1e51fbd691afd59d625f529a"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-surfaces.pw.toml"
-hash = "33363708abbe8b3406bb8c28767796ed9d06e36d681e7025e098b76c61eda713"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-tables.pw.toml"
-hash = "dd2ddf642424fe0e6fa0dfedbfe788382cfca126bfefbcc6b343ad8cca6801a7"
-metafile = true
-
-[[files]]
-file = "mods/aesthetic-windows.pw.toml"
-hash = "1218bc448dc9e17ad2d1830c7f5802e1181cfd4aeaeca861ddde3b8d2e4ad2fa"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "cc6e37abba53fd540c37781321c4dcfe6a309b78420c224616befa9e513924d2"
 metafile = true
@@ -556,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/display-delight-fabric.pw.toml"
 hash = "04dc2eb956a406219bdc44ad47f1bc59120e1db8d7282caf5041b848a217a126"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
 
 [[files]]
@@ -1185,7 +1135,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
-hash = "7162bf7a2ba8a20409b8d82e07774981cbfb768f2c2595e166b27880a0c3f062"
+hash = "6e184661373f3ac48db69fca795c4081844873ebb397098466b7c9a1916ac586"
 metafile = true
 
 [[files]]
@@ -2039,11 +1989,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/clean-connected-glass.pw.toml"
-<<<<<<< HEAD
-hash = "7d74be5018930a8e065192393ced4c245c76337fad2d706b8dd226260648b78f"
-=======
 hash = "70e0f1d055133d0290354bad860a81f35783e55543711918737e1f7222028661"
->>>>>>> 3c6b7c8 (Fix Clean Connected Glass version)
 metafile = true
 
 [[files]]
