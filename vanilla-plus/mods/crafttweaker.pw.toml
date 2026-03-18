@@ -1,16 +1,13 @@
-filename = 'CraftTweaker-fabric-1.21.1-21.0.34.jar'
-name = 'CraftTweaker'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "CraftTweaker"
+filename = "CraftTweaker-fabric-1.21.1-21.0.38.jar"
+side = "both"
 
 [download]
-hash = '76a80686f0fbf988ee8f7b785a7e1d228bc7484e8af4f787541e47f00b51a12488bcb0c284c03d054b0fa0e1064ea792e62a91da90badcf5ebbd59ad2b46bf4e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Xg35A4rS/versions/KbZBLcFA/CraftTweaker-fabric-1.21.1-21.0.34.jar'
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/TvJixPvk/CraftTweaker-fabric-1.21.1-21.0.38.jar"
+hash-format = "sha512"
+hash = "944784b4f574ab2ec1539ca0ddce50c1eab943210ed32a050468e1f283f45f928b0608476b621afc5582176566814624e6aa4f6a15d7bdf7bb4c3048455f4b96"
 
+[update]
 [update.modrinth]
-mod-id = 'Xg35A4rS'
-version = 'KbZBLcFA'
+mod-id = "Xg35A4rS"
+version = "TvJixPvk"

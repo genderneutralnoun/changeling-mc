@@ -1,16 +1,13 @@
-filename = 'bl_accessories_layer-1.0.4-fabric+1.21.1.jar'
-name = 'Beltborne Lanterns: Accessories Layer'
-side = 'both'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'beta'
+name = "Beltborne Lanterns: Accessories Layer"
+filename = "bl_accessories_layer-1.2.2-fabric+1.21.1.jar"
+side = "both"
 
 [download]
-hash = '164faef4562cb3cbb47ccebb9fc3c4dad3cc2dfba517643211e6c44577a54e3d8719970f0a7a3d2e106a9cb98e45f7005224da304588a35805932d68ec353c0a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/geZ7ilkE/versions/jL33NAcP/bl_accessories_layer-1.0.4-fabric%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/geZ7ilkE/versions/hlv98CPO/bl_accessories_layer-1.2.2-fabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "012ec3c8eac926d7df8349c6fef5a509be97f1afafac11fa95caff5bec2a6bbfd89f6a548a2035a15c874bff7e2eae496b9d77d22747852552bd7c500cfce2a0"
 
+[update]
 [update.modrinth]
-mod-id = 'geZ7ilkE'
-version = 'jL33NAcP'
+mod-id = "geZ7ilkE"
+version = "hlv98CPO"

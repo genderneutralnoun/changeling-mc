@@ -1,16 +1,13 @@
-filename = 'convenientdecor-0.4.3.jar'
-name = 'Convenient Decor'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'alpha'
+name = "Convenient Decor"
+filename = "convenientdecor-0.4.4.jar"
+side = "both"
 
 [download]
-hash = '9963b8a771aee6d25dbbb3f2a8ee19ab479ff9b7dd268a68a7f249506f02d90661882d631d36d82c0ec028fc0f2269f63aa2241687c4b2d8cd1eec4df0cc2fd8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/gMWAhU1n/versions/W58UNyHY/convenientdecor-0.4.3.jar'
+url = "https://cdn.modrinth.com/data/gMWAhU1n/versions/ImX4pqdY/convenientdecor-0.4.4.jar"
+hash-format = "sha512"
+hash = "10d0762758cad1312d8f529c86ff9d17c39c5276cea21c6ed7ec1a7f322cfb4bd157eae65c22aac8c504862089e432808ea9c3c3851885dc0d170b7e935ebd7e"
 
+[update]
 [update.modrinth]
-mod-id = 'gMWAhU1n'
-version = 'W58UNyHY'
+mod-id = "gMWAhU1n"
+version = "ImX4pqdY"

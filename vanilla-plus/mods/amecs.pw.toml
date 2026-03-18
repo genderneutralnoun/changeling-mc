@@ -1,16 +1,13 @@
-filename = 'amecs-1.5.0+mc1.21.1.jar'
-name = 'Amecs'
-side = 'client'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Amecs"
+filename = "amecs-bundle-1.6.2+mc1.21.1.jar"
+side = "client"
 
 [download]
-hash = '9a3c86d9d88d6a49a17848a836a88474c7a8937ff904c0777cc8a8129f075ac721e8671b29d98c001306e94bd1077e74635ab614aa81afa83f726562319a1831'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/rcLriA4v/versions/8VycPzXj/amecs-1.5.0%2Bmc1.21.1.jar'
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/ne9dlbUN/amecs-bundle-1.6.2%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "6e34e185356911f92cfdf5189cfa6c3594893aae2b1933a14eba906b9731e3f557dda262435dd96540d978034da2f59083388cb1d90b28e68152905417b9e4ca"
 
+[update]
 [update.modrinth]
-mod-id = 'rcLriA4v'
-version = '8VycPzXj'
+mod-id = "rcLriA4v"
+version = "ne9dlbUN"

@@ -1,16 +1,13 @@
-filename = 'doubleslabs-fabric-1.21.1-0.3.0.jar'
-name = 'Double Slabs'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Double Slabs"
+filename = "doubleslabs-fabric-1.21.1-0.4.1.jar"
+side = "both"
 
 [download]
-hash = '3696cce755163c0dd185c100b9f677566c7565db66b1b6e28538cffa2d77889b595415205129c62815966299777d47e2742cad5152780136eba61761051deb94'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hcHS5k6e/versions/6NWfQ2Rx/doubleslabs-fabric-1.21.1-0.3.0.jar'
+url = "https://cdn.modrinth.com/data/hcHS5k6e/versions/ANRZ68tY/doubleslabs-fabric-1.21.1-0.4.1.jar"
+hash-format = "sha512"
+hash = "a0747defd747f135e2ce6b513a53d6fb39185c9053a763f5a07b2e2378857729ea5b5947b56d42e817771e0e0d0fa19fbc28261d269a07f7da1965594c182206"
 
+[update]
 [update.modrinth]
-mod-id = 'hcHS5k6e'
-version = '6NWfQ2Rx'
+mod-id = "hcHS5k6e"
+version = "ANRZ68tY"

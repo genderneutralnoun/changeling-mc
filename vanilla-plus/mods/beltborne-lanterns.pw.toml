@@ -1,16 +1,13 @@
-filename = 'beltborne_lanterns-1.2.3-fabric+1.21.1.jar'
-name = 'Beltborne Lanterns'
-side = 'both'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Beltborne Lanterns"
+filename = "beltborne_lanterns-1.2.5-fabric+1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'e9eb753f0fc8605313b852d417d5e7bf7d51575ad6ba47a8e44a4a9548c8532108af4a2497d1b41ac00b13592b012c8bcc8ea20630920238be590404e1e09382'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/NUFDZAKS/versions/e8QDcG6B/beltborne_lanterns-1.2.3-fabric%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/NUFDZAKS/versions/PPvQKkXm/beltborne_lanterns-1.2.5-fabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "52e5e583ac17b74e833114b1f4cab188ba7f0b4ad6fe6572571ab945662cb7c1b349311af7c8c75f65244a9d437a8cfc9a9f5115887215c642e6ffd82b8ec721"
 
+[update]
 [update.modrinth]
-mod-id = 'NUFDZAKS'
-version = 'e8QDcG6B'
+mod-id = "NUFDZAKS"
+version = "PPvQKkXm"

@@ -1,16 +1,13 @@
-filename = 'display-delight-1.2.0-mc1.21.1.jar'
-name = 'Display Delight Fabric'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Display Delight Fabric"
+filename = "display-delight-1.6.1-mc1.21.1.jar"
+side = "both"
 
 [download]
-hash = '079f77f9e828bf4687540fb321ebfd28890e9bf065f3a390b07c5f5887027465bd1ef1ce511f6c9da81cfc579b55eb62a94518413d0efb4de02f2d3b3a356deb'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/jK2xMxSG/versions/x1S5ZHxV/display-delight-1.2.0-mc1.21.1.jar'
+url = "https://cdn.modrinth.com/data/jK2xMxSG/versions/10ODL2xQ/display-delight-1.6.1-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "61d9dddb321c040b54b992e4c7229aedf3d124e562336045708d164b6e547670f41daa6ebb8c0db35bb258410c22c28199c9d69c5a7e09b03775ccf4c9c17b20"
 
+[update]
 [update.modrinth]
-mod-id = 'jK2xMxSG'
-version = 'x1S5ZHxV'
+mod-id = "jK2xMxSG"
+version = "10ODL2xQ"

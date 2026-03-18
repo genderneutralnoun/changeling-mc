@@ -1,16 +1,13 @@
-filename = 'Veinminer-fabric-3.0.2+mc1.21.1.jar'
-name = 'Veinminer'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Veinminer"
+filename = "Veinminer-fabric-3.1.2+mc1.21.1.jar"
+side = "both"
 
 [download]
-hash = '42eff41e6df75addda6907dcf5c7540c0d022618bd3e3d74ab8de28ca0c07b05cbe6cdc5ee31d4e96385638584564f04fb70bdc669742a6a000a4fd4730f9286'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/MnavVAzj/versions/IAJLDZ1n/Veinminer-fabric-3.0.2%2Bmc1.21.1.jar'
+url = "https://cdn.modrinth.com/data/MnavVAzj/versions/NrAnuyge/Veinminer-fabric-3.1.2%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "34cb96f0b53a9e927e28df27cac3c3fade8d36084d34773aab621c92e6b735d1b0f476415a3ab2a59098c0241a54572051d4a0c00297c544ba9a8c6ee358761b"
 
+[update]
 [update.modrinth]
-mod-id = 'MnavVAzj'
-version = 'IAJLDZ1n'
+mod-id = "MnavVAzj"
+version = "NrAnuyge"

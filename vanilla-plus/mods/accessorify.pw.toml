@@ -1,16 +1,13 @@
-filename = 'accessorify-2.3.5+1.21.1.jar'
-name = 'Accessorify'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Accessorify"
+filename = "accessorify-2.4.0-beta.5+1.21.1-fabric.jar"
+side = "both"
 
 [download]
-hash = 'fdd97b48f3e62943da7b82fe7c7f546b6113cc157ddf8e0707422722a49c3690b13da8238a52b85cb5e9146b30e61ad87b4055d3121c8b55e95143aa8b913876'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/CVRzrXGP/versions/whV5h72M/accessorify-2.3.5%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/UlfvVcjz/accessorify-2.4.0-beta.5%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "183d5845b7b96bc217f4c280c783e146eb5cbecc713cfef4800a7a3eb03ff8f437ec80c6fe968fb4b89e4aa2cc8afbb409bed3b9cbbd0a45d914b84e35668b2e"
 
+[update]
 [update.modrinth]
-mod-id = 'CVRzrXGP'
-version = 'whV5h72M'
+mod-id = "CVRzrXGP"
+version = "UlfvVcjz"

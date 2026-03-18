@@ -1,21 +1,18 @@
-filename = 'AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar'
-name = 'AmbientSounds'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "AmbientSounds"
+filename = "AmbientSounds_FABRIC_v6.3.5_mc1.21.1.jar"
+side = "both"
 
 [download]
-hash = '11cc959f768506329c8938e95f4a0086c4a00cff82852e09c72f60d0938a91beba53499ec4c1cf11abc07f8b853bcb4ff8f87268b67b274fc6972f9abf9a0b92'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/fM515JnW/versions/ybXRUW4r/AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar'
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/D31kF2Wq/AmbientSounds_FABRIC_v6.3.5_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "0c1a9d54d335e878a0b30a74f9b0b9dd27aa956cf31aad26a7758e6d4e9a507a040ae15cb2d984e88918278326b6c11e66669cd81f06b6b861a4cd91055973df"
 
+[update]
 [update.modrinth]
-mod-id = 'fM515JnW'
-version = 'ybXRUW4r'
+mod-id = "fM515JnW"
+version = "D31kF2Wq"
 
 [option]
 optional = true
+description = "Audio enhancement, disable for better performance."
 default = true
-description = '''Audio enhancement, disable for better performance.'''
