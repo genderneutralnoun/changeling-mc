@@ -1,0 +1,22 @@
+filename = 'cakechomps-fabric-10.0.1+1.21.1.jar'
+name = 'Cake Chomps'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '10.0.1+1.21.1'
+
+[download]
+hash = 'da1c3d9692f345ed3624e3fd198b351f558f062a75e9675698b1518fe081f9d2fab3510a7e31279504294479ffbde294d6c83cd679825784ecb11694b37c2808'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g646EoqQ/versions/e0MOX2WB/cakechomps-fabric-10.0.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'g646EoqQ'
+version = 'e0MOX2WB'
+
+[option]
+optional = true
+default = true
+description = '''Visual enhancement not to everyone's taste. Performance impact, if any, is negligable.'''

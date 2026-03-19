@@ -1,0 +1,17 @@
+filename = 'rusticdelight-fabric-1.21.1-1.5.2.jar'
+name = 'Rustic Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.2'
+
+[download]
+hash = '189cd318a4997d88c7cc86448cb61491868442e3586b9b8b15c6e6b0615f239c344f24c23f3b1905712a2a57bc11a724ef65d4c988a34af5bc1c24460fce0903'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/foa4fGIH/versions/LtCySLDC/rusticdelight-fabric-1.21.1-1.5.2.jar'
+
+[update.modrinth]
+mod-id = 'foa4fGIH'
+version = 'LtCySLDC'
