@@ -1,6 +1,6 @@
 filename = 'blockspreviewer-1.1.1 1.20.1-1.21.1 Fabric.jar'
 name = 'Blocks Previewer'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.20.1',
