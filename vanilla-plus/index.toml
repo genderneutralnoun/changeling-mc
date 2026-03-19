@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-previewer.pw.toml"
-hash = "cd1ab35f5360ba98fc736aa492d67880bc3395a549680b0d4c55eb3b5a63a0fa"
+hash = "2bbca1245c9ca2e466490816fc082b2d6ec2e6f133ea3a9190c2a66b5b75fc11"
 metafile = true
 
 [[files]]
