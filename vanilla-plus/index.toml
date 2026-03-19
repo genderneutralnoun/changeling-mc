@@ -1468,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/packed-packs.pw.toml"
-hash = "3b59663286768a7ae1fc96cb4d18c800e6cd88762f09c3fc024973f463b5d875"
+hash = "94f52e549564344914bc2b20e8a94c37af10934aecfe3527bacfad59cdbdf20e"
 metafile = true
 
 [[files]]
@@ -1613,7 +1613,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "54896f676713b9d9ee838a6935f1cc02affc0ffa8fa3cc413cdbb036483999bd"
+hash = "ca4ed7517ffc8183e07a3c068cde1ae32cc5f580cf7f06b6be31ade185f00bb8"
 metafile = true
 
 [[files]]
@@ -1679,11 +1679,6 @@ metafile = true
 [[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "39345a4fe0190ae988696310c9df4ae90b5fd4d6810c4378fc2d422577ac8120"
-metafile = true
-
-[[files]]
-file = "mods/sgtveinminer.pw.toml"
-hash = "9670f241b8e103474dd258fc058942637f0818390f40ca54b77d083006d47901"
 metafile = true
 
 [[files]]
@@ -1909,6 +1904,16 @@ metafile = true
 [[files]]
 file = "mods/variantapi.pw.toml"
 hash = "ead6be52aad4a70718a5d744f4ad3ba9c80a5eddf4b967c45ececfc6cb10f80b"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "0f12b72bae08e5bc96e0be086b90d3ed006f0d68b7353a803e1d4333e960ca3a"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "ba4a936dd24a69143977bfcee275569f24e643de84bae3a78f72455ee1386272"
 metafile = true
 
 [[files]]
