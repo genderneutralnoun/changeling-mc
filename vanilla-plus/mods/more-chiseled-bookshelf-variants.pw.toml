@@ -1,16 +1,13 @@
-filename = 'MoreChiseledBookshelfVariants-1.7.3+1.21(.1)-Fabric.jar'
-name = 'More Chiseled Bookshelf Variants'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "More Chiseled Bookshelf Variants"
+filename = "MoreChiseledBookshelfVariants-1.7.4+1.21(.1)-Fabric.jar"
+side = "both"
 
 [download]
-hash = '6fe3e546c956a6a549096271382a597e9dab5337e8936d95457d9511e3be05dcc2ffaa0f1d20f505d1fa4ff678735a5b2afed38a19acc1b6f35a892e2d4df7da'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/vkun3O1z/versions/HmvUaUdB/MoreChiseledBookshelfVariants-1.7.3%2B1.21%28.1%29-Fabric.jar'
+url = "https://cdn.modrinth.com/data/vkun3O1z/versions/qV60IlQs/MoreChiseledBookshelfVariants-1.7.4%2B1.21%28.1%29-Fabric.jar"
+hash-format = "sha512"
+hash = "8c3d0c76d785ac093ea9022e2f06d3f3a7cea835646eb404697729af16a2210603015beb844283984d772b458250e3d24baa4a7fe817b1274a223a201250f598"
 
+[update]
 [update.modrinth]
-mod-id = 'vkun3O1z'
-version = 'HmvUaUdB'
+mod-id = "vkun3O1z"
+version = "qV60IlQs"

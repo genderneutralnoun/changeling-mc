@@ -1,16 +1,13 @@
-filename = 'lootr-fabric-1.21-1.10.35.92.jar'
-name = 'Lootr'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Lootr"
+filename = "lootr-fabric-1.21.1-1.11.37.118.jar"
+side = "both"
 
 [download]
-hash = '5ab18bb501b3a89093b393dfb33825dc94cbfb4e55db0a45da62fceaa6951dfc494aa13a2c98eb67f622f02e89f105dfc62a346331a0ce072b189f3e11d73fa5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/EltpO5cN/versions/lkMXFjGb/lootr-fabric-1.21-1.10.35.92.jar'
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/Rxyok2IC/lootr-fabric-1.21.1-1.11.37.118.jar"
+hash-format = "sha512"
+hash = "d0018ee76fb24ba39b383db8963226afb463853c6b5c9d807ffe48be9276c2191f20038049c8804b13c30b375ec44edb133aa10d8e24efb29e906f3202c5f112"
 
+[update]
 [update.modrinth]
-mod-id = 'EltpO5cN'
-version = 'lkMXFjGb'
+mod-id = "EltpO5cN"
+version = "Rxyok2IC"

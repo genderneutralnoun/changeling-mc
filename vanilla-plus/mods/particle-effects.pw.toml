@@ -1,16 +1,13 @@
-filename = 'ParticleEffects-1.0.8+1.21.1.jar'
-name = 'Particle Effects'
-side = 'client'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Particle Effects"
+filename = "ParticleEffects-1.3.0+1.21.1+fabric.jar"
+side = "client"
 
 [download]
-hash = 'e61cf67bd8d3348a7d2e754373af0e32b29627917190efb20112cdf44a2a21f9d0d18294f0231406f60d6fff62a9bb42e0f0fa552b5759f52bd8b761f507926f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/PLAGcSFJ/versions/uvZ5zIN0/ParticleEffects-1.0.8%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/PLAGcSFJ/versions/d7BMRd7f/ParticleEffects-1.3.0%2B1.21.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "69f0bf8e60277a26225a544ec295c2c453f0654ac245e96760eb0f0709211f941138225f9a627edd1422d23fc4bf46d1f2746e68cfe67d987fa9b7768f2549c4"
 
+[update]
 [update.modrinth]
-mod-id = 'PLAGcSFJ'
-version = 'uvZ5zIN0'
+mod-id = "PLAGcSFJ"
+version = "d7BMRd7f"

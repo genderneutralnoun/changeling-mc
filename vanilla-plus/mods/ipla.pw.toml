@@ -1,16 +1,13 @@
-filename = 'ipla-1.21.1-fabric-4.5.jar'
-name = 'Ipla'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Ipla"
+filename = "ipla-mc1.21.1-fabric-5.2.1.jar"
+side = "both"
 
 [download]
-hash = '70e8837ab3447348dd146a3bf781a3ac702373f5091e76d166a1fc43fd8eab491381da643a7129276feb5eeb3644b56bfc46cf47c9a85bca22bad2c6542e1e4f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/7dLiTaTa/versions/rBcu3TN7/ipla-1.21.1-fabric-4.5.jar'
+url = "https://cdn.modrinth.com/data/7dLiTaTa/versions/SmM9ov2R/ipla-mc1.21.1-fabric-5.2.1.jar"
+hash-format = "sha512"
+hash = "3a82aaf1801c5e7da857fc8ebe2df839c293ea14e2241356cc86fe912419319df37a1bdb17773886155a9b6af9f68da3952c1209c7cf56aaf2af497b80bf0cb3"
 
+[update]
 [update.modrinth]
-mod-id = '7dLiTaTa'
-version = 'rBcu3TN7'
+mod-id = "7dLiTaTa"
+version = "SmM9ov2R"

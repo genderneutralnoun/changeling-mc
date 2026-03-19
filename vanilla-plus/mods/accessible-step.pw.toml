@@ -1,21 +1,17 @@
-filename = 'accessible-step-fabric-mc1.21.1-2.1.0+1.21.1.jar'
-name = 'Accessible Step'
-side = 'client'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Accessible Step"
+filename = "accessible-step-fabric-mc1.21.1-2.2.2+1.21.1.jar"
+side = "client"
 
 [download]
-hash = '7e65722f8d6652ad5e7153551503d8bf81fc56e228de65ca9f5769036183b021a2e87548133032ad868ef81eabe80c1fd5d7715d83a5520270243bff8c7930a0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/z6d6n7ve/versions/Aw3IjzlB/accessible-step-fabric-mc1.21.1-2.1.0%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/z6d6n7ve/versions/F0bLQuFm/accessible-step-fabric-mc1.21.1-2.2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e5c35989b39389f24528e9f198756317e91389e9790308b9784eef4500c94dbe1ddf058f17812b49a53c72974c090424a88481ee600fe607ad0f7ec55d766861"
 
+[update]
 [update.modrinth]
-mod-id = 'z6d6n7ve'
-version = 'Aw3IjzlB'
+mod-id = "z6d6n7ve"
+version = "F0bLQuFm"
 
 [option]
 optional = true
-default = false
-description = '''Adds a better autojump that functions like half-block step up, but for full blocks. Configurable in-game and able to be disabled.'''
+description = "Adds a better autojump that functions like half-block step up, but for full blocks. Configurable in-game and able to be disabled."

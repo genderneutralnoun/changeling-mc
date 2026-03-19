@@ -1,16 +1,13 @@
-filename = 'MoreGrindstoneVariants-1.1.2+1.21-Fabric.jar'
-name = 'More Grindstone Variants'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "More Grindstone Variants"
+filename = "MoreGrindstoneVariants-1.1.4+1.21(.1)-Fabric.jar"
+side = "both"
 
 [download]
-hash = 'f22654d55898ec56b6e1592a655e05d7df39ad0f5f906fdd2b2efae50f8911ca7f9db15441d20ea8ba2d9d83c1bd54d8219c6b39d2b625fb4ebd14308cd900a7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/VNYXl8f7/versions/4AZ7Bcn0/MoreGrindstoneVariants-1.1.2%2B1.21-Fabric.jar'
+url = "https://cdn.modrinth.com/data/VNYXl8f7/versions/CAUobHlE/MoreGrindstoneVariants-1.1.4%2B1.21%28.1%29-Fabric.jar"
+hash-format = "sha512"
+hash = "e1a4a702241ff706675adf6f50cf5cfe1dde63630717804599cb605311f18fce338b9bc8ddb8ed6cecb0cb90507a262d76c1407f8594c0f7d22069d4684d54d7"
 
+[update]
 [update.modrinth]
-mod-id = 'VNYXl8f7'
-version = '4AZ7Bcn0'
+mod-id = "VNYXl8f7"
+version = "CAUobHlE"

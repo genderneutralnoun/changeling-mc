@@ -1,16 +1,13 @@
-filename = 'underlay-1.21-v0.9.8.jar'
-name = 'Underlay'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Underlay"
+filename = "underlay-1.0.0-hotfix.1-fabric-mc1.21.jar"
+side = "both"
 
 [download]
-hash = '56e2ae70822efb9259ea88bd70d5bd308c9484ff8281a5d349d9eb2bf64960519a84612607176abfc5a1bdc9e2051d16216554b00458e9843f72f141253bb0df'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/iltKD9qU/versions/ZIMnLyo9/underlay-1.21-v0.9.8.jar'
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/yPcpz8KT/underlay-1.0.0-hotfix.1-fabric-mc1.21.jar"
+hash-format = "sha512"
+hash = "d2d659fd59fc63a15e8798cc826e848d246db763b3fc69fca7976e236c2b256075bce5b5dd5d3df8771bbc47817fc3b41ade872631e6d5757754727857d4cc7c"
 
+[update]
 [update.modrinth]
-mod-id = 'iltKD9qU'
-version = 'ZIMnLyo9'
+mod-id = "iltKD9qU"
+version = "yPcpz8KT"

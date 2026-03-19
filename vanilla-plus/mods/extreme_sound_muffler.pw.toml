@@ -1,16 +1,13 @@
-filename = 'ExtremeSoundMuffler-3.51_Fabric-1.21.jar'
-name = 'Extreme sound muffler'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Extreme sound muffler"
+filename = "ExtremeSoundMuffler-3.55_Fabric-1.21.jar"
+side = "both"
 
 [download]
-hash = '8c715a1ba00ee4cfed1b814e1c9df34e04673882807c4e00a61f28084b58a4abfdf35221e7a6e7c17cca6b5e45681896c0a3db6a187e1884e9b72d8aaaee1eb6'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/5IIKsxiL/versions/NYVzc7uB/ExtremeSoundMuffler-3.51_Fabric-1.21.jar'
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/8cGl56Cz/ExtremeSoundMuffler-3.55_Fabric-1.21.jar"
+hash-format = "sha512"
+hash = "290ba7c429d88d2ba0cfc19696b773affad626ab9891246ad45b0f2792428f9b5c35e1b7be00d87906cf398e4b206cd0c81033795932bea7182593c0b8ecbc61"
 
+[update]
 [update.modrinth]
-mod-id = '5IIKsxiL'
-version = 'NYVzc7uB'
+mod-id = "5IIKsxiL"
+version = "8cGl56Cz"

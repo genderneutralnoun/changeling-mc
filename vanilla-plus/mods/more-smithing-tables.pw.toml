@@ -1,16 +1,13 @@
-filename = 'MoreSmithingTables-1.3.1+1.21(.1)-Fabric.jar'
-name = 'More Smithing Tables'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "More Smithing Tables"
+filename = "MoreSmithingTables-1.3.2+1.21(.1)-Fabric.jar"
+side = "both"
 
 [download]
-hash = '8f3318a3bb75f4b93117ebeb50ba52eb3f44d95454aa332fc798163b4e1e9b4466a0e0367ee69a1919ab0cd3f00920b442cee4960b4e33a4a83b7e6388297932'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/t3iWfx17/versions/xh0KPfTT/MoreSmithingTables-1.3.1%2B1.21%28.1%29-Fabric.jar'
+url = "https://cdn.modrinth.com/data/t3iWfx17/versions/c0fkdYR2/MoreSmithingTables-1.3.2%2B1.21%28.1%29-Fabric.jar"
+hash-format = "sha512"
+hash = "5295344a54a318c27deeec31ba428d2605ee74b0da10bc8a4d862070fa48a1bd9a8563eedc21fdc032c55b5d06f91500e2bccd455b24023f9e1dcb877397741e"
 
+[update]
 [update.modrinth]
-mod-id = 't3iWfx17'
-version = 'xh0KPfTT'
+mod-id = "t3iWfx17"
+version = "c0fkdYR2"

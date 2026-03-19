@@ -1,21 +1,18 @@
-filename = 'minecraft-cursor-fabric-3.11.2+1.21.1.jar'
-name = 'Minecraft Cursor'
-side = 'both'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Minecraft Cursor"
+filename = "minecraft-cursor-fabric-3.11.2+1.21.1-patch.1.jar"
+side = "both"
 
 [download]
-hash = 'ab790012ffc40ee0b8bb37b77568ed4c086c589414b1b80c9752e0a4edca5dd6f14f32b33a24808abd028958900b003adad5cb1f38f419e2927eb611b7c78ee4'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/o5fhgLeQ/versions/jCjQWU8Y/minecraft-cursor-fabric-3.11.2%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/ZF75Hbd0/minecraft-cursor-fabric-3.11.2%2B1.21.1-patch.1.jar"
+hash-format = "sha512"
+hash = "0688741a231bca7e4c550e87770a68ca63f71623c1e4cc17c130fa85125bd7349ac204c7fe7fc7af66481cb33bf5e50586882b4dc071443a7d7069cd5b6cbeed"
 
+[update]
 [update.modrinth]
-mod-id = 'o5fhgLeQ'
-version = 'jCjQWU8Y'
+mod-id = "o5fhgLeQ"
+version = "ZF75Hbd0"
 
 [option]
 optional = true
+description = "Visual change not to everyone's taste. Performance impact, if any, is negligable."
 default = true
-description = '''Visual change not to everyone's taste. Performance impact, if any, is negligable.'''

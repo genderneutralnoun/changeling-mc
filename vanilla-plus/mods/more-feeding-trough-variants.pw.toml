@@ -1,16 +1,13 @@
-filename = 'MoreFeedingTroughVariants-1.2.0+1.21(.1)-Fabric.jar'
-name = 'More Feeding Trough Variants'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "More Feeding Trough Variants"
+filename = "MoreFeedingTroughVariants-1.2.1+1.21(.1)-Fabric.jar"
+side = "both"
 
 [download]
-hash = '8e9ff67eefdbeeea933365f5c05214284571b179779d73fe9ed0772623d27454a79bf41cd564b739edf383a5a64bc40d31e4394e2c9f6737dcb939e5b4ca1f77'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/1tqQKQKR/versions/l1Is1AAu/MoreFeedingTroughVariants-1.2.0%2B1.21%28.1%29-Fabric.jar'
+url = "https://cdn.modrinth.com/data/1tqQKQKR/versions/uHZDgZ2J/MoreFeedingTroughVariants-1.2.1%2B1.21%28.1%29-Fabric.jar"
+hash-format = "sha512"
+hash = "4919bb937c5373e9d5ecb6d3991d4894ae627f3348024756d4a2869a9bf4d8ba68f999cb2e204dd3ea9031c5a595e2f0b2f0bb2ea541e8bd469161243a9123cd"
 
+[update]
 [update.modrinth]
-mod-id = '1tqQKQKR'
-version = 'l1Is1AAu'
+mod-id = "1tqQKQKR"
+version = "uHZDgZ2J"

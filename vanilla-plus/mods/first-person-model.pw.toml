@@ -1,21 +1,18 @@
-filename = 'firstperson-fabric-2.6.0-mc1.21.1.jar'
-name = 'FirstPerson'
-side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "FirstPerson"
+filename = "firstperson-fabric-2.6.3-mc1.21.1.jar"
+side = "both"
 
 [download]
-hash = '65cb452a9bad6a4209588baba9ba0e805940e457b048485dada32ea385d1a2aad07fa95b7e640e4fc3f2e9fe0a30f829ee828aca900ffa98b896033636192fa8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/H5XMjpHi/versions/Y3tbAReX/firstperson-fabric-2.6.0-mc1.21.1.jar'
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/sblucvgg/firstperson-fabric-2.6.3-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "631bc615b321afdf93cd4a4a69b4345aec4a59096bdbe3790de9bebab5b563738e94872f6b8d1a55875d050faa4df7a6da170e5669cb9919592bf446f9b94390"
 
+[update]
 [update.modrinth]
-mod-id = 'H5XMjpHi'
-version = 'Y3tbAReX'
+mod-id = "H5XMjpHi"
+version = "sblucvgg"
 
 [option]
 optional = true
+description = "Visual change not to everyone's taste. May have minor performance impact."
 default = true
-description = '''Visual change not to everyone's taste. May have minor performance impact.'''

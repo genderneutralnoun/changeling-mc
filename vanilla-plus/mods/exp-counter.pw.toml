@@ -1,21 +1,18 @@
-filename = 'expcounter-1.21.1-fabric-2.2.jar'
-name = 'EXP Counter'
-side = 'client'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "EXP Counter"
+filename = "expcounter-1.21.1-fabric-2.5.jar"
+side = "client"
 
 [download]
-hash = 'bb08a78b3f7be4e163a83d8522d79ef12c586be7f9020bc8f9860ed34e7fc413f1a67285377d33118ca7aeaad33684e3207942bd801b835e91111f79e25da8c6'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/lPSTdJm7/versions/WdGCtron/expcounter-1.21.1-fabric-2.2.jar'
+url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/KJZkM3b6/expcounter-1.21.1-fabric-2.5.jar"
+hash-format = "sha512"
+hash = "11a411d5f86c46c0c6b898f0f7ea23664af81a1745ef7b3208c622396eba53e686c80f5ec36619a2e9f883ab16f4edcf57285ecde1d9d39ac33f5b38763ac079"
 
+[update]
 [update.modrinth]
-mod-id = 'lPSTdJm7'
-version = 'WdGCtron'
+mod-id = "lPSTdJm7"
+version = "KJZkM3b6"
 
 [option]
 optional = true
+description = "Visual change not to everyone's taste. Performance impact, if any, is negligable."
 default = true
-description = '''Visual change not to everyone's taste. Performance impact, if any, is negligable.'''

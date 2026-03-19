@@ -1,16 +1,13 @@
-filename = 'roses_mod-4.0+1.20.5-1.21.1.jar'
-name = 'Roses'
-side = 'both'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
+name = "Roses"
+filename = "roses_mod-5.0+1.20.5-1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'b0112ecf942dcc9450c441aabb334218e0761c79cceafa734208c9d9e0dfc00db53fe871cab28d7f7b82581abd7b7427155d77e742ef2c97375ad34d96cec719'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Hxo4BmMk/versions/YQMD7CIs/roses_mod-4.0%2B1.20.5-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/Hxo4BmMk/versions/aVtdt4G5/roses_mod-5.0%2B1.20.5-1.21.1.jar"
+hash-format = "sha512"
+hash = "4c44c9f792cea3f003d3daaec505fe9dddc1ab0ed39d5a01f748c25ab41302ddd58a4bbe51ce0624f7c286a55c4ad8315a36c92dae86bd24038b4fbb1bed9a3f"
 
+[update]
 [update.modrinth]
-mod-id = 'Hxo4BmMk'
-version = 'YQMD7CIs'
+mod-id = "Hxo4BmMk"
+version = "aVtdt4G5"
