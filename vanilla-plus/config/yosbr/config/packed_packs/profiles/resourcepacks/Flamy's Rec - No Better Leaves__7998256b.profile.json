@@ -1,6 +1,6 @@
 {
-  "locked": true,
-  "name": "Flamy\u0027s Reccomendation",
+  "locked": false,
+  "name": "Flamy\u0027s Rec - No Better Leaves",
   "overrides": {},
   "packIds": [
     "diagonalblocks:default_block_models",
@@ -10,7 +10,6 @@
     "file/Twemoji Visibility 1.9.zip",
     "file/geofont-mc-v2.1.3.zip",
     "subtle_effects:biome_color_water_particles",
-    "file/Better-Leaves-9.5.zip",
     "convenientdecor:hydrated_farmland",
     "file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip",
     "file/Clean_Connected_Glass(1.20_fix_with_DiagonalWindows_mod).zip",

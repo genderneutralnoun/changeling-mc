@@ -1,15 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/packed_packs/profiles/resourcepacks/Flamy's Rec - No Better Leaves__7998256b.profile.json"
+file = "config/yosbr/config/ReactiveMusic.json5"
+hash = "b919edde639213d5ded70f3f57ecaae2940dd656b7f3de1d7bcbda8828bb421e"
+
+[[files]]
+file = "config/yosbr/config/packed_packs/config.json"
+hash = "897fee2bfcf5a6ee7915f2343583f7631edc11d9339aa646ba797d77e4101f89"
+
+[[files]]
+file = "config/yosbr/config/packed_packs/config.meta.json"
+hash = "3378a5d9e48de94bfc031452fe2ad382fe3ddbaf925dcade17bc4d714719df98"
+
+[[files]]
+file = "config/yosbr/config/packed_packs/preferences.properties"
+hash = "b57de83b3b8b2763c781c9969b6577f6932bfa5184d59eccc11ed409089b5b45"
+
+[[files]]
+file = "config/yosbr/config/packed_packs/profiles/resourcepacks/Flamy's Rec - No Better Leaves__7998256b.profile.json"
 hash = "de2ed091b2509dd7c0ab0dc1d8e04e253f8d91fc6c82d1dbf4ccb85c31c21f32"
 
 [[files]]
-file = "config/packed_packs/profiles/resourcepacks/Flamy's Reccomendation__b33c5c82.profile.json"
-hash = "942b87a2b55107884e50d6f38892f960dd14741b13da6df6d27239e6cc4c5f36"
+file = "config/yosbr/config/packed_packs/profiles/resourcepacks/Flamy's Reccomendation__b33c5c82.profile.json"
+hash = "2e757a7675464a5a1c6a4cb3616d0f2f0dd92d98a4aae502da466556a005cfe3"
 
 [[files]]
-file = "config/packed_packs/profiles/resourcepacks/Lightweight__9da7ffcd.profile.json"
+file = "config/yosbr/config/packed_packs/profiles/resourcepacks/Lightweight__9da7ffcd.profile.json"
 hash = "b5e6c3f2ebaef2451ec2f9ec1582172ddf047012f55983ec91b01601094ee2c1"
 
 [[files]]
@@ -2121,6 +2137,11 @@ hash = "e8cbf1f1a27f054098f11060c14e615114e1e65796fb659d3ad902cade396060"
 metafile = true
 
 [[files]]
+file = "resourcepacks/acww-songpack.pw.toml"
+hash = "f5ae8b33b90b4b102e0c6a56c893c4dbba094561d5cd1d0368f8bfe3423f248a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "72a27417f5a886fde4c46a6178562b1987327578def280692f4dd38b9fc19ccc"
 metafile = true
@@ -2161,6 +2182,11 @@ hash = "d5905d2bc1861046fcf17a36011001a5d57ad82a0e9dc08ca09f0628a612f68f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pokemon-mystery-dungeon-reactive-music-pack.pw.toml"
+hash = "0ee070673ac95475d6f10d715c8e7de7a944a6e4c600ea0a10e1069c7ff7ec83"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rays-3d-ladders.pw.toml"
 hash = "9d4439b2cb917babd26c12e898faf8befecce1e31f2690a9ffdd82a5299787cb"
 metafile = true
@@ -2171,8 +2197,18 @@ hash = "fd3afdfac7ebb850af5485653ccc9b1cd19312cd78bbd454701455a310ec34f5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/reactive-music-off.pw.toml"
+hash = "8dd4f4bd97e2a9d43103d93d54d458ebe3ec7c163e5c1f8abc765d0739b61242"
+metafile = true
+
+[[files]]
 file = "resourcepacks/revived-farmers-delight-crops-3d-refabricated.pw.toml"
 hash = "858d537186b111d223279b74164cdee3e674142e1a6264ad48866e24bcab7bdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/soundaria.pw.toml"
+hash = "d21854d73018507eec47be54a4025bbd8056a20dc259d380f8bb2068c99bc155"
 metafile = true
 
 [[files]]

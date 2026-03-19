@@ -1,0 +1,26 @@
+{
+  "devMode": true,
+  "showActionBar": true,
+  "hideIncompatible": false,
+  "sort": "VANILLA",
+  "resourcepacks": {
+    "applyOnClose": false,
+    "replaceOriginal": true,
+    "hideIncompatibleWarnings": true,
+    "additionalFolders": [],
+    "rememberLastViewedProfile": true,
+    "lastViewedProfile": "Flamy\u0027s Reccomendation__b33c5c82",
+    "profileOrder": [
+      "Flamy\u0027s Reccomendation__b33c5c82",
+      "Lightweight__9da7ffcd",
+      "Flamy\u0027s Rec - No Better Leaves__7998256b"
+    ]
+  },
+  "datapacks": {
+    "replaceOriginal": true,
+    "hideIncompatibleWarnings": false,
+    "additionalFolders": [],
+    "rememberLastViewedProfile": false,
+    "profileOrder": []
+  }
+}
