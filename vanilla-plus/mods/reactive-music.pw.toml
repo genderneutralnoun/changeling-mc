@@ -15,3 +15,8 @@ url = 'https://cdn.modrinth.com/data/Bqnfeesx/versions/35e0Vnus/reactivemusic-1.
 [update.modrinth]
 mod-id = 'Bqnfeesx'
 version = '35e0Vnus'
+
+[option]
+optional = true
+default = true
+description = '''Makes in-game music react to what's happening in game. Not to everyone's taste.'''

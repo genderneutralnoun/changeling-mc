@@ -1678,7 +1678,7 @@ metafile = true
 
 [[files]]
 file = "mods/reactive-music.pw.toml"
-hash = "16963c960d3f5bfd0fefc370e79abefe082950d68584b04d42a0dbd64aab59c4"
+hash = "517e12d73342ddb5802289c41d581dbc90c8c2a905d36919c2767e285e1aff64"
 metafile = true
 
 [[files]]
