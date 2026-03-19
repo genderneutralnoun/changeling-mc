@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/packed_packs/profiles/resourcepacks/Flamy's Rec - No Better Leaves__7998256b.profile.json"
+hash = "de2ed091b2509dd7c0ab0dc1d8e04e253f8d91fc6c82d1dbf4ccb85c31c21f32"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Flamy's Reccomendation__b33c5c82.profile.json"
+hash = "2e757a7675464a5a1c6a4cb3616d0f2f0dd92d98a4aae502da466556a005cfe3"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Lightweight__9da7ffcd.profile.json"
+hash = "b5e6c3f2ebaef2451ec2f9ec1582172ddf047012f55983ec91b01601094ee2c1"
+
+[[files]]
 file = "config/yosbr/config/ReactiveMusic.json5"
 hash = "b919edde639213d5ded70f3f57ecaae2940dd656b7f3de1d7bcbda8828bb421e"
 
@@ -2138,7 +2150,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/acww-songpack.pw.toml"
-hash = "f5ae8b33b90b4b102e0c6a56c893c4dbba094561d5cd1d0368f8bfe3423f248a"
+hash = "65fa8f37f087629529e93b29e318ee617f3e4ec815a3a7f71feab73c6ac94ffe"
 metafile = true
 
 [[files]]
@@ -2183,7 +2195,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pokemon-mystery-dungeon-reactive-music-pack.pw.toml"
-hash = "0ee070673ac95475d6f10d715c8e7de7a944a6e4c600ea0a10e1069c7ff7ec83"
+hash = "02f446790a2d86e3d430de13f1d48f27f7b56f71673e5a076d2d340ddc72fce4"
 metafile = true
 
 [[files]]
@@ -2198,7 +2210,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reactive-music-off.pw.toml"
-hash = "8dd4f4bd97e2a9d43103d93d54d458ebe3ec7c163e5c1f8abc765d0739b61242"
+hash = "3b87fdc4069a58501de8461e0af6da2042557d3164dda5e2beec0eff1230713d"
 metafile = true
 
 [[files]]
@@ -2208,7 +2220,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/soundaria.pw.toml"
-hash = "d21854d73018507eec47be54a4025bbd8056a20dc259d380f8bb2068c99bc155"
+hash = "83f35d812f7e62bbd9c98d7dd8efd1926906da730ad2f776a9cd23217d376190"
 metafile = true
 
 [[files]]

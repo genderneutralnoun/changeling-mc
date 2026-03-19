@@ -1,6 +1,6 @@
 filename = 'PokemonMysteryDungeon-ReactiveMusic.zip'
 name = 'Pokemon Mystery Dungeon - Reactive Music Pack'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

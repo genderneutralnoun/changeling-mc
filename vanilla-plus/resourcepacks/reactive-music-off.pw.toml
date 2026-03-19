@@ -1,6 +1,6 @@
 filename = 'reactive-music-off-3.0.zip'
 name = 'Vanilla soundtrack tweaks (Reactive Music: OFF)'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.20',
