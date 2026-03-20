@@ -29,18 +29,6 @@ file = "config/yosbr/config/packed_packs/preferences.properties"
 hash = "b57de83b3b8b2763c781c9969b6577f6932bfa5184d59eccc11ed409089b5b45"
 
 [[files]]
-file = "config/yosbr/config/packed_packs/profiles/resourcepacks/Flamy's Rec - No Better Leaves__7998256b.profile.json"
-hash = "de2ed091b2509dd7c0ab0dc1d8e04e253f8d91fc6c82d1dbf4ccb85c31c21f32"
-
-[[files]]
-file = "config/yosbr/config/packed_packs/profiles/resourcepacks/Flamy's Reccomendation__b33c5c82.profile.json"
-hash = "2e757a7675464a5a1c6a4cb3616d0f2f0dd92d98a4aae502da466556a005cfe3"
-
-[[files]]
-file = "config/yosbr/config/packed_packs/profiles/resourcepacks/Lightweight__9da7ffcd.profile.json"
-hash = "b5e6c3f2ebaef2451ec2f9ec1582172ddf047012f55983ec91b01601094ee2c1"
-
-[[files]]
 file = "icon.png"
 hash = "73e6019253d0b015d92ffdbd3a2a8c71c614d62f9296ced6042b7c491d047802"
 
@@ -242,11 +230,6 @@ metafile = true
 [[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "e2d849f2d031e7e6b548357d3f9ac13bb254158450437443c7aebab2a134eaca"
-metafile = true
-
-[[files]]
-file = "mods/blocks-previewer.pw.toml"
-hash = "5ea20309abaa766594c61f373eed45d05807768ee8102719b0b9d7b676329a58"
 metafile = true
 
 [[files]]
