@@ -15,4 +15,4 @@ version = "bLPLghy9"
 [option]
 optional = true
 default = true
-description = '''Lets you see further without turning your game into a slideshow. Very large performance impact, disable if needed.'''
+description = '''Lets you see further without turning your game into a slideshow (in most cases, anyway). Large performance impact, disable if needed.'''

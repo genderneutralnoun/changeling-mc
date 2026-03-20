@@ -15,4 +15,4 @@ version = 'Pg76zkO0'
 [option]
 optional = true
 default = true
-description = '''Visual change not to everyone's taste. Performance impact, if any, is negligable.'''
+description = '''Shows which items you've just picked up with a little star. Not to everyone's taste. Performance impact, if any, is negligable.'''

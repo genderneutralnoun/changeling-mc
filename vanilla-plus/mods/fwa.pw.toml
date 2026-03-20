@@ -15,4 +15,4 @@ version = 'VV3pD8uF'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement not to everyone's taste. Performance impact, if any, is negligable.'''
+description = '''Adds some neat animations, like doors visually opening and closing. Not to everyone's taste. Performance impact, if any, is negligable.'''

@@ -15,4 +15,4 @@ version = 'yZWXg0WM'
 [option]
 optional = true
 default = true
-description = '''Visual change not to everyone's taste. Performance impact, if any, is negligable.'''
+description = '''Adds colored item borders to certain items, indicating their rarity. Not to everyone's taste. Performance impact, if any, is negligable.'''

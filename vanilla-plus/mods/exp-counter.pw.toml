@@ -14,5 +14,5 @@ version = "KJZkM3b6"
 
 [option]
 optional = true
-description = "Visual change not to everyone's taste. Performance impact, if any, is negligable."
+description = "Puts some numbers on the EXP bar that show you the exact amount of EXP you have. Not to everyone's taste. Performance impact, if any, is negligable."
 default = true

@@ -15,4 +15,4 @@ version = '35e0Vnus'
 [option]
 optional = true
 default = true
-description = '''Makes in-game music react to what's happening in game. Not to everyone's taste.'''
+description = '''Makes in-game music react to what's happening in game. Not to everyone's taste. Set up so that it only plays the vanilla music, but some songpacks are included if you want to try them.'''

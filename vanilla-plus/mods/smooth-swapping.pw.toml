@@ -14,5 +14,5 @@ version = "fJBW6Fkc"
 
 [option]
 optional = true
-description = "Visual enhancement, disable for better performance."
+description = "Makes items look like they're visually moving over to their new location when shift-clicking them into an inventory, and other similar actions. Not to everyone's tastes. Negligable performance impact, but may look bad on low frame rates."
 default = true

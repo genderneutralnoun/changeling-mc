@@ -14,5 +14,5 @@ version = "sblucvgg"
 
 [option]
 optional = true
-description = "Visual change not to everyone's taste. May have minor performance impact."
+description = "Shows a visible player body in first person. Not to everyone's taste. May have minor performance impact."
 default = true

@@ -14,5 +14,5 @@ version = "bVuFL4dp"
 
 [option]
 optional = true
-description = "Visual enhancement, disable for better performance."
+description = "Visual enhancement, makes grass look way better. Small performance impact, disable for better performance."
 default = true

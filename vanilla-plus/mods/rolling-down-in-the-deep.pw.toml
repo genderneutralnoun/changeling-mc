@@ -15,4 +15,4 @@ version = 'Lzwmnqcs'
 [option]
 optional = true
 default = true
-description = '''Swimming changes, can be even more nausea inducing. Requires Do A Barrel Roll.'''
+description = '''Swimming changes, can be even more nausea inducing. Requires Do A Barrel Roll. Can be disabled in-game; disabling the whole mod removes some nice tweaks to how other players appear while swimming.'''

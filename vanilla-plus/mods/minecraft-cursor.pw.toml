@@ -14,5 +14,5 @@ version = "ZF75Hbd0"
 
 [option]
 optional = true
-description = "Visual change not to everyone's taste. Performance impact, if any, is negligable."
+description = "Changes the cursor to look Minecraft-y. Not to everyone's taste. Performance impact, if any, is negligable."
 default = true

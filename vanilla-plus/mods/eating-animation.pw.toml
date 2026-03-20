@@ -15,4 +15,4 @@ version = 'KWZCioh0'
 [option]
 optional = true
 default = true
-description = '''Visual change not to everyone's taste. Performance impact, if any, is negligable.'''
+description = '''Makes vanilla food (and some modded food) look visually "eaten" when you eat them by adding an animation to the sprite. Not to everyone's taste, lack of complete mod compatibility may also bother some. Performance impact, if any, is negligable.'''

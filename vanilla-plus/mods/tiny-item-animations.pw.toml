@@ -15,4 +15,4 @@ version = '3KyrwMAv'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement, disable for better performance.'''
+description = '''Item animations. Small performance impact, and may look bad on low frame rates.'''

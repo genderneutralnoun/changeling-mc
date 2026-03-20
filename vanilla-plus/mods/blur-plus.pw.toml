@@ -14,5 +14,5 @@ version = "lnp4wb42"
 
 [option]
 optional = true
-description = "Visual change not to everyone's taste. May have minor performance impact."
+description = "Visual change not to everyone's taste, creates a blur behind GUIs such as the inventory screen and ESC menu. May have minor performance impact."
 default = true

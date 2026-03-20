@@ -15,4 +15,4 @@ version = 'vBXl66wc'
 [option]
 optional = true
 default = true
-description = '''Microsoft Flight Simulator-style flying, may be nausea inducing.'''
+description = '''Microsoft Flight Simulator-style flying, may be nausea inducing. Can be disabled in-game; disabling the whole mod removes some nice tweaks to how other players appear while flying.'''

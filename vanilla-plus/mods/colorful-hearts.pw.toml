@@ -15,4 +15,4 @@ version = 'ZGVfx1WG'
 [option]
 optional = true
 default = true
-description = '''Visual change not to everyone's taste. Performance impact, if any, is negligable.'''
+description = '''If player hearts increase beyond the base ten (i.e. via Absorption), causes them to be shown as a colorful overlay instead of multiple rows, similar to boss health bars in some RPGs. Not to everyone's taste.'''

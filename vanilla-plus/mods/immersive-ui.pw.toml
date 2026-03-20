@@ -15,4 +15,4 @@ version = '1Qx4v8mx'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement, disable for better performance.'''
+description = '''Adds animations to the inventory screen. Disable for better performance.'''

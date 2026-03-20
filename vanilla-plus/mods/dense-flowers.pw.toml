@@ -15,4 +15,4 @@ version = 'X3hByxU6'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement, disable for better performance.'''
+description = '''Causes flowers placed next to each other to show additional visual-only flowers, creating a nice dense effect. Small performance impact, disable for better performance.'''

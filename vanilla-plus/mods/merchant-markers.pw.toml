@@ -15,4 +15,4 @@ version = 'guv4URio'
 [option]
 optional = true
 default = true
-description = '''Visual change not to everyone's taste. Performance impact, if any\, is negligable.'''
+description = '''Shows an icon above villagers indicating what their class is. Not to everyone's taste. Performance impact, if any\, is negligable.'''

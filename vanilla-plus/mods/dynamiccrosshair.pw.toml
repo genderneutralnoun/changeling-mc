@@ -14,5 +14,5 @@ version = "ubTNYZuL"
 
 [option]
 optional = true
-description = "Visual change not to everyone's taste. Performance impact, if any, is negligable."
+description = "Causes your crosshair to change shape depending on what you're looking at, similar to many modern first-person games. Not to everyone's taste. Performance impact, if any, is negligable."
 default = true

@@ -15,4 +15,4 @@ version = 'WuY7eJX9'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement, disable for better performance.'''
+description = '''Makes boats and other water vehicles moving at sufficient speed create cool-looking water wakes. Medium performance impact, disable for better performance.'''

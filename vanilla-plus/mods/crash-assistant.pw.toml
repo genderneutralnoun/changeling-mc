@@ -14,5 +14,5 @@ version = "Q9qWTlR7"
 
 [option]
 optional = true
-description = "Crash debugger, helps Flamy fix your issues. Only advanced users should disable this."
+description = "Crash debugger, helps Flamy fix your issues. Only advanced users should disable this, and if you do, Flamy won't help you with your crashes. You've been warned."
 default = true

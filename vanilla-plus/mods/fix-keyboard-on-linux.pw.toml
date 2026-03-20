@@ -15,4 +15,4 @@ version = 'hoSPSRQf'
 [option]
 optional = true
 default = false
-description = '''Only needed on Linux, and not in all cases.'''
+description = '''Fixes keyboard bugs that occur on some Linux setups. Probably harmless to include even if you don't need it.'''

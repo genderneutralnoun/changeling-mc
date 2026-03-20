@@ -15,4 +15,4 @@ version = 'dhKbgdIb'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement, disable for better performance.'''
+description = '''Adds some small visual details to the game to make it feel more "alive". Medium performance impact, disable for better performance.'''

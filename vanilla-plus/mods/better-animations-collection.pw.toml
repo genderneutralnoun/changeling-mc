@@ -15,4 +15,4 @@ version = 'viLbr66Z'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement, disable for better performance.'''
+description = '''Visual enhancement, adds various animations to vanilla mobs. Performance impact, if any, is negligable.'''

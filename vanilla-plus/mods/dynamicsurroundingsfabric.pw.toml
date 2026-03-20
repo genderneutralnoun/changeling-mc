@@ -15,4 +15,4 @@ version = 'PdSOBhyc'
 [option]
 optional = true
 default = true
-description = '''Visual/audio enhancement, disable for better performance.'''
+description = '''Adds lots of neat audio and visual tweaks to the game to make it feel more "alive". Disable for better performance and less memory usage.'''

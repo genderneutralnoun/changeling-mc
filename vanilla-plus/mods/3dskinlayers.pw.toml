@@ -14,5 +14,5 @@ version = "TYPf51DB"
 
 [option]
 optional = true
-description = "Visual change not to everyone's taste. Performance impact, if any, is negligable"
+description = "Visual change not to everyone's taste. Performance impact, if any, is negligable."
 default = true

@@ -15,4 +15,4 @@ version = 'e0MOX2WB'
 [option]
 optional = true
 default = true
-description = '''Visual enhancement not to everyone's taste. Performance impact, if any, is negligable.'''
+description = '''Creates particles and sounds when eating cake, like when eating handheld food.'''

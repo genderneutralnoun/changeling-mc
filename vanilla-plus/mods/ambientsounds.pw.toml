@@ -14,5 +14,5 @@ version = "D31kF2Wq"
 
 [option]
 optional = true
-description = "Audio enhancement, disable for better performance."
+description = "Adds ambient sounds such as birdsong. Disable for better performance and less memory usage."
 default = true

@@ -15,4 +15,4 @@ version = 'f4suO4vX'
 [option]
 optional = true
 default = true
-description = '''Visual not to everyone's taste. Performance impact, if any, is negligable.'''
+description = '''Makes the tooltip of an item fancy depending on its rarity. Not to everyone's taste. Performance impact, if any, is negligable.'''
