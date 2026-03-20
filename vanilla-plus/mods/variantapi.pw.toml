@@ -1,9 +1,6 @@
 filename = 'variantapi-1.4.1+1.21.1.jar'
 name = 'VariantAPI'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'a15723bdaac3377b2f9cf130a8f3dd6c06080fbd02fd31c6c1a83e41f57afbf888cdb74b6d4c8596802db6cc89076297ffb9a521ef3fe54149c1d0aae8f924f0'

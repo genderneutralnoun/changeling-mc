@@ -1,9 +1,6 @@
 filename = 'thornybushprotection-1.21.1-1.5.jar'
 name = 'Thorny Bush Protection'
 side = 'server'
-#x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9a22dedab40837ae439b4dffc09c955bcbbe9bcb3931d504086aec145cae1d24d68b7b0939fb43d94e6bbeb7b16125080e9c7b39447a1cf480257a3731ab83b2'

@@ -1,9 +1,6 @@
 filename = 'MoreCraftingTables-1.2.8+1.21-Fabric.jar'
 name = 'More Crafting Tables (MCT)'
 side = 'both'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '860019a5b0c981704907c7127070d444d9104acb62dcf45cfbb21f50c62fd34080956a03a762e843995b4b05ca66983426062b376cb7e21c2405326a57e400fa'

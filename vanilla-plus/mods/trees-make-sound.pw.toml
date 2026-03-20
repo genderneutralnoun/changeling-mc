@@ -1,9 +1,6 @@
 filename = 'treesmakesound-1.2.1.jar'
 name = 'Trees Make Sound (Presence Not Required)'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '872c2c6562b76fd1b1876871845cf3480bdc47f33305f28144876c0d50a6441f057c9f9bf450385ac64e92d916e918d167d7ca439386f6bd06c27062ba0b2f1d'

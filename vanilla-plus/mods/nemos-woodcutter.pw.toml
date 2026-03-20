@@ -1,9 +1,6 @@
 filename = 'nemos-woodcutter-1.12.3-1.21.1.jar'
 name = "Nemo's Woodcutter"
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'dca69fb9da60fd5c65c744a70f84b93a2de05a963fddcfada306820195ff844e838c02f623ef45af3e3281de7870cc80e74caa1d0f92f1a276b59715bd7c0053'

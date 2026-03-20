@@ -1,9 +1,6 @@
 filename = 'Floral Enchantment-fabric-1.21.1-1.2.0.jar'
 name = 'Floral Enchantment'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9528bb205214c0064d86d2107b7a00e4e870759c3d63af5b12861cc25910757939550e8f684b56616b4647ca4cb0580536616372e19d73734560682c67594ed3'

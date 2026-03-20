@@ -1,9 +1,6 @@
 filename = 'guardvillagers-2.1.2-1.21.1.jar'
 name = 'Guard Villagers (Fabric/Quilt) [1.21.1]'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9427a7802f6c3fd0e63d69348efa41420ffeb0572a40f46ecb2b85bb58149cad7fe21182da44bd673d7dae372f86de43a832a5adc2b2ff9e04b0cb6de284a78e'

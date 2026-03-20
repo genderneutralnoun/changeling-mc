@@ -1,9 +1,6 @@
 filename = 'notenoughpots-1.21-fabric-1.3.jar'
 name = 'Not Enough Pots'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'f67bd82329b0779d1d058c76423ec7ebfa05c69ee2a39d3e4ea9c223f258f8d4cd2183caec6229d4aa183e0b305c4b14c4591d07b7d83fa1ca46525fc38a68a9'

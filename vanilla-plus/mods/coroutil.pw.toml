@@ -1,9 +1,6 @@
 filename = 'coroutil-fabric-1.21.1-1.3.8.jar'
 name = 'CoroUtil'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '8fe6c7bc6ddf5e5b29fb0975bb8ba56f9c24330ddf1ce7d82b43400181a5a7ad24cde40e69b9b509d36c11839d37b360cfe531996e751cdd4f1e740cd67991b1'

@@ -1,9 +1,6 @@
 filename = 'pumpkin_pie_delight-1.0.2+1.21.jar'
 name = 'Pumpkin Pie Delight'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '1a570b21a772c3a282df866bc2da997e8f7ef47eeb691a5f2ed60f148bfa9ea464249656c60d5ddf96f6e6cf18b08d09aba7c0aa15357e0c1ae0d95db1defa95'

@@ -1,9 +1,6 @@
 filename = 'zombie-horses-from-abandoned-villages-1.1.jar'
 name = 'Zombie Horses From Abandoned Villages'
 side = 'both'
-#x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.10', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'e122ba0ed7b17f022dbb32982aa54a9eb35dc65751f1e50cc38188b083269565b81809d9a6742ab36e097686a91d1b23edc9de0a6901897cbf1bdbd6353470ac'

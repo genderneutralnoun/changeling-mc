@@ -1,10 +1,6 @@
 filename = "REVIVED_Farmer's Delight_crops_3D_Refabricated_R1.5-1.20.x.zip"
 name = "REVIVED Farmer's Delight crops 3D Refabricated"
 side = 'client'
-x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'R1.5'
 
 [download]
 hash = 'be04bae39f98e321067ce4e32b0076d3553128bf1934f705609a1922a6b10e4926a2f8f524241b15ff2e045fe3809f5ee9f3bd64b48cd07d260a027590a13014'

@@ -1,9 +1,6 @@
 filename = 'chalk-2.2.5+1.21.1.jar'
 name = 'Chalk (Fabric)'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '66a984a978c75340a9cbd3025e6a1b8d146d5215ba56c8eb6645e369f50c59194b5b666ecae3742840a074b271d1482e327f9880e105835ee2ffa779a13a4698'

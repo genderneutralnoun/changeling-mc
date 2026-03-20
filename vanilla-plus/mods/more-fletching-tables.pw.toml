@@ -1,9 +1,6 @@
 filename = 'MoreFletchingTables-1.8.2+1.21.1-Fabric.jar'
 name = 'More Fletching Tables'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '76c6edddb8a2afebdcfb75e99f954fe501d90bee7fa7af03d268d8f593f85ba3739fa2c6067743dcb3a0572976e18b0279464b1a91c16c658e9b0d009394d010'

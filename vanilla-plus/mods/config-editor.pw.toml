@@ -1,9 +1,6 @@
 filename = 'config_editor-1.1.4+1.21.1.jar'
 name = 'config-editor'
 side = 'client'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '1472f5d6589c0150fdfa56118ccd6a7505a88ff43b834a6ad6dee67ef31c2f7f9cfec8f610055911ed8f839cde08f2b557f322461c7e5bb0935c08b68024f920'

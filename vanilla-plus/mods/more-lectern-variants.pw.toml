@@ -1,9 +1,6 @@
 filename = 'MoreLecternVariants-1.8.4+1.21(.1)-Fabric.jar'
 name = 'More Lectern Variants'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'ec7586d0aa610605429569f7c7bf72fbe08691191f3832208112ad92328d41fbadb4674d21d132464508b0f8eae8de5124b19735e53f688d2bd8040682f4b87b'

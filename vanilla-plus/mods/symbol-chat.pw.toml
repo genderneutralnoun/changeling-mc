@@ -1,9 +1,6 @@
 filename = 'symbol-chat-1.21.1-1.2.8.jar'
 name = 'Symbol Chat'
 side = 'client'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9c5b89b9c5c26ca473c777c998b41b7f7026b7f6932aabb1da22ca95f5513b497fd556ba36bed95fe66fd5a83ebe81aae4e17f12023afad2964942ab9ca146f1'

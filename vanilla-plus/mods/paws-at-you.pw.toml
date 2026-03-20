@@ -1,9 +1,6 @@
 filename = 'paws-at-you-1.0.0.jar'
 name = 'Paws At You'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'f15c177b0a90dc776b102707168b1cac0341712ce2ccd6bb86c284a2c2d93e0255e76434755b16b3879d609141ef6f760a1aca826b5322ad0a077705ced6758b'

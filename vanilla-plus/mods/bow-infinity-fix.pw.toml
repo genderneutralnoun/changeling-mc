@@ -1,9 +1,6 @@
 filename = 'BowInfinityFix-1.21-fabric-3.1.1.jar'
 name = 'Bow Infinity Fix'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '66f22400d9ea8d68c1709b87c11bce372d2d1e1efe94abf9431607e9437c0a90131eb7d61e07bfb859ae721090d10ff7b26a919d07dae9544204022aa8e13a5f'

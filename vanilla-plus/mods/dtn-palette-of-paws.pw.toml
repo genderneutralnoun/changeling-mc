@@ -1,9 +1,6 @@
 filename = 'DTNPaletteOfPaws[Fabric]-1.21-1.2.7.jar'
 name = "Doggy Talents Next's Palette Of Paws"
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '7e83778c398d38388a5eee644a65862728c033ca0923f3126d243988b0802a6246a832322f699c993e15869acb9b3e014f460b87d107b4c200fca4640c13acbf'

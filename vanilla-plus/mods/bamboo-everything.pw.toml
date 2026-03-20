@@ -1,9 +1,6 @@
 filename = 'bambooeverything-fabric-21.1.2+mc1.21.1.jar'
 name = 'Bamboo Everything'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '09ace9159d6b8ac403ecfe29c8eb5acc155ea32d9604c53c16679898875744f81ac575b32678d7ead0b668f578cf4cac8a8af758ca765ee23ac2255b49fb49cc'

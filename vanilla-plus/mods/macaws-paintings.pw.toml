@@ -1,9 +1,6 @@
 filename = 'mcw-paintings-1.0.5-1.21.1fabric.jar'
 name = "Macaw's Paintings"
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'f270ad6b07e25b88b252d5b2ca74869bc76344d08fa97936ce6d0cd29c98200520b4a1d2ea6122be289a1e46f096ad080a32aaff0cfa16a41128ae88ab091edf'

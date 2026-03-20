@@ -1,9 +1,6 @@
 filename = 'piggyback-fabric-1.21.1-1.1.1.jar'
 name = 'Piggyback'
 side = 'both'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9c45d608403438f91b43246f1929580fc515ba7b3548fe37e5fd004cf1e12d4b6bcb4bade0bc0265afda4a62fce6cb09973cf4786b9cb5021d0fe176c899fb52'

@@ -1,10 +1,6 @@
 filename = 'coloredslime-1.8.3+mc1.21.1.jar'
 name = 'Colored Slime Blocks'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.8.3'
 
 [download]
 hash = 'cfad0d127952efb94363e499764da30c0e522dfb2b6a89f80845294fc7ad074a9ed8e0f95f27acf7814a8071ca50a5dea4ab62b59afc64620e6ae0546f9b6d10'

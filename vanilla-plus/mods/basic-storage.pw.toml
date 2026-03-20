@@ -1,9 +1,6 @@
 filename = 'basicstorage-1.2.1+1.21.1.jar'
 name = 'Basic Storage'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '35d1970175be3894b05a2627d89326cb428dd4f3df0f1c6ed7afc811552fc73a038b9c780bf3a3deade5ee7acd7c9ca3878f3411bea4f0f23145045a917c654a'

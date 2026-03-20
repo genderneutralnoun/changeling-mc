@@ -1,9 +1,6 @@
 filename = 'wither-skull-overhaul-1.0.2.jar'
 name = 'Wither Skull Overhaul'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '8bd853839adc0f0611afce365d73b500b58734880597f4ab85c2449e1048b7e4eaa5779aac0a96fa02cc2c3128ea4a4638856121dbdfcabe0459a9d0b26ec0f3'

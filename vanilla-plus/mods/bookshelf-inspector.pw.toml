@@ -1,9 +1,6 @@
 filename = 'bookshelfinspector-fabric-2.1+1.21.1.jar'
 name = 'Bookshelf Inspector'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '24c71d617f8be00399bffd15b56d7ef536efe4451db62fd3d9541cf93c362070a026676dc09c785f2794443a76743c1fa8a104c7cbadbd057e467a8caea21a8d'

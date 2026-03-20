@@ -1,9 +1,6 @@
 filename = 'FauxCustomEntityData-fabric-1.21.1-13.0.1.jar'
 name = 'Faux Custom Entity Data'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0c84e36d68f9576f494b7acb69339da5e948f38ce263be6fe75588bfffc6b95522a11e2a597c8181241f4a30897225eb5d5470d984e809ff1d4e9d754a84841b'

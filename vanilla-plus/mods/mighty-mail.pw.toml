@@ -1,9 +1,6 @@
 filename = 'mighty_mail-fabric-1.21.1-1.1.4.jar'
 name = 'Mighty Mail'
 side = 'both'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '7efe3b7e170a0207fb8ea5e47385967ca33d6b8c'

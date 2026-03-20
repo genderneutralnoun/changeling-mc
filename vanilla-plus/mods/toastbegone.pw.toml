@@ -1,9 +1,6 @@
 filename = 'toastbegone-fabric-1.21-1.2.0.jar'
 name = 'ToastBegone'
 side = 'client'
-#x-prismlauncher-loaders = [ 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '7f1acb753bed412204c822468ff9cdfbf3e9bfd8e4dfd1fc11d36fc89a1fe234f1640a723ae3e15c5707c4e56a300b3393466c47bcf75f73e77c2b198ff4024b'

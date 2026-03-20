@@ -1,9 +1,6 @@
 filename = 'Boxlib-fabric-14.4.2.jar'
 name = 'BoxLib'
 side = 'client'
-#x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-#x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-#x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '4c29282fbe0d591f360f2d74bc99b021bf3c65943a75953a07e57bb0e152b5e22730f82dd4b1afb9f2a4b3c5ec40ed62af4cdfef4c859325114af72324f0e619'

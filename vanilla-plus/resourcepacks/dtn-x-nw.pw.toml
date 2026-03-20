@@ -1,25 +1,6 @@
 filename = 'DTNxNW-1.6.zip'
 name = 'Doggy Talents Next X New Wolves'
 side = 'client'
-x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [
-    '1.18.2',
-    '1.18.2',
-    '1.19.2',
-    '1.19.2',
-    '1.20',
-    '1.20',
-    '1.20.1',
-    '1.20.1',
-    '1.21',
-    '1.21',
-    '1.21.1',
-    '1.21.1',
-    '1.21.3',
-    '1.21.3'
-]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.6'
 
 [download]
 hash = 'fae36c2657c0491d51d64bc6f3a59b1c435aaa23a16d74ecde9090d00cdf3856d1f56ff2604c62eaafb0627d61d2d5dd2d8eeabb248d03ac8d7e21ac3dc89915'

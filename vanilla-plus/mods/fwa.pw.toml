@@ -1,10 +1,6 @@
 filename = 'fwa+1.21.1-1.1.13.jar'
 name = 'Fancy World Animations'
 side = 'client'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.13'
 
 [download]
 hash = 'b499097cc2f3e5713d41662544cf423c104098273760636e95ae276f23d4922e5db5788a3a3c3778ba8f36f0fba36ef8ae64d18dff7e593a04edb485232bd778'
