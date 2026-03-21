@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/compost.pw.toml"
-hash = "d3490f1deb6ef39746bc2d5d38af581f32150ae0bc0e4f0c758694358dc00363"
+hash = "0ed4f28bf533c63cf3c7d5db5e68b7455f6c49000e70a449f1d1f6e092c23d1c"
 metafile = true
 
 [[files]]
