@@ -928,8 +928,8 @@ hash = "3c7f72644179743cc294d1242d063b2013eb186bb49123aae1b0e07de5e5778f"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "b3b9af291c976eaafb54c14201f2ac481a4ee68bd4f4e85f89dea72bfb992a74"
+file = "mods/gpubooster.pw.toml"
+hash = "fb1b1c17bcc43155778ab21cb02f8658e1194346ae89ae6cec5965403e36373b"
 metafile = true
 
 [[files]]
