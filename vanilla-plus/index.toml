@@ -17,6 +17,42 @@ file = "config/yosbr/config/ReactiveMusic.json5"
 hash = "b919edde639213d5ded70f3f57ecaae2940dd656b7f3de1d7bcbda8828bb421e"
 
 [[files]]
+file = "config/yosbr/config/betteranimationscollection-client.toml"
+hash = "c4ce36974bf56e4fa9d6c37b83d27b3676949b69b024dc792cb77c2b4a64c180"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "1405d8337df7d679b4bc0517020b25be9681d2374e74acc9ef24a80a15b6efe6"
+
+[[files]]
+file = "config/yosbr/config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/yosbr/config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "5b6966242bb968b23befe684f8b6e01de9292934f3ce807597a7016605bbb6c0"
+
+[[files]]
+file = "config/yosbr/config/jade/plugins.json"
+hash = "7be2972d2474839237bd424e589ce65ef2700759bc12ff057b7ad5777dd8cca0"
+
+[[files]]
+file = "config/yosbr/config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/yosbr/config/jade/sort-order.json"
+hash = "2e2ae39fc58209661830042c3f12dfe4685bc0671b604d59de5e3aae5db0394c"
+
+[[files]]
+file = "config/yosbr/config/jade/usernamecache.json"
+hash = "46f6ba9d2a6a88258204821c53e638aa87ea39595acd2a3d4ece30d1386e8fef"
+
+[[files]]
 file = "config/yosbr/config/packed_packs/config.json"
 hash = "897fee2bfcf5a6ee7915f2343583f7631edc11d9339aa646ba797d77e4101f89"
 
@@ -29,8 +65,60 @@ file = "config/yosbr/config/packed_packs/preferences.properties"
 hash = "b57de83b3b8b2763c781c9969b6577f6932bfa5184d59eccc11ed409089b5b45"
 
 [[files]]
+file = "config/yosbr/config/starterkit/descriptions/Archer.txt"
+hash = "2ea003ce1408175d33f2bf55cb2de60b7aca7d652b922a84ec52d7d77eb99b64"
+
+[[files]]
+file = "config/yosbr/config/starterkit/descriptions/Default.txt"
+hash = "19df01c903be0cc0216fbca05181ff06c2aff09f2ef213e78ea93f82d2cb1324"
+
+[[files]]
+file = "config/yosbr/config/starterkit/descriptions/Kit_1.txt"
+hash = "83d474628b1c3aedf359adf05b6792364deda80f4053475fdf9b0c1ad864b957"
+
+[[files]]
+file = "config/yosbr/config/starterkit/descriptions/Lumberjack.txt"
+hash = "5091e1a2d5a2927fe1d8f6a6a233ace60f2407be05384f3140b839e9ad3a041a"
+
+[[files]]
+file = "config/yosbr/config/starterkit/descriptions/Witch.txt"
+hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
+
+[[files]]
+file = "config/yosbr/config/starterkit/kits/Default.txt"
+hash = "193f74ea80658b11e009a2861452c95075d56aa4e2083d0b121bed2ececac6f3"
+
+[[files]]
+file = "config/yosbr/config/starterkit/kits/Kit_1.txt"
+hash = "34e223f302f28e519f63a17b1afef889034bd1d9015213a3f8e6b163a7736946"
+
+[[files]]
+file = "config/yosbr/config/starterkit/kits/inactive/Archer.txt"
+hash = "0f00a01ce3bff3f33748f257761822b0553db478902f7d4dd03f198eb7e95a13"
+
+[[files]]
+file = "config/yosbr/config/starterkit/kits/inactive/Default.txt"
+hash = "193f74ea80658b11e009a2861452c95075d56aa4e2083d0b121bed2ececac6f3"
+
+[[files]]
+file = "config/yosbr/config/starterkit/kits/inactive/Kit_1.txt"
+hash = "89d6bc155470e75f7d462cc2fd69e10c38389f3cc6b7e26ee832194a15ba517c"
+
+[[files]]
+file = "config/yosbr/config/starterkit/kits/inactive/Lumberjack.txt"
+hash = "d80303242d592bce2450f488b4f5b85ddefce7167f36255086c7288072799862"
+
+[[files]]
+file = "config/yosbr/config/starterkit/kits/inactive/Witch.txt"
+hash = "0d28e1544a862d8114f40dc2c7a829eae27ab353960fbe1ebc5db0e4f04b5d74"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "71585cf9664bdebfdf934a96a4316d4f7368fa00a615792df551e5eb5c6320d9"
+
+[[files]]
 file = "icon.png"
-hash = "73e6019253d0b015d92ffdbd3a2a8c71c614d62f9296ced6042b7c491d047802"
+hash = "443c4ea14a9c4a6ead3475558745188c92c989bc6c944b0bc882f7a5d3a16c5b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

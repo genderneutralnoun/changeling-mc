@@ -1,0 +1,119 @@
+{
+    "ModSettings": {
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_auto_refill": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false,
+        "show_sort_in_columns_button": {
+            "value": false
+        },
+        "show_sort_in_rows_button": {
+            "value": false
+        }
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_blacklist": "carryon, minecraft:diamond_sword, minecraft:diamond_pickaxe"
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "auto_refill_enable_per_slot_config": {
+            "value": false
+        },
+        "visual_durability_notification": {
+            "value": false
+        },
+        "audio_durability_notification": {
+            "value": false
+        },
+        "visual_replace_success_notification": {
+            "value": false
+        },
+        "audio_replace_success_notification": {
+            "value": false
+        },
+        "visual_replace_failed_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_chest": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "auto_refill_gui_toggle_for_slot": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "auto_refill_game_toggle_for_slot": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_local_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_components": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_item_id": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}
