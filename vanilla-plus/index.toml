@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "b2770ff40031f73e86e752da8e6363e5636461ed9402ac35f03bff0f9733790c"
+hash = "82acc3c5b197f47a907ce3cdf00420ec02fbc63dee8a4d305be8a2b0488befa3"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-barrel-variants.pw.toml"
-hash = "7f62b3e7a45ed0a2ca0e0bc540f03cb04514dfadbd5b8210769fd01ac0cb480c"
+hash = "db925b658f1581fc45109e0f92fb20ea2f7e25095071fdc253ab8b2d4564f35f"
 metafile = true
 
 [[files]]
@@ -1659,7 +1659,7 @@ metafile = true
 
 [[files]]
 file = "mods/puddles-floods.pw.toml"
-hash = "d3ab495d6e10742c50fd47e76c6ef0dda41c36c7a54a29c9d88a646a9fa1b676"
+hash = "4781728e092fe5202764d694b2f14b63c1d44f884145374552a80c81860d3618"
 metafile = true
 
 [[files]]
@@ -1879,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "04d5cccae8671610cfcff582f7c1b490ba09622a476b53421cd078eb322f27ae"
+hash = "64fa6356e818a3e773834a283e8453f2659f7e367de6d56a7dc585ea414bf121"
 metafile = true
 
 [[files]]
