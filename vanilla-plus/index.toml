@@ -2098,6 +2098,11 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "2eb3c165dd197d5a7356367fbd6e740f319966920f7eef1e33432e320a1c3683"
+metafile = true
+
+[[files]]
 file = "mods/yigd.pw.toml"
 hash = "6c0fc768a3027377acafc975fa3932da7d2d6693fcbc301d559b3d80b8a02889"
 metafile = true
