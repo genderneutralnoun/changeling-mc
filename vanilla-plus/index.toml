@@ -1778,6 +1778,11 @@ hash = "b26bb019b7c573012e80dca76548112d6875f12006064166075e9855fa6b0f58"
 metafile = true
 
 [[files]]
+file = "mods/sgtveinminer.pw.toml"
+hash = "9670f241b8e103474dd258fc058942637f0818390f40ca54b77d083006d47901"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "0e922327e041fb555543e93039ecc9fa38777c269c58300118f08284ef453d1e"
 metafile = true
@@ -2005,16 +2010,6 @@ metafile = true
 [[files]]
 file = "mods/variantapi.pw.toml"
 hash = "ea6525d59a54ad0f4cfd66b6d59f35b70c6f68d0082dfbf0e36866fe798a6168"
-metafile = true
-
-[[files]]
-file = "mods/veinminer-client.pw.toml"
-hash = "6bfc8aa869d2286f5a95db859f807ac6750148702deab930dcd65f5c3d458135"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "f247de41c4b5bd543354f50657d5c10c8dc354bc18205735fbe12b18047c34cc"
 metafile = true
 
 [[files]]
