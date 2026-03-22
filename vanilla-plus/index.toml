@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/beltborne_lanterns.json"
+hash = "f25452abbf1fa501702ac3beb350604acdd22374502fd1f4f2329cd51775e556"
+
+[[files]]
+file = "config/beltborne_lanterns_lamps.json"
+hash = "92b61b699df8fea5881f722509cfc040bf4634d3d45755c1838bf4dc3517c595"
+
+[[files]]
 file = "config/packed_packs/profiles/resourcepacks/Flamy's Rec - No Better Leaves__7998256b.profile.json"
 hash = "de2ed091b2509dd7c0ab0dc1d8e04e253f8d91fc6c82d1dbf4ccb85c31c21f32"
 
