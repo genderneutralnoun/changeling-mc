@@ -1750,7 +1750,7 @@ metafile = true
 
 [[files]]
 file = "mods/puddles-floods.pw.toml"
-hash = "4781728e092fe5202764d694b2f14b63c1d44f884145374552a80c81860d3618"
+hash = "81a13d4631f2372bab93c3f5b47d4de3bc07dc101f5301a46ba4c564de80214b"
 metafile = true
 
 [[files]]
