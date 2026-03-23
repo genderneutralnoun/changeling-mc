@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/despawn-tweaks.pw.toml"
-hash = "23fc762b9115daa31a0d119df302acd4c782d45bc494dbea38df2560784fc787"
+hash = "e7613b8b120803f9ec5333c92e9325684efd3e68f867de7d3a97a70225291242"
 metafile = true
 
 [[files]]
