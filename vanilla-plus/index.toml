@@ -1820,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/roses-fabric.pw.toml"
-hash = "69bcd49b2c210780ee571f7b8a4a1a26370591755a8925dcca4b58d9ac78b1a0"
+hash = "b7f6ae299073991101b735fddb629b96cd536181ca066af50a49d854589bc9fe"
 metafile = true
 
 [[files]]

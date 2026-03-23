@@ -1,13 +1,13 @@
 name = "Roses"
-filename = "roses_mod-5.0+1.20.5-1.21.1.jar"
+filename = "roses_mod-5.1+1.21-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hxo4BmMk/versions/aVtdt4G5/roses_mod-5.0%2B1.20.5-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Hxo4BmMk/versions/3Anad0uh/roses_mod-5.1%2B1.21-1.21.1.jar"
 hash-format = "sha512"
-hash = "4c44c9f792cea3f003d3daaec505fe9dddc1ab0ed39d5a01f748c25ab41302ddd58a4bbe51ce0624f7c286a55c4ad8315a36c92dae86bd24038b4fbb1bed9a3f"
+hash = "9de8c684b560315bef564c727589321f01d6ea289178fed382ac04a65ac90ff2bd80c5db85f26c340827833fcc2a67cac39da5ff5ab6775e44fbe850d701b4cf"
 
 [update]
 [update.modrinth]
 mod-id = "Hxo4BmMk"
-version = "aVtdt4G5"
+version = "3Anad0uh"
