@@ -1,0 +1,335 @@
+### 0.1.6 - The "Probably Necessary" Update
+- Changed minimum RAM allocation to 2048, and maximum to 8192
+	- sorry Blizzard
+- Removed [Every Compat](https://modrinth.com/mod/eiktJyw1) [1\.21\-2\.11\.19]
+- Removed [Immersive Lanterns](https://modrinth.com/mod/vskzdsyT) [1\.0\.6]
+- Removed [Stone Zone](https://modrinth.com/mod/uYwn8IP5) [1\.21\-2\.11\.5]
+- Added [Additional Lanterns](https://modrinth.com/mod/jXNvTKds) [1\.1\.2]
+- Added [Aesthetic Frames](https://modrinth.com/mod/x2YQH6vK) [1\.21\.1\_fabric\_v\.2\.0\.0]
+- Added [Aesthetic Ladders](https://modrinth.com/mod/sMhyGakx) [1\.21\.1\_fabric\_v2\.0\.1]
+- Added [Aesthetic Seating](https://modrinth.com/mod/q841TYQr) [1\.21\.1\_fabric\_v\.0\.6\.3]
+- Added [Aesthetic Shelving](https://modrinth.com/mod/7syTk5Tj) [1\.21\.1\_fabric\_v\.2\.0\.0]
+- Added [Aesthetic Stairs](https://modrinth.com/mod/hG4v10WD) [1\.21\.1\_fabric\_v2\.0\.0]
+- Added [Aesthetic Storage](https://modrinth.com/mod/ZOgCd8lk) [1\.21\.1\_fabric\_v\.2\.0\.0]
+- Added [Aesthetic Surfaces](https://modrinth.com/mod/L9m1Lu02) [1\.21\.1\_v\.0\.1\.0]
+- Added [Aesthetic Tables](https://modrinth.com/mod/qd2kwEGy) [1\.21\.1\_fabric\_v2\.0\.0]
+- Added [Aesthetic Windows](https://modrinth.com/mod/XwVnzJY0) [1\.21\.1\_fabric\_v2\.0\.0]
+- Added [Bad Packets](https://modrinth.com/mod/ftdbN0KK) [0\.8\.2]
+- Added [Beltborne Lanterns](https://modrinth.com/mod/NUFDZAKS) [1\.2\.3]
+- Added [Beltborne Lanterns: Accessories Layer](https://modrinth.com/mod/geZ7ilkE) [1\.0\.4]
+- Added [Blåhaj](https://modrinth.com/mod/5bb5rG4b) [2\.0\.0]
+- Added [cat\_jam](https://modrinth.com/mod/x3s69afN) [1\.3\.1]
+- Added [Chalk](https://modrinth.com/mod/OrtjXTCH) [2\.2\.5\+1\.21\.1]
+- Added [Chalk: Colorful\-Addon](https://modrinth.com/mod/VPJS28NH) [2\.1\.1\+1\.19\.3]
+- Added [Convenient Decor](https://modrinth.com/mod/gMWAhU1n) [0\.4\.3]
+- Added [Cozy Home](https://modrinth.com/mod/TNcLBDkY) [1\.1\.20]
+- Added [Crying Portals](https://modrinth.com/mod/3RkVNglH) [2\.8]
+- Added [Cycle Paintings](https://modrinth.com/mod/c85whkNB) [4\.1]
+- Added [Decorative Blocks Reborn](https://modrinth.com/mod/hNxmWV9g) [6\.0\.1]
+- Added [Decorative Lamps](https://modrinth.com/mod/B4n7BWWA) [1\.21\.1\-1\.7\.4]
+- Added [Disconnect Packet Fix](https://modrinth.com/mod/rd9rKuJT) [2\.0\.0]
+- Added [Dusty Decorations Refabricated](https://modrinth.com/mod/KgFOuaiZ) [1\.1\-1\.21\+1\.21\.1]
+- Added [Glowing Torchflower](https://modrinth.com/mod/1S4LxcvL) [1\.3\.0]
+- Added [Joy of Painting](https://modrinth.com/mod/YOs4tZea) [1\.21\.1\-1\.0\.1]
+- Added [Just Enough Breeding](https://modrinth.com/mod/9Pk89J3g) [1\.6\.2]
+- Added [Magic Vibe Decorations](https://modrinth.com/mod/MPAgKQOE) [2\.8\.0]
+- Added [Merchant Markers](https://modrinth.com/mod/AGhiJWsU) [1\.3\.6]
+- Added [ModMenu Badges Lib](https://modrinth.com/mod/eUw8l2Vi) [2023\.6\.1]
+- Added [Moving Elevators](https://modrinth.com/mod/9KZOe6HD) [1\.4\.11]
+- Added [Night Lights](https://modrinth.com/mod/s7pMb898) [1\.3\.0]
+- Added [Overflowing Bars](https://modrinth.com/mod/XD7XOrAF) [21\.1\.1]
+- Added [PacketFixer](https://modrinth.com/mod/c7m1mi73) [3\.3\.1]
+- Added [Particle Effects](https://modrinth.com/mod/PLAGcSFJ) [1\.0\.8\+1\.21\.1]
+- Added [Underlay](https://modrinth.com/mod/iltKD9qU) [0\.9\.8]
+- Added [XXLPackets](https://modrinth.com/mod/SeCuopwJ) [1\.0\.5\-1\.21]
+- Updated [Amendments](https://modrinth.com/mod/6iTJugQR) [1\.21\-2\.0\.9]
+- Updated [Backpacked](https://www.curseforge.com/projects/352835) [3\.0\.0\-beta\.18]
+- Updated [Basic Storage](https://modrinth.com/mod/NMOanmPo) [1\.2\.1\+1\.21\.1]
+- Updated [Chat Patches](https://modrinth.com/mod/MOqt4Z5n) [8\.0\-alpha\.6]
+- Updated [Drip Sounds](https://modrinth.com/mod/T8MMXTpr) [0\.5\.2]
+- Updated [EMI Loot](https://modrinth.com/mod/qbbO7Jns) [0\.7\.8\+1\.21\+fabric]
+- Updated [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.0\.7]
+- Updated [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.0\.6]
+- Updated [Euphoria Patcher](https://modrinth.com/mod/4H6sumDB) [1\.7\.8\-r5\.6\.1\-neoforge]
+- Updated [Icarus](https://modrinth.com/mod/Dw7M6XKW) [4\.6\.3]
+- Updated [Macaw's Furniture](https://modrinth.com/mod/dtWC90iB) [3\.4\.1]
+- Updated [Macaw's Trapdoors](https://modrinth.com/mod/n2fvCDlM) [1\.1\.5]
+- Updated [More Feeding Trough Variants](https://modrinth.com/mod/1tqQKQKR) [1\.2\.0]
+- Updated [More Smithing Tables](https://modrinth.com/mod/t3iWfx17) [1\.3\.1]
+- Updated [Nether Chested](https://modrinth.com/mod/bHJp2GRg) [21\.1\.1]
+- Updated [Polytone](https://modrinth.com/mod/3qAYkBMB) [1\.21\-3\.5\.12]
+- Updated [Shoulder Surfing Reloaded](https://modrinth.com/mod/kepjj2sy) [4\.16\.1]
+- Updated [Veinminer](https://modrinth.com/mod/MnavVAzj) [3\.0\.1\+mc1\.21\.1]
+- Updated [XaeroPlus](https://modrinth.com/mod/EnPUzSTg) [2\.29\.1]
+
+
+### 0.1.5 - The "Holy Shit DABR Works Now" Update
+- Removed [Veinminer](https://modrinth.com/mod/OhduvhIc) [2\.4\.2]
+- Removed [Veinminer Client](https://modrinth.com/mod/dxa0Bm8m) [2\.4\.2]
+- Added [Better Ladders](https://modrinth.com/mod/CvgtCmGj) [0\.0\.3\.1\.21]
+- Added [CICADA](https://modrinth.com/mod/IwCkru1D) [0\.14\.3\+1\.21\-1\.21\.1]
+- Added [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) [3\.7\.3]
+- Added [Rolling Down in the Deep](https://modrinth.com/mod/zQqsEeqy) [0\.2\.1\+1\.21]
+- Added [VeinminerMod](https://modrinth.com/mod/MnavVAzj) [2\.4\.4\+1\.21\.1]
+	- Replacing Veinminer and Veinminer Client due to incompatibility with DABR
+- Updated [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) [1\.10\.21]
+- Updated [Loot Beams Refork](https://modrinth.com/mod/rp7ooqvq) [3\.2\.9]
+- Updated [Polytone](https://modrinth.com/mod/3qAYkBMB) [1\.21\-3\.5\.11]
+- Updated [Save My Shit Network](https://modrinth.com/mod/oXzIQwRj) [1\.3\.4\-1\.21\.1]
+- Downgraded [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.7\.1\+1\.21\.1\-fabric]
+	- Because scrolling config screens is broken on 3.8.0
+- Manual updaters should rebind the new veinmining key to backtick (\`) and unbind DABR thrusting (conflicts with Icarus "flapping" even when disabled on the server).
+- Changed resource packs again - forgot one and added a 3D ladder resource pack.
+	- Manual updaters should get the resource packs from the full update, and also the `data/fabricDefaultResourcePacks.dat` file from the same.
+
+
+### 0.1.4 - The "C2ME" Update
+- **Updated Fabric Mod Loader to 0.18.0**
+- Added [Better Biome Reblend](https://modrinth.com/mod/Xh8hkQmD) [1\.5\.2]
+- Added [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.3\.0\+alpha\.0\.362\+1\.21\.1]
+- Added [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) [0\.1\.0\.1\+fabric\.d0d58ab]
+- Updated [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6\.3\.1]
+- Updated [Deimos](https://modrinth.com/mod/WQaxNzFg) [2\.5]
+- Updated [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [3\.9\.3]
+- Updated [FirstPerson](https://modrinth.com/mod/H5XMjpHi) [2\.6\.0]
+- Updated [Minecraft Cursor](https://modrinth.com/mod/o5fhgLeQ) [3\.11\.2\+1\.21\.1]
+- Updated [More Cartography Tables](https://modrinth.com/mod/pEwUc4MK) [1\.8\.2]
+- Updated [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) [1\.11\.1\+1\.21]
+- Changed resource packs (again)
+	- Manual updaters should get the resource packs from the full update, and also the `data/fabricDefaultResourcePacks.dat` file from the same.
+
+### 0.1.3 - The "Update 2 Electric Boogaloo" Update
+- Added [Mighty Mail](https://www.curseforge.com/projects/902986) [1\.1\.4]
+- Added [Simple Magnets](https://modrinth.com/mod/YyNQVpOu) [1\.1\.12\+b]
+- Updated [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6\.3\.0]
+- Updated [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.14\.2]
+- Updated [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) [1\.10\.20]
+- Updated [Doggy Talents Next](https://modrinth.com/mod/oXgmplvv) [1\.18\.63]
+- Updated [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [3\.9\.2]
+- Updated [Euphoria Patcher](https://modrinth.com/mod/4H6sumDB) [1\.7\.7\-r5\.6\.1\-neoforge]
+- Updated [Every Compat](https://modrinth.com/mod/eiktJyw1) [1\.21\-2\.11\.17]
+- Updated [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [21\.1\.6]
+- Updated [Language Reload](https://modrinth.com/mod/uLbm7CG6) [1\.7\.5\+1\.21\.1]
+- Updated [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) [1\.21\-2\.0\.11]
+- Updated [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\-2\.26\.3]
+- Updated [OptiGUI](https://modrinth.com/mod/JuksLGBQ) [2\.3\.0\-beta\.9\+1\.21]
+- Updated [Smooth Swapping](https://modrinth.com/mod/ydZic5r4) [0\.9\.3\.1]
+- Updated [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) [1\.8\.0]
+- One of these updates should HOPEFULLY have somehow fixed Carry On, based on my testing.
+- Manual updaters, or those carrying over their config folder from previous versions, MUST delete `carryon-client.json` and `carryon-common.json` within the `config` folder in order for Carry On to function. I don't know why, I just work here.
+
+### 0.1.2 - The "Update" Update
+- Removed [ChickensShed](https://modrinth.com/mod/cRJuLZ2D) [1\.6\.1\+mc1\.21] on client side
+	- For some reason, clients with the mod installed sometimes cause log spam while connected. This makes debugging things very painful. It's server side only anyway, so not a problem.
+- Removed [Bushier Flowers](https://modrinth.com/mod/OK421ZCh) [0\.0\.3\-1\.21]
+	- Feature overlap with Dense Flowers
+- Added [Copper Hopper](https://modrinth.com/mod/mTI5Xg5F) [0\.10\.0\+1\.21\.1]
+- Added [Plenty Plates](https://modrinth.com/mod/VmcdxJxh) [21\.1\.0]
+- Updated [Accessorify](https://modrinth.com/mod/CVRzrXGP) [2\.3\.5\+1\.21\.1]
+- Updated [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) [1\.10\.19]
+- Updated [Every Compat](https://modrinth.com/mod/eiktJyw1) [1\.21\-2\.11\.15]
+- Updated [Farmer's Delight](https://modrinth.com/mod/7vxePowz) [1\.21\.1\-3\.2\.2\+refabricated]
+- Updated [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) [2\.2\.1]
+- Updated [Macaw's Furniture](https://modrinth.com/mod/dtWC90iB) [3\.4\.0]
+- Updated [ModernFix](https://modrinth.com/mod/nmDcB62a) [5\.25\.1\+mc1\.21\.1]
+- Updated [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\-2\.26\.0]
+- Updated [Nirvana Lib](https://modrinth.com/mod/6gKEW2ql) [2\.0\.17]
+- Updated [Save My Shit Network](https://modrinth.com/mod/oXzIQwRj) [1\.3\.3\-1\.21\.1]
+- Updated [Shoulder Surfing Reloaded](https://modrinth.com/mod/kepjj2sy) [4\.15\.1]
+- Updated [libIPN](https://modrinth.com/mod/onSQdWhM) [6\.6\.1]
+- Changed resource packs
+
+### 0.1.1 - The "Stable Fix-Up and Enhancements" Update
+- Removed - [FindMe](https://modrinth.com/mod/rEuzehyH) [3\.3\.3]
+	- Replaced with [Where Is It](https://modrinth.com/mod/FCTyEqkn)
+- Removed [Item placer](https://modrinth.com/mod/qm0tEl8v) [1\.9\.1]
+	- Replaced with [Ipla](https://modrinth.com/mod/7dLiTaTa)
+- Removed [Stacked Blocks](https://modrinth.com/mod/UYrNpKJN) [25\.02\.13\-1\.21\-fabric]
+	- Replaced with [Compressed Blocks](https://modrinth.com/mod/IQRVlbit)
+- Removed [Stacked Blocks: Farmer's Delight](https://modrinth.com/mod/LQlQFBH9) [25\.02\.13\-1\.21\-fabric]
+- Removed [Stacked Blocks: Supplementaries](https://modrinth.com/mod/vgtM0kV7) [25\.05\.06\-1\.21\-fabric]
+- Added [Amecs](https://modrinth.com/mod/rcLriA4v) [1\.5\.0\+mc1\.21\.1]
+- Added [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.0\.53]
+	- Apparently one of its updates fixed the incompatibility with Animal Troughs
+- Added [Basic Storage](https://modrinth.com/mod/NMOanmPo) [1\.1\.1\+1\.21]
+- Added [BeeDance](https://modrinth.com/mod/PC3Nu9ft) [1\.2\.0]
+- Added [Bushier Flowers](https://modrinth.com/mod/OK421ZCh) [0\.0\.3\-1\.21]
+- Added [Compressed Blocks](https://modrinth.com/mod/IQRVlbit) [1\.7\.2\-1\.21\.1]
+- Added [ContainerSearcher](https://modrinth.com/mod/IK1wshSh) [0\.3\.1\+mc1\.21\.1]
+- Added [Crafting Tweaks](https://modrinth.com/mod/DMu0oBKf) [21\.1\.6]
+- Added [Dense Flowers](https://modrinth.com/mod/Ud3A1Fat) [0\.2\.2\+mc1\.21\.0]
+- Added [Distraction Free Recipes \(EMI\)](https://modrinth.com/mod/gbJLUhZP) [1\.2\.1]
+- Added [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) [1\.21\.1\-2\.2\.5\-fabric]
+- Added [Fix Keyboard on Linux](https://modrinth.com/mod/siXFh9dn) [1\.0\.2]
+- Added [Floral Enchantment](https://modrinth.com/mod/Oprx59lK) [0\.116\.0\+1\.21\.1]
+- Added [IndyPets \- Independent Pets](https://modrinth.com/mod/SVJhmJvx) [1\.4\.7]
+- Added [Ipla](https://modrinth.com/mod/7dLiTaTa) [4\.5]
+- Added [JinxedLib](https://modrinth.com/mod/Vrr7WtS4) [1\.0\.4]
+- Added [Mc122477Fix](https://modrinth.com/mod/6ndGWzq7) [1\.1\.0\+mc1\.20\.5\-1\.21\.1]
+- Added [Minecraft Cursor](https://modrinth.com/mod/o5fhgLeQ) [3\.11\.1\+1\.21\.1]
+- Added [NotEnoughPots](https://modrinth.com/mod/KICpzgMG) [1\.3]
+- Added [Paws At You](https://modrinth.com/mod/ueZ377XT) [1\.0\.0]
+- Added [PottedDelight](https://modrinth.com/mod/RinYJZvD) [1\.0]
+- Added [Random Bone Meal Flowers](https://modrinth.com/mod/17enPZMC) [4\.7]
+- Added [Roses Mod](https://modrinth.com/mod/Hxo4BmMk) [4\.0\+1\.20\.5\-1\.21\.1]
+- Added [Tiny Flowers](https://modrinth.com/mod/S0Lqneqb) [1\.2\.0\+1\.21\.1]
+- Added [Trees Make Sound](https://modrinth.com/mod/PxCioqZ4) [1\.2\.1]
+- Added [Universal Enchants](https://modrinth.com/mod/DT56YDir) [21\.1\.6]
+- Added [WITS](https://modrinth.com/mod/AVo2esap) [1\.3\.0\+1\.21\-fabric]
+- Added [WhatTheBucket](https://modrinth.com/mod/zUxYvzMP) [21\.1\.1]
+- Added [Where Is It](https://modrinth.com/mod/FCTyEqkn) [2\.6\.3\+1\.21\.1]
+- Added [XaeroPlus](https://modrinth.com/mod/EnPUzSTg) [2\.29\.0]
+- Updated [ActuallyHarvest](https://modrinth.com/mod/sUbuUC7R) [1\.1\.6\.1]
+- Updated [Backpacked](https://www.curseforge.com/projects/352835) [3\.0\.0\-beta\.17]
+- Updated [Bamboo Everything](https://modrinth.com/mod/cpRkny9R) [21\.1\.2\+mc1\.21\.1]
+- Updated [Euphoria Patcher](https://modrinth.com/mod/4H6sumDB) [1\.7\.4\-r5\.6\.1\-neoforge]
+- Updated [Framework](https://www.curseforge.com/projects/549225) [0\.13\.1]
+- Updated [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) [1\.7\.0]
+- Reverted domain name change - please resume connecting via the IP
+	- this was actually a hotfix, but w/e
+
+### 0.1.0 - The "Finally Stable" Update
+All users are STRONGLY advised to use the actual update, regardless of whether you usually manually update.
+- Removed [Almanac](https://modrinth.com/mod/Gi02250Z) [1\.5\.0]
+- Removed [Faster Random](https://modrinth.com/mod/RfFxanNh) [5\.1\.0]
+- Removed [Krypton](https://modrinth.com/mod/fQEb0iXm)
+- Removed [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) [1\.5\.0]
+- Removed [ToolTip Fix](https://modrinth.com/mod/2RKFTmiB)
+- Removed [ThreadTweak](https://modrinth.com/mod/vSEH1ERy) [0\.1\.5\+mc1\.21\.1]
+- Added [Better Animations Collection](https://modrinth.com/mod/OoOVj3J3) [21\.1\.1]
+- Added [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) [1\.2\.0\+1\.21]
+- Added [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) [1\.3\.2\-1\.21\-1\.21\.1]
+- Added [Fast Item Frames](https://modrinth.com/mod/FsoeTIV0) [21\.1\.6]
+- Added [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) [1\.21\-2\.0\.9]
+- Added [Mob Lassos](https://modrinth.com/mod/ftOBbnu8) [21\.1\.1]
+- Added [More Delight](https://modrinth.com/mod/znHQQtuU) [25\.07\.28\-1\.21\-fabric]
+- Added [Pumpkin Pie Delight](https://modrinth.com/mod/AhcCiL7x) [1\.0\.2\+1\.21]
+- Added [StackDeobfuscator](https://modrinth.com/mod/NusMqsjF) [1\.4\.3\+08e71cc]
+- Added [Stacked Blocks](https://modrinth.com/mod/UYrNpKJN) [25\.02\.13\-1\.21\-fabric]
+- Added [Stacked Blocks: Farmer's Delight](https://modrinth.com/mod/LQlQFBH9) [25\.02\.13\-1\.21\-fabric]
+- Added [Stacked Blocks: Supplementaries](https://modrinth.com/mod/vgtM0kV7) [25\.05\.06\-1\.21\-fabric]
+- Added [Storage Delight](https://modrinth.com/mod/LTTvOp5L) [25\.06\.24\-1\.21\-fabric]
+- Added [ToastBegone](https://modrinth.com/mod/g8reZf3x) [1\.2\.0]
+- Added [flora](https://modrinth.com/mod/7Wz1FfTK) [1\.0\.2]
+- Added a proper domain! Please connect via [changelinguild.duckdns.org] from now on.
+	- This will mean various client-side data (i.e. Xaero's) saved for the old server via its IP will need to be migrated! Instructions will be provided in the Discord thread.
+- Changed config: DistantHorizons.toml
+- Other config changes
+- Changes to options.txt - should be better optimized now
+
+### 0.0.5 - The """Fix""" Update
+- Removed [EMI\+\+](https://modrinth.com/mod/AWMWYMwC)1
+- Added [Almanac](https://modrinth.com/mod/Gi02250Z) [1\.5\.0]
+- Added [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) [2\.3\.1]
+- Added [Bedspreads](https://modrinth.com/mod/vNNL5mc7) [7\.0\.0\+1\.21\.1]
+- Added [Better Clouds](https://modrinth.com/mod/5srFLIaK) [1\.7\.19\+1\.21\.1\-fabric]
+- Added [CITHotfix](https://modrinth.com/mod/MTt789wo) [1\.2]
+	- Client-side only
+- Added [Clean F3](https://modrinth.com/mod/5lvjfaRs) [0\.4\.9]
+- Added [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) [1\.10\.18]
+- Added [Crate Delight](https://modrinth.com/mod/9rlXSyLg) [25\.09\.22\-1\.21\-fabric]
+- Added [Cut Through](https://modrinth.com/mod/Dk6su9JN) [21\.1\.0]
+- Added [Distinguished Potions](https://modrinth.com/mod/lX1xTFBZ) [21\.1\.1]
+- Added [EXP Counter](https://modrinth.com/mod/lPSTdJm7) [2\.2]
+- Added [Echo Chest](https://modrinth.com/mod/m3pkVbY8) [21\.1\.1]
+- Added [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) [1\.0\.7]
+- Added [FastBoot](https://modrinth.com/mod/nRL5uFe0) [1\.3]
+- Added [Faster Random](https://modrinth.com/mod/RfFxanNh) [5\.1\.0]
+- Added [FeyTweaks](https://modrinth.com/mod/Wa72oW2W) [1\.21\-1\.2\.8]
+- Added [GPU Tape](https://modrinth.com/mod/5CTSrY8X) [1\.0\.5\.1]
+- Added [Get It Together, Drops\!](https://modrinth.com/mod/T0OUgf8P) [fabric\-1\.21\-1\.3\.1]
+- Added [ImmersiveUI](https://modrinth.com/mod/9wv7LuMc) [0\.3\.3]
+- Added [Krypton](https://modrinth.com/mod/fQEb0iXm) [0\.2\.8]
+- Added [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) [1\.5\.0]
+- Added [MidnightLib](https://modrinth.com/mod/codAaoxh) [1\.7\.5]
+- Added [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) [1\.21\-2\.0\.9]
+- Added [Nether Chested](https://modrinth.com/mod/bHJp2GRg) [21\.1\.0]
+- Added [Particle Core](https://modrinth.com/mod/RSeLon5O) [0\.2\.6\+1\.21]
+- Added [Save My Shit Network](https://modrinth.com/mod/oXzIQwRj) [1\.3\.2\-1\.21\.1]
+	- Client-side only
+- Added [Server Pinger Fixer](https://modrinth.com/mod/iqK5uv72) [1\.0\.5]
+- Added [ThreadTweak](https://modrinth.com/mod/vSEH1ERy) [0\.1\.5\+mc1\.21\.1]
+- Added [ToolTip Fix](https://modrinth.com/mod/2RKFTmiB) [1\.1\.1\-1\.20]
+- Added [Wither Skull Overhaul](https://modrinth.com/mod/M7QosKhW) [1\.0\.2]
+- Added [spark](https://modrinth.com/mod/l6YH9Als) [1\.10\.109]
+- Updated [Accessorify](https://modrinth.com/mod/CVRzrXGP) [2\.3\.2\+1\.21\.1]
+- Updated [ActuallyHarvest](https://modrinth.com/mod/sUbuUC7R) [1\.1\.5\.0]
+- Updated [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) [21\.1\.78]
+- Updated [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.13]
+- Updated [Easy Magic](https://modrinth.com/mod/9hx3AbJM) [21\.1\.4]
+	- This has fixed the inaccurate enchantment table prediction bug, yay!
+- Updated [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [3\.9\.1]
+- Updated [Loot Beams Refork](https://modrinth.com/mod/rp7ooqvq) [3\.2\.8]
+- Updated [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\-2\.25\.5]
+- Updated [More Bed Variants](https://modrinth.com/mod/nKaiA11S) [2\.1\.0]
+- Updated [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1\.21\-3\.4\.20]
+- Updated [Supplementaries Squared](https://modrinth.com/mod/dCCkNFwE) [1\.21\-1\.2\.15]
+- Changed config: doggytalents-server.toml
+	- `disable_hunger`from `true` to `false`
+	- `hunger_modifier` from `1.00` to `0.25`
+	- `dog_greet_owner_limit` from `5` to `3`
+	- `dog_can_eat_all_food` from `false` to `true`
+- Changed config: jade.json
+	- `builtinCamouflage` from `true` to `false`
+- Changed config: inventoryprofiles.json
+	- Various changes too annoying to list here. Should now provide a more vanilla-esque experience. Manual updaters should contact dev for new file to use (yes, you absolutely should update the config.)
+- Changed config: MouseTweaks.cfg
+	- `WheelTweak`from `0` to `1`
+		- This reenables Mouse Tweaks' more complete item scrolling feature, since I figured out how to disable Inventory Profiles Next's one, which was conflicting.
+### 0.0.4.hotfix
+- Updated [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6\.2\.2]
+- Updated [BetterGrassify](https://modrinth.com/mod/m5T5xmUy) [1\.8\.2\+fabric\.1\.21\.1]
+- Updated [Distant Horizons](https://modrinth.com/mod/distanthorizons) [fabric-2\.3\.6-b-1\.21\.1] Nightly, grab [here](https://gitlab.com/distant-horizons-team/distant-horizons/-/commit/3597d69fa44ee8998e0f01c4a5c09609cc2faa74/pipelines)
+- Updated [Double Doors](https://modrinth.com/mod/JrvR9OHr) [7\.2]
+- Updated [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.7\+kotlin\.2\.2\.21]
+- Updated [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\-2\.25\.3]
+- Updated [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21\.1\.39]
+- Updated [Subtle Effects](https://modrinth.com/mod/4q8UOK1d) [1\.13\.1]
+- Updated [Trading Post](https://modrinth.com/mod/8pcjMDgj) [21\.1\.1]
+- Added [Chiseled Bookshelves Add Enchantment Power \[PurpurPack\]](https://modrinth.com/mod/504BLPX7) [2\.0]
+- Added [EMI\+\+](https://modrinth.com/mod/AWMWYMwC) [1\.2\.3]
+- Added [EMIffect](https://modrinth.com/mod/705gWllI) [2\.1\.6\+mc1\.21\.1]
+- Added [Trade Offer](https://modrinth.com/mod/SSXJmyua) [0\.1\.2]
+- Changed config: DistantHorizons.toml 
+	- `realTimeUpdateDistanceRadiusInChunks` from  `256` to `64`
+    - `maxSyncOnLoadRequestDistance` from `4096` to `256` 
+    - `maxGenerationRequestDistance` from `4096` to `256`
+    - `generationRequestRateLimit` from `20` to `15`
+    - `syncOnLoadRateLimit` from `50` to `45`
+- Potentially other config changes, I don't remember, sorry.
+### 0.0.4
+- Added [Another Furniture](https://modrinth.com/mod/ulloLmqG) [4\.0\.0]
+- Added [Bamboo Everything](https://modrinth.com/mod/cpRkny9R) [21\.1\.1\+mc1\.21\.1]
+- Added [Beautify](https://modrinth.com/mod/DhSSvaxs) [1\.3\.0\+1\.21\.1]
+- Added [Better Bamboo Wood](https://modrinth.com/mod/VNaJUgUO) [4]
+- Added [Boat Item View](https://modrinth.com/mod/BdKIyOLe) [0\.0\.6]
+- Added [Clumps](https://modrinth.com/mod/Wnxd13zP) [19\.0\.0\.1]
+- Added [Cosmetic Armor](https://modrinth.com/mod/YcMzcZSi) [1\.7\.0]
+- Added [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) [1\.1\.6]
+- Added [Easy Magic](https://modrinth.com/mod/9hx3AbJM) [21\.1\.2]
+- Added [Enchanting Infuser](https://modrinth.com/mod/ePv85y52) [21\.1\.2]
+- Added [Enchantment Switch](https://modrinth.com/mod/k0wqURes) [21\.1\.0]
+- Added [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) [21\.1\.9]
+- Added [Item placer](https://modrinth.com/mod/qm0tEl8v) [1\.9\.1]
+- Added [MonoLib](https://modrinth.com/mod/9leXt4A5) [2\.1\.0]
+- Added [Monsters in the Closet](https://modrinth.com/mod/GMA8jFBD) [1\.0\.3\+1\.21]
+- Added [More Mobs](https://modrinth.com/mod/HJR6V0I2) [1\.5\.7\+mod]
+- Added [More Variants](https://modrinth.com/mod/il1Aa7hO) [1\.0\.0]
+- Added [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1\.21\.1\-2\.2\.7\-fabric]
+- Added [New Slab Variants](https://modrinth.com/mod/ns0BvMIG) [3\.0\.0]
+- Added [No Resource Pack Warnings](https://modrinth.com/mod/6xKUDQcB) [1\.3\.1]
+- Added [Polymorph](https://modrinth.com/mod/tagwiZkJ) [1\.1\.0\+1\.21\.1]
+- Added [ServerCore](https://modrinth.com/mod/4WWQxlQP) [1\.5\.10\+1\.21\.1]
+- Added [Stoneworks](https://modrinth.com/mod/FzyTKtVF) [21\.1\.0]
+- Added [Trash Cans](https://modrinth.com/mod/4QrnfueM) [1\.0\.18]
+- Added [VariantAPI](https://modrinth.com/mod/E4q8dYNM) [1\.4\.1\+1\.21\.1]
+- Updated [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.11]
+- Updated [Every Compat](https://modrinth.com/mod/eiktJyw1) [1\.21\-2\.11\.13]
+- Updated [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\-2\.25\.2]
+- Updated [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1\.10\.6]
+- Updated [Particle Rain](https://modrinth.com/mod/nrikgvxm) [4\.0\.0\-beta\.3\+1\.21\.1\-fabric]
+- Updated [Ping Wheel](https://modrinth.com/mod/QQXAdCzh) [1\.12\.0]
+- Updated [Rebind Narrator](https://modrinth.com/mod/qw2Ls89j) [2025\.10\.21]
+- Changed config: chat_heads.json5
+	- `senderDectection` from `UUID_ONLY` to `UUID_AND_HEURISTIC`
+- Significantly overhauled which folders are actually being exported. It should now be easier for non-expert users to carry over certain bits of data when upgrading, in theory. Prism Launcher appears to remember which folders are unchecked for export, which is EXTREMELY useful and I wish I knew this.
