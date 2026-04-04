@@ -1,3 +1,9 @@
+### 0.2.0 - The "Packwiz Fuck'eth Most Severely" Update
+- Too many changes to list here, also I didn't keep track and don't feel like going back to check
+- Changed from a Prism Launcher export pack to a Packwiz solution
+	- This makes both maintaining the modpack and updating it significantly easier
+	- Existing players should follow the guide in the Proton Drive folder, or the Changeling Guild Discord
+
 ### 0.1.6 - The "Probably Necessary" Update
 - Changed minimum RAM allocation to 2048, and maximum to 8192
 	- sorry Blizzard
@@ -62,7 +68,6 @@
 - Updated [Veinminer](https://modrinth.com/mod/MnavVAzj) [3\.0\.1\+mc1\.21\.1]
 - Updated [XaeroPlus](https://modrinth.com/mod/EnPUzSTg) [2\.29\.1]
 
-
 ### 0.1.5 - The "Holy Shit DABR Works Now" Update
 - Removed [Veinminer](https://modrinth.com/mod/OhduvhIc) [2\.4\.2]
 - Removed [Veinminer Client](https://modrinth.com/mod/dxa0Bm8m) [2\.4\.2]
@@ -81,7 +86,6 @@
 - Manual updaters should rebind the new veinmining key to backtick (\`) and unbind DABR thrusting (conflicts with Icarus "flapping" even when disabled on the server).
 - Changed resource packs again - forgot one and added a 3D ladder resource pack.
 	- Manual updaters should get the resource packs from the full update, and also the `data/fabricDefaultResourcePacks.dat` file from the same.
-
 
 ### 0.1.4 - The "C2ME" Update
 - **Updated Fabric Mod Loader to 0.18.0**
@@ -276,6 +280,7 @@ All users are STRONGLY advised to use the actual update, regardless of whether y
 - Changed config: MouseTweaks.cfg
 	- `WheelTweak`from `0` to `1`
 		- This reenables Mouse Tweaks' more complete item scrolling feature, since I figured out how to disable Inventory Profiles Next's one, which was conflicting.
+
 ### 0.0.4.hotfix
 - Updated [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6\.2\.2]
 - Updated [BetterGrassify](https://modrinth.com/mod/m5T5xmUy) [1\.8\.2\+fabric\.1\.21\.1]
@@ -297,6 +302,7 @@ All users are STRONGLY advised to use the actual update, regardless of whether y
     - `generationRequestRateLimit` from `20` to `15`
     - `syncOnLoadRateLimit` from `50` to `45`
 - Potentially other config changes, I don't remember, sorry.
+
 ### 0.0.4
 - Added [Another Furniture](https://modrinth.com/mod/ulloLmqG) [4\.0\.0]
 - Added [Bamboo Everything](https://modrinth.com/mod/cpRkny9R) [21\.1\.1\+mc1\.21\.1]
