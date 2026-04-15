@@ -1,13 +1,13 @@
-filename = 'MoreComposterVariants-1.8.1+1.21.1-Fabric.jar'
-name = 'More Composter Variants'
-side = 'both'
+name = "More Composter Variants"
+filename = "MoreComposterVariants-1.8.4+1.21(.1)-Fabric.jar"
+side = "both"
 
 [download]
-hash = '1230596b85a6ee07358f1bce07cd40cd4bd76f9ff8e7b3f32f7706f0f9e017259d476c41d0b5b528498710a1a4c5df2a901c33bdf24209fa66ead9b4d6391f3d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/vDjDgFj7/versions/peJSFdWs/MoreComposterVariants-1.8.1%2B1.21.1-Fabric.jar'
+url = "https://cdn.modrinth.com/data/vDjDgFj7/versions/1GpHH6JW/MoreComposterVariants-1.8.4%2B1.21%28.1%29-Fabric.jar"
+hash-format = "sha512"
+hash = "1333546c1b280f06ded88db7acb7677585cf1f988053e551cbe8b007b52f153932c521b55b83c3e7e95cd8f7506bbe577996b5f43c5645b96b3d2f7df95abdf0"
 
+[update]
 [update.modrinth]
-mod-id = 'vDjDgFj7'
-version = 'peJSFdWs'
+mod-id = "vDjDgFj7"
+version = "1GpHH6JW"

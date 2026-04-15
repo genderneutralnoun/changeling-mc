@@ -1,13 +1,13 @@
-filename = 'MoreSmokerVariants-1.3.3+1.21.1-Fabric.jar'
-name = 'More Smoker Variants'
-side = 'both'
+name = "More Smoker Variants"
+filename = "MoreSmokerVariants-1.3.4+1.21(.1)-Fabric.jar"
+side = "both"
 
 [download]
-hash = '904db4e0d42cb6fd0444d020aea7381dd68bffdee03899b53c7f956c722649a8bf400df0e000089097f76da2a35bec19fec39c5922a3e5c97136648a04b9ea8d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/8HxZnUY7/versions/SJbakZVm/MoreSmokerVariants-1.3.3%2B1.21.1-Fabric.jar'
+url = "https://cdn.modrinth.com/data/8HxZnUY7/versions/QG5iRqXf/MoreSmokerVariants-1.3.4%2B1.21%28.1%29-Fabric.jar"
+hash-format = "sha512"
+hash = "afaf049a40166698de46535b03249eb7de0d8f37b0324362bdc51d70e9a919aa80f8cca4485ecc31f4de860ef803a70141a50c3487b9a4da816182868f290691"
 
+[update]
 [update.modrinth]
-mod-id = '8HxZnUY7'
-version = 'SJbakZVm'
+mod-id = "8HxZnUY7"
+version = "QG5iRqXf"

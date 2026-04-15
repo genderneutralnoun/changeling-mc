@@ -1,13 +1,13 @@
-filename = 'smsn-fabric-1.3.4-1.21.1.jar'
-name = 'Save My Shit Network'
-side = 'both'
+name = "Save My Shaky Network"
+filename = "smsn-fabric-1.3.7-1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'a4d1f43006dd263d5b1a8d0350c92d422dc0571d1bc78db53714d67d75c293bf718d9ff55205032410f378d7372fc75756eb46be5df0a50b8ebc0b2e9d1a9954'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/oXzIQwRj/versions/j9BxalEE/smsn-fabric-1.3.4-1.21.1.jar'
+hash-format = "sha1"
+hash = "cf41dcbdfa6ce5bcafd239529724849e261fccdb"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'oXzIQwRj'
-version = 'j9BxalEE'
+[update]
+[update.curseforge]
+file-id = 7621949
+project-id = 1129397

@@ -1,0 +1,13 @@
+name = "Dragon Movement Fix"
+filename = "dragon-movement-fix-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6E5wF2bY/versions/LRjqWIC2/dragon-movement-fix-1.1.6.jar"
+hash-format = "sha512"
+hash = "a51f1c5931c5729b665e30af7d91d8a91962137224ac1a0d36d15ea8cff3c67eeec7899632ea14913605e00dd11ced71f4e6edcea454b507d6de58973e8bce21"
+
+[update]
+[update.modrinth]
+mod-id = "6E5wF2bY"
+version = "LRjqWIC2"

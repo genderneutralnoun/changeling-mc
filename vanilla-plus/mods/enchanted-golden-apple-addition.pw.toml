@@ -1,0 +1,13 @@
+name = "Enchanted Golden Apple Addition"
+filename = "enchanted-golden-apple-addition-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V2kNw0dS/versions/D6m0o7PP/enchanted-golden-apple-addition-2.0.jar"
+hash-format = "sha512"
+hash = "2f2f9faf38685faf3fa057ca3da69dfc73d351c04ee3ee27e0ce148f2ca5e49b50fdc48ad3b6e6c924752967cb1cfaadc5b5a1001c7c843c8fcdae267793e791"
+
+[update]
+[update.modrinth]
+mod-id = "V2kNw0dS"
+version = "D6m0o7PP"
