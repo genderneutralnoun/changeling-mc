@@ -239,6 +239,11 @@ hash = "f03a177b3165470542f2bd42fdd53e3a32710e718385e4b9c4b2d3a511f7fdd8"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "0992675adf601afa7b45ebfdbc8a36b8b20ee7a1029d6ed8e9b4ae080fb10056"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "842a7e156768276275b9b64565b765f0b43a8e379aa6f7999371ef28363a3626"
 metafile = true
@@ -709,11 +714,6 @@ hash = "a81e786d85175f6dff25756dc67145c8bf63744884434ef3fe3055b4244cfc12"
 metafile = true
 
 [[files]]
-file = "mods/does-it-tick.pw.toml"
-hash = "38a9f5d91c8ff0eed8ee54c436308bfeb29012eb6701750b34f002d9b1750651"
-metafile = true
-
-[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "7a43f02a0185a88675d19855bcdd1c1c016b6fdbf3e3afa95fc57047b2ef59cd"
 metafile = true
@@ -1106,6 +1106,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-messages-api.pw.toml"
 hash = "8698e644a808efe1e5bdbefa0eff048d1b43f5daa4bcf3c38a75891a983e74e9"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "43247a3714903bfd2e6914f83d11926b9116de9ac8d5594a8ea26008a6672a0b"
 metafile = true
 
 [[files]]
