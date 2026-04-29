@@ -1,0 +1,29 @@
+filename = 'sophisticatedstorageinmotion-1.21.1-0.10.27.208.jar'
+name = 'Sophisticated Storage in Motion'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '9ec5a1a043276c91d5972f01dd41001336db354ce97c9f0a0c7345bde8f654580e3aa1225578faa93f4d7590823ee2854e15d7ea020b5c5f53b8a0cc5d5c8311'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6vtFbyaJ/versions/feTe7lA2/sophisticatedstorageinmotion-1.21.1-0.10.27.208.jar'
+
+[update.modrinth]
+mod-id = '6vtFbyaJ'
+version = 'feTe7lA2'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hMlaZH8f'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nmoqTijg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

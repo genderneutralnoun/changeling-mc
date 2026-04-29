@@ -1,0 +1,29 @@
+filename = 'animal_pen-neoforge-1.21-2.3.2.jar'
+name = 'Animal Pen'
+side = ''
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'cdfb8af95c6d17257ab0cf376358b224f87d6492558658367a5aeda971945628c9ac148683a2dbcaf1ae42786e257b202db48d71379c0753a2bf57f567d3d1d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K5CAV4wi/versions/4PW6nHth/animal_pen-neoforge-1.21-2.3.2.jar'
+
+[update.modrinth]
+mod-id = 'K5CAV4wi'
+version = '4PW6nHth'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

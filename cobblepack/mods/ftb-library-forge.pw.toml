@@ -1,0 +1,29 @@
+filename = 'ftb-library-neoforge-2101.1.31.jar'
+name = 'FTB Library (NeoForge)'
+side = ''
+ 
+ 
+ 
+ 
+
+[download]
+hash = '686d4e784c28c14f7760cc22b2de6a8573b56b74'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7746959
+project-id = 404465
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

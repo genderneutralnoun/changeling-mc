@@ -1,0 +1,21 @@
+filename = 'cobblemonboxlink-neoforge-1.21.1-1.0.6.jar'
+name = 'Cobblemon Box Link'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'a343149c08e57ba0523b554a225384b2c4086e0f603f10916da14a829f9edcbb52bde110ff2a755be944050c45735ea172cf2c8b32c866d89220ee9fbfad3737'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/93tFY5AF/versions/2oEeH2sr/cobblemonboxlink-neoforge-1.21.1-1.0.6.jar'
+
+[update.modrinth]
+mod-id = '93tFY5AF'
+version = '2oEeH2sr'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'

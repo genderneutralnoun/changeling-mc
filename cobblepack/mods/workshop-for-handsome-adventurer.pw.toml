@@ -1,0 +1,18 @@
+filename = 'workshop_for_handsome_adventurer--mc1.21.1--neoforge--1.36.0.jar'
+name = 'Workshop for handsome adventurer'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '501546f8dbaac01bd205cfbc56b10bd10f11fb552f1457d599f171bcff02ccad84b685d9a328c0d5adf7a915392d5e1e1185442aba0f564afba821332d6c171b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6lu9blWp/versions/4t1x83So/workshop_for_handsome_adventurer--mc1.21.1--neoforge--1.36.0.jar'
+
+[update.modrinth]
+mod-id = '6lu9blWp'
+version = '4t1x83So'

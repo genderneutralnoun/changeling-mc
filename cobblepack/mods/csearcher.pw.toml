@@ -1,0 +1,29 @@
+filename = 'ContainerSearcher-0.3.1+mc1.21.1.jar'
+name = 'ContainerSearcher'
+side = 'client'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'fdbc45e82862620da53b38ab21a423864dca235b7499ba57487d83a6b8716b0233c9bfd5410738d361f527a8005b34ba780bfd2512e5c6b8c05edb5df7da2cda'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IK1wshSh/versions/iSBoHJMy/ContainerSearcher-0.3.1%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'IK1wshSh'
+version = 'iSBoHJMy'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

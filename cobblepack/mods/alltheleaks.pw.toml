@@ -1,0 +1,18 @@
+filename = 'alltheleaks-1.1.8+1.21.1-neoforge.jar'
+name = 'All The Leaks'
+side = 'server'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'f91b11a1cfa718b9291fbe7b80356f17a572577e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7955700
+project-id = 1091339

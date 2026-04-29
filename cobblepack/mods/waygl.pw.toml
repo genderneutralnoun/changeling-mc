@@ -1,0 +1,21 @@
+filename = 'waygl-neoforge-1.2.0.jar'
+name = 'WayGL'
+side = 'client'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '5c250c3bf36edef16b6f7ee386955a5c9e11845e0f7ebe3f3236f5521cf2a6214abcc6d707cd8d421a763b7589970247a2dd3f9c3259d2a42df403befdf47c39'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XTzhksrl/versions/o1MgrmED/waygl-neoforge-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'XTzhksrl'
+version = 'o1MgrmED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

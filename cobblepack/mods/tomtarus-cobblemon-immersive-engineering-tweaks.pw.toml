@@ -1,0 +1,18 @@
+filename = "Tomtaru's Cobblemon & Immersive Engineering Tweaks - 1.21.1 - R.2.5.jar"
+name = "Tomtaru's Cobblemon & Immersive Engineering Tweaks"
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '1fed37b1d2197d6a3f6e37e89db92e2055c122262b066db9be563cd345bb9e45f7d7b6b1ff63649250f6003ee3c3d63b28af740f843e36bbf54049870db9f61e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RC5XZcN8/versions/FreAUpd3/Tomtaru%27s Cobblemon %26 Immersive Engineering Tweaks - 1.21.1 - R.2.5.jar'
+
+[update.modrinth]
+mod-id = 'RC5XZcN8'
+version = 'FreAUpd3'

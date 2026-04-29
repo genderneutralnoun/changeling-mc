@@ -1,0 +1,18 @@
+filename = 'Carved Wood-neoforge-1.21.1-1.9.3.jar'
+name = 'Carved Wood'
+side = ''
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '0d7213aace7cf2df083151225e80ceb387bff403de20aa414c3ae0f2d17021ceba2476efbda356be321af1b6b96268594f3ecb472cdaae7fd2d69ad586238fc5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WuwijfrW/versions/W1L6Z3uH/Carved Wood-neoforge-1.21.1-1.9.3.jar'
+
+[update.modrinth]
+mod-id = 'WuwijfrW'
+version = 'W1L6Z3uH'

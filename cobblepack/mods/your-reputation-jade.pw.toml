@@ -1,0 +1,25 @@
+filename = 'your-reputation-0.2.9+jade.1.21.1.jar'
+name = 'Your Reputation (Jade)'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'f4025c5a141504ae70a3048a4b29e81c2a0bbc58990660b19455ff2548e7a7e5f86642f6a177af407b048e81f49ee7c4f9a1b80a8be3bb26c25cf9b6d2f6e38d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uDBLJfwG/versions/JVwmrNbn/your-reputation-0.2.9%2Bjade.1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'uDBLJfwG'
+version = 'JVwmrNbn'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

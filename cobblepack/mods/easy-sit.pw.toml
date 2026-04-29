@@ -1,0 +1,18 @@
+filename = 'easy-sit-v.1.1.0.jar'
+name = 'Easy Sit'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'ff93e56e5ca4abf4355f8118640d877f077d8714b4807b437bc5b335629689907287d1b2d7a3823cfdb067754cb16fb46b8431014d93cf4b11ea45a4afd64850'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WmISKThd/versions/Qt1NnxcU/easy-sit-v.1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'WmISKThd'
+version = 'Qt1NnxcU'

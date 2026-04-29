@@ -1,0 +1,21 @@
+filename = 'tiny-flowers-mc1.21.1-1.2.1+1.21.1.jar'
+name = 'Tiny Flowers'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '3e8f170aca042fe72ec56195c495280acc5678cf254e6a8c53c5afadf56a4394abc640175c4804e63d04d14829feddd7585228ec7167dc6721496ccab60a1323'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/S0Lqneqb/versions/LkW9rsTX/tiny-flowers-mc1.21.1-1.2.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'S0Lqneqb'
+version = 'LkW9rsTX'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

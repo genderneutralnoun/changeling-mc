@@ -1,0 +1,25 @@
+filename = 'CobblePots-v1.0 [NeoForge].jar'
+name = 'CobblePots [NeoForge]'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'd2f9523d71d817c0ed03f0477b6e19c605f315d199b5e3d0af6df36543acf1d586e8e6825d1ee45004c8eaf02d876270ec27ea5600f20cfefb9f2dcb314b67f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/D641eoKv/versions/tJNxJYkB/CobblePots-v1.0 %5BNeoForge%5D.jar'
+
+[update.modrinth]
+mod-id = 'D641eoKv'
+version = 'tJNxJYkB'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'U6BUTZ7K'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'

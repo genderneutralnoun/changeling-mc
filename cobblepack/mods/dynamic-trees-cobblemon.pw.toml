@@ -1,0 +1,25 @@
+filename = 'dtcobblemon-1.2.0-BETA04.jar'
+name = 'Dynamic Trees - Cobblemon'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '34867b446bdcf9fec21c9403518c1d2ae2e9755701d1ffb174200ba03a163ed872999704e89e5eee8a602b3aa992f37cfd25bc269df9666bcbed208b30e3c577'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fWeFCAKx/versions/WnI0QxOY/dtcobblemon-1.2.0-BETA04.jar'
+
+[update.modrinth]
+mod-id = 'fWeFCAKx'
+version = 'WnI0QxOY'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vdjF5PL5'
+type = 'REQUIRED'

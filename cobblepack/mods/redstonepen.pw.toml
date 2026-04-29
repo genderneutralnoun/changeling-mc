@@ -1,0 +1,18 @@
+filename = 'redstonepen-1.21-neoforge-1.11.42.jar'
+name = 'Redstone Pen'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '7446d400a5cb81c990a6fe168ca8660082d507405f895154d3494ac59d60f1711132301c445421fdebc0d6ac6d888ec4509daa225889c4d69c790028a3a35bd6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DwE83ioX/versions/lpcV2XTc/redstonepen-1.21-neoforge-1.11.42.jar'
+
+[update.modrinth]
+mod-id = 'DwE83ioX'
+version = 'lpcV2XTc'

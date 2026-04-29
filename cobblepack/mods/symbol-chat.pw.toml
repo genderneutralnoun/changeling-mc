@@ -1,0 +1,29 @@
+filename = 'symbol-chat-1.21.1-1.2.8.jar'
+name = 'Symbol Chat'
+side = 'client'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '9c5b89b9c5c26ca473c777c998b41b7f7026b7f6932aabb1da22ca95f5513b497fd556ba36bed95fe66fd5a83ebe81aae4e17f12023afad2964942ab9ca146f1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NKvLVQMc/versions/OXCY0CpU/symbol-chat-1.21.1-1.2.8.jar'
+
+[update.modrinth]
+mod-id = 'NKvLVQMc'
+version = 'OXCY0CpU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

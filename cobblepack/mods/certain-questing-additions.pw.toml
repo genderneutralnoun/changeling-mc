@@ -1,0 +1,21 @@
+filename = 'certain_questing_additions-neoforge-1.1.6+mc1.21.1.jar'
+name = 'Certain Questing Additions'
+side = 'client'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'dd64869fb00f00aeea71b3297db45c46c5c80f0a90caa9473c148d5e2245d0c84698a894bda04ec18c07551245697a079628418a58714bab1ac4fd2018b57bc9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5BPpCYUe/versions/p06WzjAp/certain_questing_additions-neoforge-1.1.6%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = '5BPpCYUe'
+version = 'p06WzjAp'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

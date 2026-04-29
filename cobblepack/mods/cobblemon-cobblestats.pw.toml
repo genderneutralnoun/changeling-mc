@@ -1,0 +1,26 @@
+filename = 'cobblestats-neoforge-1.9.2+1.21.1.jar'
+name = 'Cobblemon: CobbleStats'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '297e7021a1cc6fb0525cd392549939aba27e195ea791b1ef7a434596f30bd817b9be88f593033d695c9f9048ca41c6153d61449238147f17ed788723949e5c82'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jlXFcQk4/versions/nXjZdYx4/cobblestats-neoforge-1.9.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'jlXFcQk4'
+version = 'nXjZdYx4'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GebWh45l'
+type = 'OPTIONAL'
+version = 'cTCPtFD0'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'

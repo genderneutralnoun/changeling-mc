@@ -1,0 +1,18 @@
+filename = 'Morph-o-Tool-1.8-39.jar'
+name = 'Morph-o-Tool'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '049efe057371001e4dbb6b12c783017157fe4c3c33604ea5610877c585233fd15ed6fa73e96a41ade8d8757debca4bf2dbe63f7b8c0d25391d655bc92bade335'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rtbzFq0N/versions/XVhB7EX7/Morph-o-Tool-1.8-39.jar'
+
+[update.modrinth]
+mod-id = 'rtbzFq0N'
+version = 'XVhB7EX7'

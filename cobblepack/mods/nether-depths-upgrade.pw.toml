@@ -1,0 +1,21 @@
+filename = 'netherdepthsupgrade-3.1.8-1.21.jar'
+name = 'Nether Depths Upgrade'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'd06d6134a5b99b2c798cd5a5e32f74a40260245560e8c0a8b311bcaaee65dc7a2f6d2c8b023ac404701af3157a904e2d8e404e6b182a68539cd4d720c2dc1bb4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vI1QKJro/versions/otPmhdts/netherdepthsupgrade-3.1.8-1.21.jar'
+
+[update.modrinth]
+mod-id = 'vI1QKJro'
+version = 'otPmhdts'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

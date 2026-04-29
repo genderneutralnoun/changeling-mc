@@ -1,0 +1,18 @@
+filename = 'bibliobiomes-1.21.1-1.6.1.jar'
+name = 'Bibliobiomes Legacy'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '6e1b8da97e899fc64595d33926ab0da8a9bec775b026b9cb31e0fc49483e2508f14ca9fcce7ee60e6d69c1d27902407f8e65fb9f397ba0238780b3afc7ed21d6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DSrUt8Cp/versions/5rKuaFdv/bibliobiomes-1.21.1-1.6.1.jar'
+
+[update.modrinth]
+mod-id = 'DSrUt8Cp'
+version = '5rKuaFdv'

@@ -1,0 +1,21 @@
+filename = 'choppersdelight-neoforge-1.21.1-1.1.2.jar'
+name = "Chopper's Delight"
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '39cd4dfe5b1d3861733acb30c28b776f51d1dd82c4b6da44f8e7b7fedc774a2b1e31bb5b5e32d9856bdcf6366a74fee633bbb78fcfc599d85ff5280ea7a162bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5Ngo9jUy/versions/thB4dgEM/choppersdelight-neoforge-1.21.1-1.1.2.jar'
+
+[update.modrinth]
+mod-id = '5Ngo9jUy'
+version = 'thB4dgEM'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'REQUIRED'

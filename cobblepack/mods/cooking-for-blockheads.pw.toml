@@ -1,0 +1,21 @@
+filename = 'cookingforblockheads-neoforge-1.21.1-21.1.21.jar'
+name = 'Cooking for Blockheads'
+side = ''
+ 
+ 
+ 
+ 
+
+[download]
+hash = '6312971fba3b13dab4a1b84c9f4110fb68765b7ab259b0bd712dfa18b3af55efe191fc8bb07d07586b5c66a0be7774ce324840676d3ea276f38386ac5c8f4096'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vJnhuDde/versions/dzMpBcgd/cookingforblockheads-neoforge-1.21.1-21.1.21.jar'
+
+[update.modrinth]
+mod-id = 'vJnhuDde'
+version = 'dzMpBcgd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

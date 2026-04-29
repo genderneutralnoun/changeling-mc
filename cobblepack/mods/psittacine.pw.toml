@@ -1,0 +1,18 @@
+filename = 'psittacine-1.0.0.jar'
+name = 'Psittacine'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '33e4093e8cfa2f7b26463837a25a5bd6450afe479007dd88466f4d97847a35e454c9867793290a1c183c77f42ad9f849d3a83a0f43033694e10997da724478d6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wLd3PXzz/versions/fF5ecBgz/psittacine-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'wLd3PXzz'
+version = 'fF5ecBgz'

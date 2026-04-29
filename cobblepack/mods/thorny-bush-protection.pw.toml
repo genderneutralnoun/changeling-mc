@@ -1,0 +1,21 @@
+filename = 'thornybushprotection-1.21.1-1.5.jar'
+name = 'Thorny Bush Protection'
+side = 'server'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '9a22dedab40837ae439b4dffc09c955bcbbe9bcb3931d504086aec145cae1d24d68b7b0939fb43d94e6bbeb7b16125080e9c7b39447a1cf480257a3731ab83b2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hYGSXIE7/versions/LAlrzeG0/thornybushprotection-1.21.1-1.5.jar'
+
+[update.modrinth]
+mod-id = 'hYGSXIE7'
+version = 'LAlrzeG0'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'bocchium-1.21.1-0.0.3.jar'
+name = 'Bocchium'
+side = ''
+ 
+ 
+ 
+ 
+
+[download]
+hash = '33ab99acf592f79c0bf8e4fbcb42bdf0cf56d247'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7077619
+project-id = 905450
+
+[[x-prismlauncher-dependencies]]
+addonId = '908741'
+type = 'OPTIONAL'

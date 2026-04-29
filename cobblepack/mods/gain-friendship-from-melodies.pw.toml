@@ -1,0 +1,18 @@
+filename = 'gain_friendship_from_melodies-neoforge-0.5.0.jar'
+name = 'Gain Friendship From Melodies'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '26da9a30ba3c1e77254164a772003e4236a3cedcd617a246eee5fa50f13548b0fb553750f5809088b7a2589317d84c889ac95fb6b98f611c9cb202934c729b69'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oWwjWIyv/versions/WVWwSzjI/gain_friendship_from_melodies-neoforge-0.5.0.jar'
+
+[update.modrinth]
+mod-id = 'oWwjWIyv'
+version = 'WVWwSzjI'

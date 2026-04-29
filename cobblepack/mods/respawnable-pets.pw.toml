@@ -1,0 +1,29 @@
+filename = 'respawnablepets-1.21-r2.jar'
+name = 'Respawnable Pets'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '076914fc222740c7678b2863549b866ec6f6ff0a94050619329012c5ca735ad32c6f1122dea1e79e9aa3fd997756693f32b398e34ad286057fe60a971e5cbfed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gbFe1FWa/versions/DxDhy0br/respawnablepets-1.21-r2.jar'
+
+[update.modrinth]
+mod-id = 'gbFe1FWa'
+version = 'DxDhy0br'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'codAaoxh'
+type = 'EMBEDDED'

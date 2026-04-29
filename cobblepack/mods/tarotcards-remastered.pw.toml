@@ -1,0 +1,25 @@
+filename = 'tarotcards-2.3.0-neoforge-1.21.1.jar'
+name = 'TarotCards'
+side = ''
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'c92a22d6e02b22d71ced77238735a846f90984a3746a231b5a155bbc48e5585317396782b3ee02a9b2d2180294c2750dc1248d580de37eb0f666d655c45e1d5f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/haEej4hJ/versions/LU75TUDq/tarotcards-2.3.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'haEej4hJ'
+version = 'LU75TUDq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hYykXjDp'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'lmps-0.9.6-neoforge-mc1.21.1.jar'
+name = 'Lower My Paths and Slabs!'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '33077575af2c713e7921179029af90fe7adccb791a67e764f896b226e97de2ba64dce0ed270c13fbe84eb3eee5151f77b952803249b15ebac908f5126f052729'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/66tmSLHw/versions/pjbsRGiX/lmps-0.9.6-neoforge-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = '66tmSLHw'
+version = 'pjbsRGiX'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'OPTIONAL'

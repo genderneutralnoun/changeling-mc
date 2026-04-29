@@ -1,0 +1,25 @@
+filename = 'dtphc2-1.4.3.jar'
+name = "Dynamic Trees Pam's Harvestcraft 2: Trees"
+side = ''
+ 
+ 
+ 
+ 
+
+[download]
+hash = '53fee57c32f00b55074decce33424758abf5125b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7722485
+project-id = 839090
+
+[[x-prismlauncher-dependencies]]
+addonId = '365460'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '252818'
+type = 'REQUIRED'

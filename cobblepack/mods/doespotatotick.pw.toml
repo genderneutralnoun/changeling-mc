@@ -1,0 +1,33 @@
+filename = 'doespotatotick-1.21.1-5.6.3.jar'
+name = 'DoesPotatoTick?'
+side = ''
+ 
+ 
+ 
+ 
+
+[download]
+hash = '0edf7400ef27d51c3fb58119b99e04fb3e213377'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7888231
+project-id = 825355
+
+[[x-prismlauncher-dependencies]]
+addonId = '908741'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1380105'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '636608'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '314906'
+type = 'OPTIONAL'

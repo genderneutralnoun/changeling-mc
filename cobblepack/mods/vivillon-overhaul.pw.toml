@@ -1,0 +1,18 @@
+filename = 'vivillon-overhaul-V1.3.jar'
+name = 'Vivillon Overhaul (Cobblemon)'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '93d5125f195aab4ab41d89b7b47986872f1cc9455035ba7420ce9e95ffd311d14b3127f62a78b417f20ad72f193faa1120567722738a45fc41d496191fd19cfa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/53q4a0ac/versions/GR0ewcQQ/vivillon-overhaul-V1.3.jar'
+
+[update.modrinth]
+mod-id = '53q4a0ac'
+version = 'GR0ewcQQ'

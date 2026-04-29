@@ -1,0 +1,18 @@
+filename = 'bop_rose_quartz_sanding_neoforge-1.0.jar'
+name = "Sanding Rose Quartz - Biomes O' Plenty"
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '63d14284f4ca364e5ab2174e33bb5bae3268e71cc7679bc3f60f6f7baacdf669e66cd1dfdf730fee1848ce7fe21fbfbd0145d58c5c9f74fc23ed779a4440b448'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YjQL8nJT/versions/zIkFZdjK/bop_rose_quartz_sanding_neoforge-1.0.jar'
+
+[update.modrinth]
+mod-id = 'YjQL8nJT'
+version = 'zIkFZdjK'

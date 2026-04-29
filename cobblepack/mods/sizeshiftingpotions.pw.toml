@@ -1,0 +1,25 @@
+filename = 'SizeShiftingPotions-neoforge-1.8.0+1.21.jar'
+name = 'Size Shifting Potions'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '976910baefbcfa8dd539c580ef708cd0e90b715a868b6d17ca43cd424ba52703eeb056a5fe957fefe35cb7bd19a13dcc566127561c59dd7265ded87f86da0388'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rfj2v0X6/versions/ooPlytH8/SizeShiftingPotions-neoforge-1.8.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'rfj2v0X6'
+version = 'ooPlytH8'
+
+[[x-prismlauncher-dependencies]]
+addonId = 't5W7Jfwy'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'codAaoxh'
+type = 'EMBEDDED'

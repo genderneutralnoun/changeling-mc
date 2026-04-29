@@ -1,0 +1,21 @@
+filename = 'excavatedvariants-4.3.1-neoforge.jar'
+name = 'Excavated Variants'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'eb3e1b85e5a2eda11ac434cbd8871d76c6db9bb689aedb56c432a687f7669eb253d422c6ebe62726842fbeb331aeb6c2be299f5a8319495019dfffe72f00dd7c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IZaMGxb0/versions/krUiU6UD/excavatedvariants-4.3.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'IZaMGxb0'
+version = 'krUiU6UD'
+
+[[x-prismlauncher-dependencies]]
+addonId = '83pFEQVb'
+type = 'REQUIRED'

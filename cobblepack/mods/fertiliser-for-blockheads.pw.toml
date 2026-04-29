@@ -1,0 +1,26 @@
+filename = 'fertiliserforblockheads-21.1.12+1.4.2.jar'
+name = 'Fertiliser for Blockheads'
+side = 'both'
+ 
+ 
+ 
+ 
+
+[download]
+hash = '7f0a86b8b45088d1c5d32ea786a898bd898ebb04d72ddbdcfcec1dc587108cd43ba8fd090d1cf37654362e4542c1cfa1b72d3c634d0065eaf902a2d3f48d80ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1QhgYzsC/versions/aN74Ay8j/fertiliserforblockheads-21.1.12%2B1.4.2.jar'
+
+[update.modrinth]
+mod-id = '1QhgYzsC'
+version = 'aN74Ay8j'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4WJZr8JU'
+type = 'REQUIRED'
+version = 'J0QsQLJa'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'U6BUTZ7K'
+type = 'OPTIONAL'

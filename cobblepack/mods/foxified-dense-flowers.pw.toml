@@ -1,0 +1,18 @@
+filename = 'denseflower-1.0.0.jar'
+name = 'Foxified Dense Flowers'
+side = 'client'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'ca69b53f0f3144670539fcc8a6179cf30c06662a6ebffd4a0e2c502f32854a66cadd49b9e7142d22aca21e7239407b9b1a8a55fd1d7aa42068691a48bd4f66de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qJCQb492/versions/dd53qCXZ/denseflower-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'qJCQb492'
+version = 'dd53qCXZ'

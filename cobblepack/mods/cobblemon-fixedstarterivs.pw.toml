@@ -1,0 +1,21 @@
+filename = 'fixedstarterivs-neoforge-1.7.3-1.1.0.jar'
+name = 'Cobblemon Fixed Starter IVs'
+side = 'server'
+ 
+ 
+ 
+ 
+
+[download]
+hash = 'f4558b4fc7f8eb1aa4260bbbe49f1c1389673a9f1c575535870bdb4b153c2f4498f6311708e73ac3f20404ed91e5ba96455e467f0ace024176e5166f0fffe023'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dwxBClup/versions/jijT94os/fixedstarterivs-neoforge-1.7.3-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'dwxBClup'
+version = 'jijT94os'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'

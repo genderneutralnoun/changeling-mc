@@ -1,0 +1,18 @@
+filename = 'better-bamboo-wood-4.jar'
+name = 'Better Bamboo Wood'
+side = 'both'
+ 
+ 
+ 
+ 
+ 
+
+[download]
+hash = '3f1083f8c2965f0b1fdf9f04a617f36848a6460e944df324ebf4550b155f90ce31ad4c660602895e3ee5f0e510ea41b3353039c853f99ca8239a71632ba635e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VNaJUgUO/versions/voclCB7K/better-bamboo-wood-4.jar'
+
+[update.modrinth]
+mod-id = 'VNaJUgUO'
+version = 'voclCB7K'
