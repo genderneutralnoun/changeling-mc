@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/paxi-neoforge-1_21.toml"
-hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
-
-[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -15,52 +11,47 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/better-caps.pw.toml"
-hash = "8e55080a003a26f28cada35b35450c442b53656b8fee3d8d51f4f1ca999cf001"
+hash = "c139759012daf4c350aa9f3c1a7261a17553dfafea37b139cfb3dd6c6ec6c473"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
-hash = "2fed69d8edb4f30eb3ea242856555002d0c067b078ad936b90e5ab0e12b05d2a"
+hash = "36a0cd3f12a231fd0dbc21c364cc4e2ec64d01476c5c4cf6e2a4395d9255bf79"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/cobblemon-failskins.pw.toml"
-hash = "e4aef00e26f2d8a086a940d9d9568d2a2d1c6fe39f4319d9bfbd8bb6290d6d25"
+hash = "7cf193b765530552b2821d08500273b8877602de0de050032de212138de4a5a4"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/cobblemon-modded-drops.pw.toml"
-hash = "85a88c16dc64272087a9c7ad271efdab47feb4b1624825e4f402602a588f99b3"
+hash = "78dda5b7a3fda5fdecb34bc22b1bd8b11092311a67eb25454ab38ccbb323fd60"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/data-compats.pw.toml"
-hash = "69a09d7b130562ea629d9acc234a663681efb85d184c1d607b354265421bef76"
+hash = "4509fce5bfd4df606924f463bb0dda8d549433dc6ec8054a9b30a1066451e867"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/norollback.pw.toml"
-hash = "5588005e63e9ff2b3509ee5d1ee22174daa9fbaaa83fffc8c68df462708fe62e"
+hash = "82b2dd2fa72c0461b80c81e06fb920e3e5d09e7029b32eb8660c2c89daf9aa58"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/pokecenter-pc-cobblemon.pw.toml"
-hash = "226b13d289d5043961c51b93607da69a27f3a7d7a21cfa2fdafac71f90d4baf6"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/remove-terralith-intro-message.pw.toml"
-hash = "20c94568f7533f85428e10e4f97a7040011da1543e3eed01b28cbf51257a7177"
+hash = "488c1d9e0a0135abeda155c42a76fe931d1873cd31025989f4f96c2d9a6ee60f"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/skippy-pearls.pw.toml"
-hash = "b0511bd95219755a3ea7cfa2b4b8adbe1ead326e7b26ad32d56c154990fed8be"
+hash = "28a89b52e8b31d96d794eb90f07cc556c4d32c2868b94ac7b276d4d5b1869f36"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/torterras-o-plenty.pw.toml"
-hash = "32f748b40612c32043f928c8a996c8af617dba6d2b732aed0ac9ae0134dacae9"
+hash = "98da4f329dc2a641b9fec56f6994205f9ac1311fe54d2bcfc1b0be4a1bac207d"
 metafile = true
 
 [[files]]
@@ -69,22 +60,27 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "ff5b84ccac0674dde0ceb81b0fddd9be40da7d0e7c49c874861088e4a1ab5f23"
+hash = "452b4449b3cb8428dd0272a9fa62a090dd758c8ae850b95f1f49b3e187cafd2d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/better-caps.pw.toml"
+hash = "2b9bb18f8f81227ee638724fd421d7bf38712234d6c2f92bd4c59c7d78db155a"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
-hash = "2fed69d8edb4f30eb3ea242856555002d0c067b078ad936b90e5ab0e12b05d2a"
+hash = "06defc81e6d25fd7c022cb01fbca4b0b39dabd90273ca20e19db571eebf2fc8b"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/cobblemon-failskins.pw.toml"
-hash = "e4aef00e26f2d8a086a940d9d9568d2a2d1c6fe39f4319d9bfbd8bb6290d6d25"
+hash = "38815cf0033846e169ec1f23d9e1f9ad7379e96acc84508cdbd29096c4a81922"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/torterras-o-plenty.pw.toml"
-hash = "32f748b40612c32043f928c8a996c8af617dba6d2b732aed0ac9ae0134dacae9"
+hash = "a24e73692bc15b53331c94bac27326c03789dd823b81fa7537301baa41d14581"
 metafile = true
 
 [[files]]
@@ -2997,77 +2993,77 @@ hash = "3f46822936d104172e70f5405bc69487b65230bd5e520a41c24ac7e7cc463279"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "4f679dd962d52dfbeaf5dee1097e6f795dfc2fbf7722e00df2d7b5c5615d0213"
+hash = "169579cb4854dd2ea755fd87b876dfcfea43b74e20a310975dd8beb17db94a79"
 metafile = true
 
 [[files]]
 file = "mods/acceleratedrendering.pw.toml"
-hash = "36dd02c56289edcaf42047ba6bf1b610a6cbae5a31e999488e452868b17f3ddd"
+hash = "f8926520782d5ca79c8195bd84126c5c1b5fdf7a338f5abc171afdbb869533b4"
 metafile = true
 
 [[files]]
 file = "mods/accessible-step.pw.toml"
-hash = "42dabf5355a172b6e5913f7dd9f7a38bbed019c0fb2079d66a0d4bb76f43cb24"
+hash = "98c27dfb944bb6fc5f0a8c020cc82033020ab766423275afc19651cd61a1f45e"
 metafile = true
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
-hash = "c5fcf2e1c0c47bd3a56a90ff01525612dd33dab905545bbafc723a3e6e4ba171"
+hash = "9e65c087adc26dd74ac2049c70cb6b966b076cf9e8df2196bb1371cfd2301897"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "203c72c7886e60ad49e1f0299b3b730d094a06224173e5ed7dfff32d9259c452"
+hash = "91cc9507a475599a1664ad4f293efd900ab939373a234e3a44c9a10cbef9d452"
 metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "1844aaeeecd72e089e9b95020be562fa574d71250321f1fde281c1097f6c004d"
+hash = "66049f8a228a9826ce9891fe596d1c8c93b12ee8559abc79a5b22d0608fbfb80"
 metafile = true
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
-hash = "6dfca41b54a7e64f148d534fa81ce30caa137b929f0204e75be59c48c3e886b0"
+hash = "5d47a38fb2bc8e2826cec29ea58cafa1bf0790bf01c73985833eb989bfeca30b"
 metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "50b103db7e3fcf772ddb3020358a1cd8510ac79bb172319895ca81bfcb4bf661"
+hash = "ce1b98662d2f0d374cdbc363ee974fe28aaca5e047e93c52873a059a9ca53d0e"
 metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "ae4153234417570f560417054ec714a1188293aed81c6f073a34d453b57846a6"
+hash = "6088d45c2e2931f0b6c6abc5d7049b65ad02c64e1e544dbab3afb94674dfd58a"
 metafile = true
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"
-hash = "4d84021bc184a48aa97be60eaae63bdd9e91fbe9dcb2e071849034c329fc4090"
+hash = "d4074d951c0617450d3d2b54dd92e0d439d01156e0b4ba14da974f3cb5e78193"
 metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "f135375826561c24405ff66dcb50f2976b29dd0a3bbbb444bdb768af9c9da881"
+hash = "d7e40ead7edfa4185910951116ced2bdda48406a9a0fac9562e1b99f6a0ad567"
 metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "b1b2da7f062ed1935ab0ed4458346ef4fc7acc6b647563d349775c7975b68f7c"
+hash = "81d195e555a74cd36f596e99ce26d58a1e1b67ab88cfd3901e40cab506751a89"
 metafile = true
 
 [[files]]
 file = "mods/almost-unified-ie.pw.toml"
-hash = "af79ed102939d57b6377c9ce0bfd3f05bc5bc1f30163ac65ecc846740f7b40e6"
+hash = "2cfccfbe8714971d22c5aa032739a320011080fe5fec75794302c4439aae6fb1"
 metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "7cf80abbacfefede0f745c01fd63f43363b5ac8bb845f5862aa0620ab8473806"
+hash = "eef88855c62534b324555336d60ba90529a6f441ce5b697df02716796eecd516"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "88467bc311b2f4b632b5bd6dd1d80437a4bb81263aef62e7b4db95606b296220"
+hash = "9e6767dbdb8ff543bf684b95b1758f512454d567c3e2505db98704149d03aecf"
 metafile = true
 
 [[files]]

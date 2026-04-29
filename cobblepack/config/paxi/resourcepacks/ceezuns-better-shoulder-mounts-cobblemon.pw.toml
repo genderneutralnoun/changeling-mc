@@ -1,6 +1,6 @@
 filename = "Ceezun's Better Shoulder Mounts.zip"
 name = "Ceezun's Better Shoulder Mounts [Cobblemon]"
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

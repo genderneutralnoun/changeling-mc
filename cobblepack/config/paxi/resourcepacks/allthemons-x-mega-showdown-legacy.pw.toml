@@ -1,6 +1,6 @@
 filename = 'ATM x MSD [3.4.0].zip'
 name = 'AllTheMons x Mega Showdown'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

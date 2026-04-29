@@ -1,10 +1,6 @@
 filename = 'almostunified-neoforge-1.21.1-1.4.1.jar'
 name = 'Almost Unified'
 side = 'both'
- 
- 
- 
- 
 
 [download]
 hash = 'cb96a81a3bd4291113655097f66f5b0944b0fcf049bac663b0116b639b0989dbf5701d3ffa191df2735bd9af18bd66bca5e206bd2367b2b2dd143ee989284a81'
@@ -15,19 +11,3 @@ url = 'https://cdn.modrinth.com/data/sdaSaQEz/versions/vvzNMESp/almostunified-ne
 [update.modrinth]
 mod-id = 'sdaSaQEz'
 version = 'vvzNMESp'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nfn13YXA'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'fRiHVvU7'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'umyGl7zF'
-type = 'OPTIONAL'

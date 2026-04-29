@@ -2,11 +2,6 @@ filename = 'acceleratedrendering-1.0.8-1.21.1-alpha.jar'
 name = 'Accelerated Rendering'
 side = 'client'
 
-
-
-
-
-
 [download]
 hash = 'c334b8c1fe202443142f1bdbbbde6fcd0a7b5a9a3765e3aa2c2ec7249b178a7c124b0459236fcc185932ed5bcaf8be2154afa07a5c3af6a1ac4b79a433e8d1e5'
 hash-format = 'sha512'

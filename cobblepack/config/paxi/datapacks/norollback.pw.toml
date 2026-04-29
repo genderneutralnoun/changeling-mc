@@ -1,6 +1,6 @@
 filename = 'NoRollback 2.1 (26.1).zip'
 name = 'NoRollback'
-side = ''
+side = 'server'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '26.1', '26.1', '26.1.1', '26.1.1' ]
 x-prismlauncher-release-type = 'release'

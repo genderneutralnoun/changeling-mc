@@ -1,6 +1,6 @@
 filename = 'Skippy Pearls v1.5 1.20.x.zip'
 name = 'Skippy Pearls'
-side = ''
+side = 'server'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.20',

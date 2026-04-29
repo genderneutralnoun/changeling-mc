@@ -1,6 +1,6 @@
 filename = 'Better Caps! [v1.1].zip'
 name = 'Better Caps! [Cobblemon]'
-side = 'server'
+side = 'client'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

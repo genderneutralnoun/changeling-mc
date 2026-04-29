@@ -1,11 +1,6 @@
 filename = 'AkashicTome-1.8-30.jar'
 name = 'Akashic Tome'
 side = 'both'
- 
- 
- 
- 
- 
 
 [download]
 hash = 'c0061c263e1d701e71a75355c3db11c9a975dd1e47da0fe6592973bf12d4f5b44aa476f5daaeec42a3146a8d94fe96f1d57f1a4e37dcd18357e4d752b1a194bb'

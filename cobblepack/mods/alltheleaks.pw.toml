@@ -1,11 +1,6 @@
 filename = 'alltheleaks-1.1.8+1.21.1-neoforge.jar'
 name = 'All The Leaks'
 side = 'server'
- 
- 
- 
- 
- 
 
 [download]
 hash = 'f91b11a1cfa718b9291fbe7b80356f17a572577e'
