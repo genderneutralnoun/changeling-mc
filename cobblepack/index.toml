@@ -1,6 +1,93 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi-neoforge-1_21.toml"
+hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "f248719cc4d0332aba591221d59c9458bf5eb87c73620a4e683d92ca377da2a8"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/better-caps.pw.toml"
+hash = "8e55080a003a26f28cada35b35450c442b53656b8fee3d8d51f4f1ca999cf001"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
+hash = "2fed69d8edb4f30eb3ea242856555002d0c067b078ad936b90e5ab0e12b05d2a"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobblemon-failskins.pw.toml"
+hash = "e4aef00e26f2d8a086a940d9d9568d2a2d1c6fe39f4319d9bfbd8bb6290d6d25"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobblemon-modded-drops.pw.toml"
+hash = "85a88c16dc64272087a9c7ad271efdab47feb4b1624825e4f402602a588f99b3"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/data-compats.pw.toml"
+hash = "69a09d7b130562ea629d9acc234a663681efb85d184c1d607b354265421bef76"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/norollback.pw.toml"
+hash = "5588005e63e9ff2b3509ee5d1ee22174daa9fbaaa83fffc8c68df462708fe62e"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/pokecenter-pc-cobblemon.pw.toml"
+hash = "226b13d289d5043961c51b93607da69a27f3a7d7a21cfa2fdafac71f90d4baf6"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/remove-terralith-intro-message.pw.toml"
+hash = "20c94568f7533f85428e10e4f97a7040011da1543e3eed01b28cbf51257a7177"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/skippy-pearls.pw.toml"
+hash = "b0511bd95219755a3ea7cfa2b4b8adbe1ead326e7b26ad32d56c154990fed8be"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/torterras-o-plenty.pw.toml"
+hash = "32f748b40612c32043f928c8a996c8af617dba6d2b732aed0ac9ae0134dacae9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "ff5b84ccac0674dde0ceb81b0fddd9be40da7d0e7c49c874861088e4a1ab5f23"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
+hash = "2fed69d8edb4f30eb3ea242856555002d0c067b078ad936b90e5ab0e12b05d2a"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cobblemon-failskins.pw.toml"
+hash = "e4aef00e26f2d8a086a940d9d9568d2a2d1c6fe39f4319d9bfbd8bb6290d6d25"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/torterras-o-plenty.pw.toml"
+hash = "32f748b40612c32043f928c8a996c8af617dba6d2b732aed0ac9ae0134dacae9"
+metafile = true
+
+[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
@@ -2059,169 +2146,6 @@ hash = "adf97b689b6ebc7c921d92a11df8f51137a10c6b4f1a6e40f76e4813add34013"
 [[files]]
 file = "configureddefaults/config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
-
-[[files]]
-file = "configureddefaults/config/paxi-neoforge-1_21.toml"
-hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "f248719cc4d0332aba591221d59c9458bf5eb87c73620a4e683d92ca377da2a8"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/better-caps.pw.toml"
-hash = "8e55080a003a26f28cada35b35450c442b53656b8fee3d8d51f4f1ca999cf001"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
-hash = "2fed69d8edb4f30eb3ea242856555002d0c067b078ad936b90e5ab0e12b05d2a"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/cobblemon-failskins.pw.toml"
-hash = "e4aef00e26f2d8a086a940d9d9568d2a2d1c6fe39f4319d9bfbd8bb6290d6d25"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/cobblemon-modded-drops.pw.toml"
-hash = "85a88c16dc64272087a9c7ad271efdab47feb4b1624825e4f402602a588f99b3"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/data-compats.pw.toml"
-hash = "69a09d7b130562ea629d9acc234a663681efb85d184c1d607b354265421bef76"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/norollback.pw.toml"
-hash = "5588005e63e9ff2b3509ee5d1ee22174daa9fbaaa83fffc8c68df462708fe62e"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/pokecenter-pc-cobblemon.pw.toml"
-hash = "226b13d289d5043961c51b93607da69a27f3a7d7a21cfa2fdafac71f90d4baf6"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/remove-terralith-intro-message.pw.toml"
-hash = "20c94568f7533f85428e10e4f97a7040011da1543e3eed01b28cbf51257a7177"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/skippy-pearls.pw.toml"
-hash = "b0511bd95219755a3ea7cfa2b4b8adbe1ead326e7b26ad32d56c154990fed8be"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/.index/torterras-o-plenty.pw.toml"
-hash = "32f748b40612c32043f928c8a996c8af617dba6d2b732aed0ac9ae0134dacae9"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ATM x MSD [3.4.0].zip"
-hash = "bd02042178bc2ac37d32b3317b28a8c4d4cf542693ad4148596ceae05adfc66c"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/Better Caps! [v1.1].zip"
-hash = "6969d43d40c69972c7dcaf1e735c412e98e5cfa488882565cdda80e3576e41eb"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/Ceezun's Better Shoulder Mounts.zip"
-hash = "0a56a76776004171cd195e8669aa80f0f0534f37abca786f66d3f8ac864a9d67"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/CobblemonModdedDrops.zip"
-hash = "adeb434d350718524a056e102e0eed29bc8231acd12ff37c6b7d081af1ed801f"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/DataCompats-2.0.zip"
-hash = "a35390c665b1e325cc1f0c0271d048da84ddb391603955666cbf87a5b69bdcc7"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/Failskins 8.22.zip"
-hash = "3ae0ee0e0ea6f81716d312c6e20f1efff2836fa05a53ab2adffecfc6635f4e55"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/InfiniTweaks - Silent Gear Tag Compat.zip"
-hash = "98fd59547420a956640451b5642c74340bcbebb4fe0194f5af47ce548d8474f7"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/NoRollback 2.1 (26.1).zip"
-hash = "365105af7a793bc32ef2d0531041010688cb13d20b1d7bd2f59d1488cdf67f9b"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/PokeCenter_PCs_1.1.zip"
-hash = "e462e091ef376595c5b0efab2615fe0463b93b4c54e462cc841749a90ecefe31"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/Skippy Pearls v1.5 1.20.x.zip"
-hash = "e033f50edddc0c919b8bf105b2f0d3737efedca592543d033fce29810c246c66"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/Torterras O' Plenty.zip"
-hash = "4ff92b1ad9c24577881647c9a13d3e3175795ed76c0775ca349836a78e2052ba"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/Vivillon Pride Patterns v1.0.zip"
-hash = "2115e21fe0b4be79e73dc9aee382ed77a0c4e43f6ad4224501f482259836f865"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/zRemove_SDL_Intro_v1.2.2.zip"
-hash = "b75758ba4202154971007752aaf26310ef41862afa5f6f5813e47bfe4ed4d68e"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/.index/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "ff5b84ccac0674dde0ceb81b0fddd9be40da7d0e7c49c874861088e4a1ab5f23"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/.index/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
-hash = "2fed69d8edb4f30eb3ea242856555002d0c067b078ad936b90e5ab0e12b05d2a"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/.index/cobblemon-failskins.pw.toml"
-hash = "e4aef00e26f2d8a086a940d9d9568d2a2d1c6fe39f4319d9bfbd8bb6290d6d25"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/.index/torterras-o-plenty.pw.toml"
-hash = "32f748b40612c32043f928c8a996c8af617dba6d2b732aed0ac9ae0134dacae9"
-metafile = true
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/ATM x MSD [3.4.0].zip"
-hash = "bd02042178bc2ac37d32b3317b28a8c4d4cf542693ad4148596ceae05adfc66c"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/Better Caps! [v1.1].zip"
-hash = "6969d43d40c69972c7dcaf1e735c412e98e5cfa488882565cdda80e3576e41eb"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/Ceezun's Better Shoulder Mounts.zip"
-hash = "0a56a76776004171cd195e8669aa80f0f0534f37abca786f66d3f8ac864a9d67"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/Failskins 8.22.zip"
-hash = "3ae0ee0e0ea6f81716d312c6e20f1efff2836fa05a53ab2adffecfc6635f4e55"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/Torterras O' Plenty.zip"
-hash = "4ff92b1ad9c24577881647c9a13d3e3175795ed76c0775ca349836a78e2052ba"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/Vivillon Pride Patterns v1.0.zip"
-hash = "2115e21fe0b4be79e73dc9aee382ed77a0c4e43f6ad4224501f482259836f865"
 
 [[files]]
 file = "configureddefaults/config/pehkui-client.toml"
