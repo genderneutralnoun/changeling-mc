@@ -1,0 +1,30 @@
+{
+	icon: {
+		id: "cobblemon:beast_ball"
+	}
+	id: "50CA166B938C5A2C"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			command: "/pokeeditother Paradox_Gaming24 1 species=chespin gender=male shiny=no nature=bold ability=bulletproof pokeball=beast_ball lvl=10 min_perfect_ivs=6"
+			id: "37D20D87A75BB926"
+			type: "command"
+		}
+		{
+			command: "/pokesizer Paradox_Gaming24 Slot1 1.25"
+			id: "6E91485D9FF522DE"
+			type: "command"
+		}
+		{
+			command: "/pokegiveother Paradox_Gaming24 species=aron gender=male shiny=yes nature=bold ability=sturdy pokeball=beast_ball lvl=10 min_perfect_ivs=6"
+			id: "1C1D9E0BC45B7941"
+			type: "command"
+		}
+		{
+			command: "/pokesizer Paradox_Gaming24 Slot2 1.5"
+			id: "72981E73E301641F"
+			type: "command"
+		}
+	]
+}

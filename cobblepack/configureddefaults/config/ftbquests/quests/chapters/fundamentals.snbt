@@ -1,0 +1,31 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fundamentals"
+	group: ""
+	icon: {
+		id: "minecraft:crafting_table"
+	}
+	id: "2B34C53851BD7AF1"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "2FBFAF93B339ADE8"
+		rewards: [{
+			id: "6994AD36AE7DFAF8"
+			item: {
+				count: 1
+				id: "respawnablepets:etheric_gem"
+			}
+			type: "item"
+		}]
+		tasks: [{
+			advancement: "minecraft:husbandry/tame_an_animal"
+			criterion: ""
+			id: "5819965CC79792B0"
+			type: "advancement"
+		}]
+		x: -1.0d
+		y: 0.5d
+	}]
+}

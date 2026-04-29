@@ -1,0 +1,31 @@
+{
+	icon: {
+		id: "cobblemon:friend_ball"
+	}
+	id: "3FBBC8B2DDEAE9CB"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			auto: "enabled"
+			command: "/pokeedit 1 species=snivy gender=female shiny=no nature=sassy ability=contrary pokeball=friend_ball lvl=10 min_perfect_ivs=6"
+			id: "409A6C4F3CCD459D"
+			type: "command"
+		}
+		{
+			command: "/pokesizer self Slot1 0.65"
+			id: "7CFF7FB50F574EFB"
+			type: "command"
+		}
+		{
+			command: "/pokegive species=salandit gender=female shiny=yes nature=mild ability=corrosion pokeball=love_ball lvl=10 min_perfect_ivs=6"
+			id: "226A05514BA0B416"
+			type: "command"
+		}
+		{
+			command: "/pokesizer self Slot2 0.5"
+			id: "65FE70CBA4D791FD"
+			type: "command"
+		}
+	]
+}

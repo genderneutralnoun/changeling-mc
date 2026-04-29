@@ -1,0 +1,16 @@
+{
+	musicDelayLength2: "SONGPACK_DEFAULT",
+	musicSwitchSpeed2: "SONGPACK_DEFAULT",
+	debugModeEnabled: false,
+	loadedUserSongpack: "rakkja'sPMDjukebox",
+	blacklistedDimensions: [],
+	savedHomePositions: {
+		saved: {
+			x: 159.5,
+			y: 70.5625,
+			z: -2312.5210954684258
+		}
+	},
+	soundsMuteMusic: [],
+	hasForcedInitialVolume: true
+}

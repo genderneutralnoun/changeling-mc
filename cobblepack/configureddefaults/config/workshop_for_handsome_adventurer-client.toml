@@ -1,0 +1,25 @@
+[Tables]
+	#Crafting tables can permanently hold items if you put a chest into a customization slot. Here you set whether the items are rendered.
+	"Render items on top of tables" = true
+
+["Book shelves"]
+	#If this option is turned on, you'll see a list of enchantments for your books.
+	"Detailed info for enchanted books in Jade/TOP/WTHIT" = true
+
+["Tool racks"]
+	#If this option is turned on, you'll see a list of enchantments for your tools.
+	"Detailed info for enchanted tools in Jade/TOP/WTHIT" = false
+
+["Our in-world tooltips"]
+	#We have a system that tells you what's under crosshair in tool rack / potion shelf / book shelf. It's disabled by default if mod pack has Jade/TOP/WTHIT, and it's enabled if none of the three are there. If you enable this, the system will be enabled even if you have Jade/TOP/WTHIT. 
+	"Our world tooltip - force enabled" = false
+	#We have a system that tells you what's under crosshair in tool rack / potion shelf / book shelf. It's disabled by default if mod pack has Jade/TOP/WTHIT, and it's enabled if none of the three are there. If you enable this, the system will be disabled even if you don't have Jade/TOP/WTHIT. 
+	"Our world tooltip - force disabled" = false
+
+["Task list"]
+	#Should we gray-out done and abandoned items?
+	"Coloring for finished items" = true
+	#Is the game paused while the list is open?
+	"Task list pauses singleplayer" = false
+	#Are item texts are checkmarks drawn on the task list block (when it's hanging on a wall)? Default is true (Bibliocraft style) - text is visible and checkmarks and paging work. Alternatively (simple mode) - right-clicking just opens the gui.  Even though this is true by default, the Author plays with it turned off and recommends that you try with it turned off and then make a decision.
+	"Items are drawn on wall" = true

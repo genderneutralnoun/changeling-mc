@@ -1,0 +1,17 @@
+filename = 'Twemoji Visibility 1.9.zip'
+name = 'Twemoji Visibility'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1', '1.21.2', '1.21.2', '1.21.3', '1.21.3', '1.21.4', '1.21.4', '1.21.5', '1.21.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.9'
+
+[download]
+hash = '5bd1e09a6f7e279bfa1f149218fe5d731409d8f50bd041ff9032e81b2669f11b83eeda85098d709ebdceab824e6381bdafbe6eb84c422f3211a023570fb114a6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WdYcUVh8/versions/Jlg8LgDJ/Twemoji Visibility 1.9.zip'
+
+[update.modrinth]
+mod-id = 'WdYcUVh8'
+version = 'Jlg8LgDJ'

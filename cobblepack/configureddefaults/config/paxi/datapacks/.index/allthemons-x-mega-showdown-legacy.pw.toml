@@ -1,0 +1,8 @@
+filename = 'ATM x MSD [3.4.0].zip'
+name = 'AllTheMons x Mega Showdown'
+side = 'server'
+
+[download]
+hash = '0ee2bed7e74ceef4ed42bb3a795e63e95109f602446792ed1a537a0d57e24d2f801882e303cb9bf7a2f125ed41325c9db8d6baadcf3ad89e767b6360df49de28'
+hash-format = 'sha512'
+url = 'https://drive.proton.me/urls/KNCK7866KR#j55UPhDfcJzQ'

@@ -1,0 +1,58 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 172,
+                "top": -8
+            },
+            "SETTINGS": {
+                "horizontalOffset": 172,
+                "top": -11
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 173,
+                "top": 26
+            },
+            "SETTINGS": {
+                "horizontalOffset": 173,
+                "top": 23
+            }
+        }
+    },
+    "com.lunazstudios.cobblefurnies.client.screen.FurniCrafterScreen": {
+        "ignore": true
+    },
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": {
+        "ignore": true
+    },
+    "net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackSettingsContainerMenu": {
+        "ignore": true
+    },
+    "fuzs.visualworkbench.world.inventory.VisualCraftingMenu": {
+        "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.FurnaceScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 30
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 30
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CraftingScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 200
+            },
+            "SETTINGS": {
+                "horizontalOffset": 200
+            }
+        }
+    }
+}

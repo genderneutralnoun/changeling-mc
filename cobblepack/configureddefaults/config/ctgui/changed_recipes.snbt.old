@@ -1,0 +1,158 @@
+{
+    data: [],
+    palette: [],
+    changes: [
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/yellow_apricorn_seed_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "cobblemon:yellow_apricorn_seed"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "dtcobblemon:yellow_apricorn_seed"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/pink_apricorn_seed_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "cobblemon:pink_apricorn_seed"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "dtcobblemon:pink_apricorn_seed"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/red_apricorn_seed_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "cobblemon:red_apricorn_seed"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "dtcobblemon:red_apricorn_seed"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/green_apricorn_seed_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "cobblemon:green_apricorn_seed"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "dtcobblemon:green_apricorn_seed"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/blue_apricorn_seed_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "cobblemon:blue_apricorn_seed"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "dtcobblemon:blue_apricorn_seed"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/black_apricorn_seed_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "cobblemon:black_apricorn_seed"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "dtcobblemon:black_apricorn_seed"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/white_apricorn_seed_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "cobblemon:white_apricorn_seed"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "dtcobblemon:white_apricorn_seed"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/corn_flour_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "culturaldelights:corn_kernels"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "createfood:corn_flour"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        }
+    ]
+}

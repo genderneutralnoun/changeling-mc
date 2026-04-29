@@ -1,0 +1,79 @@
+# Client-specific configuration for FTB Library
+
+{
+	sidebar: {
+		# Enable the sidebar
+		# Default: true
+		enabled: false
+		buttons: {
+			"ftblibrary:toggle/night": {
+				y: -1
+				enabled: false
+				x: -1
+			}
+			"ftblibrary:toggle/day": {
+				y: -1
+				enabled: false
+				x: -1
+			}
+			"ftbquests:quests": {
+				y: 0
+				enabled: true
+				x: 0
+			}
+			"ftbteams:my_team": {
+				y: -1
+				enabled: false
+				x: -1
+			}
+			"ftblibrary:toggle/gamemode": {
+				y: -1
+				enabled: false
+				x: -1
+			}
+			"ftblibrary:config": {
+				y: 0
+				enabled: true
+				x: 1
+			}
+			"ftbteams:team_lives": {
+				y: -1
+				enabled: false
+				x: -1
+			}
+			"ftblibrary:toggle/rain": {
+				y: -1
+				enabled: false
+				x: -1
+			}
+		}
+		
+		# Position of the sidebar
+		# Default: "top_left"
+		# Valid values: "top_left", "top_right", "bottom_left", "bottom_right"
+		position: "top_left"
+	}
+	tooltips: {
+		# Add the name of the mod that entities belong to in the entity face selection GUI.
+		# Default: true
+		entity_modname: true
+		
+		# Add the name of the mod that fluids belong to in the fluid selection GUI.
+		# Default: true
+		fluid_modname: true
+		
+		# Add the name of the mod that images belong to in the image selection GUI.
+		# Default: true
+		image_modname: true
+		
+		# Add the name of the mod that items belong to in the item selection GUI.
+		# Note that several common mods also do this (modnametooltip,WTHIT,EMI...) so this is false by default
+		# Default: false
+		item_modname: false
+	}
+	colorselector: {
+		# Colors recently selected in the color selector
+		# Default: []
+		recents: [I; ]
+	}
+}

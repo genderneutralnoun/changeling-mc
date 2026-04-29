@@ -1,0 +1,4 @@
+#Server configs for the butterflies mod.
+[butterfly_options]
+	#If true, render debug info.
+	debug_info = false

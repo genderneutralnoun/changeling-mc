@@ -1,0 +1,304 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "silent_gear"
+	group: ""
+	icon: {
+		id: "silentgear:pickaxe_blueprint"
+	}
+	id: "04346C32564E8D14"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "14C2BE1A6E33BA40"
+			rewards: [{
+				id: "5755EA920C12EF08"
+				item: {
+					count: 1
+					id: "silentgear:pickaxe_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "3061D1640FE95B34"
+				item: { components: { "minecraft:attribute_modifiers": { modifiers: [ { amount: 1.0d, id: "minecraft:base_attack_damage", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_damage" }, { amount: -2.799999952316284d, id: "minecraft:base_attack_speed", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" }, { amount: 0.0d, id: "minecraft:base_entity_interaction_range", operation: "add_value", slot: "mainhand", type: "minecraft:player.entity_interaction_range" } ] }, "minecraft:item_name": "{\"translate\":\"item.silentgear.pickaxe.nameProper\",\"with\":[{\"translate\":\"material.silentgear.wood\"}]}", "silentgear:construction": { broken_count: 0, example: 0b, parts: [ { item: { components: { "silentgear:material_list": [ { material: "silentgear:wood" }, { material: "silentgear:wood" }, { material: "silentgear:wood" } ] }, count: 1, id: "silentgear:pickaxe_head" }, part: "silentgear:pickaxe_head" }, { item: { components: { "silentgear:material_list": [{ material: "silentgear:wood" }] }, count: 1, id: "silentgear:rod" }, part: "silentgear:rod" } ], repairedCount: 0 }, "silentgear:model_index": 2, "silentgear:model_key": "pickaxe:pickaxe_head{wood},rod{wood},", "silentgear:properties": { "silentgear:armor_durability": 8.0f, "silentgear:attack_damage": 1.0f, "silentgear:attack_reach": 0.0f, "silentgear:attack_speed": 1.2f, "silentgear:block_reach": 0.0f, "silentgear:charging_value": 0.6f, "silentgear:durability": 59.000004f, "silentgear:enchantment_value": 15.0f, "silentgear:harvest_speed": 2.0f, "silentgear:harvest_tier": { incorrect_blocks_for_tool: "silentgear:incorrect_for_wood_tools", level_hint: "0", name: "wood" }, "silentgear:magic_damage": 0.0f, "silentgear:rarity": 1.0f, "silentgear:repair_efficiency": 1.0f, "silentgear:repair_value": 0.25f, "silentgear:traits": [ { conditions: [ ], level: 1, trait: "silentgear:flammable" }, { conditions: [{ gear_type: "silentgear:tool", type: "silentgear:gear_type" }], level: 1, trait: "silentgear:jagged" }, { conditions: [ ], level: 2, trait: "silentgear:flexible" } ] } }, count: 1, id: "silentgear:pickaxe" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14C2BE1A6E33BA40"]
+			id: "31AABF40AD96947C"
+			rewards: [{
+				id: "6DD4D5DB9073A130"
+				item: {
+					count: 1
+					id: "silentgear:crude_tool_parts"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "490DA6E6E607D42D"
+				item: { count: 1, id: "silentgear:stone_anvil" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["31AABF40AD96947C"]
+			id: "32D63083342D850A"
+			rewards: [{
+				count: 8
+				id: "1A39210D7E9EF713"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "0DF1588D42DFECBD"
+				item: { count: 1, id: "silentgear:crude_knife" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["20089A54B3CBC866"]
+			id: "6CAA06CF3AC71DDF"
+			rewards: [{
+				id: "7C0318CA236FAA5A"
+				item: {
+					count: 1
+					id: "silentgear:axe_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "7B99267E92DDC7DA"
+				item: { components: { "minecraft:attribute_modifiers": { modifiers: [ { amount: 6.0d, id: "minecraft:base_attack_damage", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_damage" }, { amount: -3.200000047683716d, id: "minecraft:base_attack_speed", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" }, { amount: 0.0d, id: "minecraft:base_entity_interaction_range", operation: "add_value", slot: "mainhand", type: "minecraft:player.entity_interaction_range" } ] }, "minecraft:item_name": "{\"translate\":\"item.silentgear.axe.nameProper\",\"with\":[{\"translate\":\"material.silentgear.wood\"}]}", "silentgear:construction": { broken_count: 0, example: 0b, parts: [ { item: { components: { "silentgear:material_list": [ { material: "silentgear:wood" }, { material: "silentgear:wood" }, { material: "silentgear:wood" } ] }, count: 1, id: "silentgear:axe_head" }, part: "silentgear:axe_head" }, { item: { components: { "silentgear:material_list": [{ material: "silentgear:wood" }] }, count: 1, id: "silentgear:rod" }, part: "silentgear:rod" } ], repairedCount: 0 }, "silentgear:model_index": 2, "silentgear:model_key": "axe:axe_head{wood},rod{wood},", "silentgear:properties": { "silentgear:armor_durability": 8.0f, "silentgear:attack_damage": 5.0f, "silentgear:attack_reach": 0.0f, "silentgear:attack_speed": 0.8000001f, "silentgear:block_reach": 0.0f, "silentgear:charging_value": 0.6f, "silentgear:durability": 59.000004f, "silentgear:enchantment_value": 15.0f, "silentgear:harvest_speed": 2.0f, "silentgear:harvest_tier": { incorrect_blocks_for_tool: "silentgear:incorrect_for_wood_tools", level_hint: "0", name: "wood" }, "silentgear:magic_damage": 0.0f, "silentgear:rarity": 1.0f, "silentgear:repair_efficiency": 1.0f, "silentgear:repair_value": 0.25f, "silentgear:traits": [ { conditions: [ ], level: 1, trait: "silentgear:flammable" }, { conditions: [{ gear_type: "silentgear:tool", type: "silentgear:gear_type" }], level: 1, trait: "silentgear:jagged" }, { conditions: [ ], level: 2, trait: "silentgear:flexible" } ] } }, count: 1, id: "silentgear:axe" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["237322362C18B16D"]
+			id: "20089A54B3CBC866"
+			rewards: [{
+				id: "42C3E295DCB4C53F"
+				item: {
+					count: 1
+					id: "silentgear:shovel_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "733A94CD95F9646C"
+				item: { components: { "minecraft:attribute_modifiers": { modifiers: [ { amount: 1.5d, id: "minecraft:base_attack_damage", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_damage" }, { amount: -3.0d, id: "minecraft:base_attack_speed", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" }, { amount: 0.0d, id: "minecraft:base_entity_interaction_range", operation: "add_value", slot: "mainhand", type: "minecraft:player.entity_interaction_range" } ] }, "minecraft:item_name": "{\"translate\":\"item.silentgear.shovel.nameProper\",\"with\":[{\"translate\":\"material.silentgear.wood\"}]}", "silentgear:construction": { broken_count: 0, example: 0b, parts: [ { item: { components: { "silentgear:material_list": [{ material: "silentgear:wood" }] }, count: 1, id: "silentgear:shovel_head" }, part: "silentgear:shovel_head" }, { item: { components: { "silentgear:material_list": [{ material: "silentgear:wood" }] }, count: 1, id: "silentgear:rod" }, part: "silentgear:rod" } ], repairedCount: 0 }, "silentgear:model_index": 2, "silentgear:model_key": "shovel:shovel_head{wood},rod{wood},", "silentgear:properties": { "silentgear:armor_durability": 8.0f, "silentgear:attack_damage": 1.5f, "silentgear:attack_reach": 0.0f, "silentgear:attack_speed": 1.0f, "silentgear:block_reach": 0.0f, "silentgear:charging_value": 0.6f, "silentgear:durability": 59.0f, "silentgear:enchantment_value": 15.0f, "silentgear:harvest_speed": 2.0f, "silentgear:harvest_tier": { incorrect_blocks_for_tool: "silentgear:incorrect_for_wood_tools", level_hint: "0", name: "wood" }, "silentgear:magic_damage": 0.0f, "silentgear:rarity": 1.0f, "silentgear:repair_efficiency": 2.0f, "silentgear:repair_value": 0.25f, "silentgear:traits": [ { conditions: [ ], level: 1, trait: "silentgear:flammable" }, { conditions: [{ gear_type: "silentgear:tool", type: "silentgear:gear_type" }], level: 1, trait: "silentgear:jagged" }, { conditions: [ ], level: 2, trait: "silentgear:flexible" } ] } }, count: 1, id: "silentgear:shovel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["14C2BE1A6E33BA40"]
+			id: "237322362C18B16D"
+			rewards: [
+				{
+					id: "3128D81237EE3F68"
+					item: {
+						count: 1
+						id: "silentgear:sword_blueprint"
+					}
+					type: "item"
+				}
+				{
+					id: "4A60C9B7FAF4179C"
+					item: {
+						count: 1
+						id: "silentgear:rod_blueprint"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "45D4E608652D5F56"
+				item: { components: { "minecraft:attribute_modifiers": { modifiers: [ { amount: 3.0d, id: "minecraft:base_attack_damage", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_damage" }, { amount: -2.4000000953674316d, id: "minecraft:base_attack_speed", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" }, { amount: 0.5d, id: "minecraft:base_entity_interaction_range", operation: "add_value", slot: "mainhand", type: "minecraft:player.entity_interaction_range" } ] }, "minecraft:item_name": "{\"translate\":\"item.silentgear.sword.nameProper\",\"with\":[{\"translate\":\"material.silentgear.wood\"}]}", "silentgear:construction": { broken_count: 0, example: 0b, parts: [ { item: { components: { "silentgear:material_list": [ { material: "silentgear:wood" }, { material: "silentgear:wood" } ] }, count: 1, id: "silentgear:sword_blade" }, part: "silentgear:sword_blade" }, { item: { components: { "silentgear:material_list": [{ material: "silentgear:wood" }] }, count: 1, id: "silentgear:rod" }, part: "silentgear:rod" } ], repairedCount: 0 }, "silentgear:model_index": 2, "silentgear:model_key": "sword:sword_blade{wood},rod{wood},", "silentgear:properties": { "silentgear:armor_durability": 8.0f, "silentgear:attack_damage": 3.0f, "silentgear:attack_reach": 0.0f, "silentgear:attack_speed": 1.6000001f, "silentgear:block_reach": 0.0f, "silentgear:charging_value": 0.6f, "silentgear:durability": 59.0f, "silentgear:enchantment_value": 15.0f, "silentgear:harvest_speed": 2.0f, "silentgear:harvest_tier": { incorrect_blocks_for_tool: "silentgear:incorrect_for_wood_tools", level_hint: "0", name: "wood" }, "silentgear:magic_damage": 0.0f, "silentgear:rarity": 1.0f, "silentgear:repair_efficiency": 1.0f, "silentgear:repair_value": 0.25f, "silentgear:traits": [ { conditions: [ ], level: 1, trait: "silentgear:flammable" }, { conditions: [{ gear_type: "silentgear:tool", type: "silentgear:gear_type" }], level: 1, trait: "silentgear:jagged" }, { conditions: [ ], level: 2, trait: "silentgear:flexible" } ] } }, count: 1, id: "silentgear:sword" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6CAA06CF3AC71DDF"]
+			id: "66F290D89CCE0225"
+			rewards: [
+				{
+					id: "46632F2E282D6DCA"
+					item: {
+						count: 1
+						id: "silentgear:hoe_blueprint"
+					}
+					type: "item"
+				}
+				{
+					id: "3882C954E1A415E0"
+					item: {
+						count: 1
+						id: "silentgear:blueprint_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6DF065264E2BA1D2"
+				item: { components: { "minecraft:attribute_modifiers": { modifiers: [ { amount: 0.0d, id: "minecraft:base_attack_damage", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_damage" }, { amount: -3.0d, id: "minecraft:base_attack_speed", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" }, { amount: 1.0d, id: "minecraft:base_entity_interaction_range", operation: "add_value", slot: "mainhand", type: "minecraft:player.entity_interaction_range" } ] }, "minecraft:item_name": "{\"translate\":\"item.silentgear.hoe.nameProper\",\"with\":[{\"translate\":\"material.silentgear.wood\"}]}", "silentgear:construction": { broken_count: 0, example: 0b, parts: [ { item: { components: { "silentgear:material_list": [ { material: "silentgear:wood" }, { material: "silentgear:wood" } ] }, count: 1, id: "silentgear:hoe_head" }, part: "silentgear:hoe_head" }, { item: { components: { "silentgear:material_list": [{ material: "silentgear:wood" }] }, count: 1, id: "silentgear:rod" }, part: "silentgear:rod" } ], repairedCount: 0 }, "silentgear:model_index": 2, "silentgear:model_key": "hoe:hoe_head{wood},rod{wood},", "silentgear:properties": { "silentgear:armor_durability": 8.0f, "silentgear:attack_damage": 0.0f, "silentgear:attack_reach": 0.0f, "silentgear:attack_speed": 3.0f, "silentgear:block_reach": 0.0f, "silentgear:charging_value": 0.6f, "silentgear:durability": 59.0f, "silentgear:enchantment_value": 15.0f, "silentgear:harvest_speed": 2.0f, "silentgear:harvest_tier": { incorrect_blocks_for_tool: "silentgear:incorrect_for_wood_tools", level_hint: "0", name: "wood" }, "silentgear:magic_damage": 0.0f, "silentgear:rarity": 1.0f, "silentgear:repair_efficiency": 1.0f, "silentgear:repair_value": 0.25f, "silentgear:traits": [ { conditions: [ ], level: 1, trait: "silentgear:flammable" }, { conditions: [{ gear_type: "silentgear:tool", type: "silentgear:gear_type" }], level: 1, trait: "silentgear:jagged" }, { conditions: [ ], level: 2, trait: "silentgear:flexible" } ] } }, count: 1, id: "silentgear:hoe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["18B6491DB508B42E"]
+			id: "369851AC7E16A5B5"
+			rewards: [{
+				count: 5
+				id: "7EC595FFEBDD4D50"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4142343742B411D4"
+				item: { count: 1, id: "silentgear:crude_repair_kit" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["32D63083342D850A"]
+			id: "18B6491DB508B42E"
+			rewards: [{
+				count: 4
+				id: "251729C58CC55AA0"
+				item: {
+					count: 1
+					id: "silentgear:flax_seeds"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "297DE5DDB2CE3B8B"
+				item: { count: 1, id: "silentgear:template_board" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["18B6491DB508B42E"]
+			id: "2F27375E7C8B55FE"
+			rewards: [{
+				id: "6E8EF4A66745050C"
+				item: {
+					count: 1
+					id: "minecraft:blue_dye"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "30828E3E00A55D77"
+				item: { count: 1, id: "silentgear:flax_flowers" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["369851AC7E16A5B5"]
+			id: "799F76A325743839"
+			rewards: [{
+				count: 3
+				id: "04D31EA8694111BD"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "38925B2BC058B9E3"
+				item: { count: 1, id: "silentgear:sturdy_repair_kit" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["799F76A325743839"]
+			id: "13C69113526B3DAC"
+			tasks: [{
+				id: "2CA66A9FB53812C5"
+				item: { count: 1, id: "silentgear:crimson_repair_kit" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["13C69113526B3DAC"]
+			id: "5C4E09453EAE1B04"
+			tasks: [{
+				id: "63EA6ECB3A5E77E2"
+				item: { count: 1, id: "silentgear:azure_repair_kit" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["2F27375E7C8B55FE"]
+			dependency_requirement: "all_started"
+			id: "0F1BD67992989937"
+			rewards: [{
+				count: 8
+				id: "1DDB9681684D1B9A"
+				item: {
+					count: 1
+					id: "silentgear:blueprint_paper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D6A06B548B52D6C"
+				item: { count: 1, id: "silentgear:blueprint_paper" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["18B6491DB508B42E"]
+			id: "475680AB6B5B2D34"
+			tasks: [{
+				id: "47602CB1BA867F5D"
+				item: { count: 1, id: "silentgear:knife_template" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -7.5d
+		}
+	]
+}
