@@ -3628,11 +3628,6 @@ hash = "ff02f1f3a4f13e3c50dd2f84e8beb72b7fee440e9aaad35870e556575d074f20"
 metafile = true
 
 [[files]]
-file = "mods/crashexploitfixer.pw.toml"
-hash = "b8cdf32e77599797f3db000dd855907af7477fc17b94d39c7c2de40a82c1df0b"
-metafile = true
-
-[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "7b0ddd067b9c43df07e7f401a0b9ec143e6b9c36e58f08c205a8d4271cdca988"
 metafile = true
