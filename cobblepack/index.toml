@@ -35,11 +35,6 @@ hash = "85bec7ae02b748134c92cda04c5169fec2231cd14bf4183885839e36c0861854"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/infinitweaks-silent-gear-tag-compat.pw.toml"
-hash = "4967d41df125d967e0db7621c3a929f7e68aa68efddc92397ff202bd6e0ecd9a"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/norollback.pw.toml"
 hash = "ebbae3fdb27e249beb34a6da9138545e2682e7307547406df946ff1512acac8c"
 metafile = true
