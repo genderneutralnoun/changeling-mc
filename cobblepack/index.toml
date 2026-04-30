@@ -218,10 +218,6 @@ file = "configureddefaults/config/almanac-common.toml"
 hash = "60804e0ec79a4117e82b9a4c8506077e916a5dc1a0f9bd7eebea977cce9b6a94"
 
 [[files]]
-file = "configureddefaults/config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
-
-[[files]]
 file = "configureddefaults/config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
