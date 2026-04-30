@@ -228,6 +228,16 @@
 			cinnamon = true
 			banana = true
 
+		[types.leaves_type.dtquark]
+			warm_blossom = true
+			sunny_blossom = true
+			serene_blossom = true
+			frosty_blossom = true
+			flowering_azalea = true
+			fiery_blossom = true
+			azalea = true
+			ancient = true
+
 		[types.crystal_type.biomesoplenty]
 			rose_quartz = true
 

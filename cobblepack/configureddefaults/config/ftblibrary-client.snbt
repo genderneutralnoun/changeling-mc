@@ -1,52 +1,58 @@
 # Client-specific configuration for FTB Library
 
 {
+	colorselector: {
+		# Colors recently selected in the color selector
+		# Default: []
+		recents: [I; ]
+	}
 	sidebar: {
+		buttons: {
+			"ftbteams:my_team": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+			"ftbquests:quests": {
+				enabled: true
+				x: 0
+				y: 0
+			}
+			"ftblibrary:toggle/night": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+			"ftbteams:team_lives": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+			"ftblibrary:config": {
+				enabled: true
+				x: 1
+				y: 0
+			}
+			"ftblibrary:toggle/gamemode": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+			"ftblibrary:toggle/day": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+			"ftblibrary:toggle/rain": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+		}
+		
 		# Enable the sidebar
 		# Default: true
 		enabled: false
-		buttons: {
-			"ftblibrary:toggle/night": {
-				y: -1
-				enabled: false
-				x: -1
-			}
-			"ftblibrary:toggle/day": {
-				y: -1
-				enabled: false
-				x: -1
-			}
-			"ftbquests:quests": {
-				y: 0
-				enabled: true
-				x: 0
-			}
-			"ftbteams:my_team": {
-				y: -1
-				enabled: false
-				x: -1
-			}
-			"ftblibrary:toggle/gamemode": {
-				y: -1
-				enabled: false
-				x: -1
-			}
-			"ftblibrary:config": {
-				y: 0
-				enabled: true
-				x: 1
-			}
-			"ftbteams:team_lives": {
-				y: -1
-				enabled: false
-				x: -1
-			}
-			"ftblibrary:toggle/rain": {
-				y: -1
-				enabled: false
-				x: -1
-			}
-		}
 		
 		# Position of the sidebar
 		# Default: "top_left"
@@ -70,10 +76,5 @@
 		# Note that several common mods also do this (modnametooltip,WTHIT,EMI...) so this is false by default
 		# Default: false
 		item_modname: false
-	}
-	colorselector: {
-		# Colors recently selected in the color selector
-		# Default: []
-		recents: [I; ]
 	}
 }

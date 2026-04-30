@@ -258,6 +258,10 @@
 			dragon_golem = true
 			origin = true
 
+		[types.metal_type.bronze]
+			tin = true
+			bronze = true
+
 		[types.gem_type.silentgems]
 			ruby = true
 			carnelian = true

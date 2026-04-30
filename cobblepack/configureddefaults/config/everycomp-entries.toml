@@ -670,6 +670,9 @@
 			double_wardrobe = true
 			stripped_drawer = true
 
+		[entries.wood_type.mighty_mail]
+			mail_box = true
+
 		[entries.leaves_type.quark]
 			hedge = true
 			leaf_carpet = true

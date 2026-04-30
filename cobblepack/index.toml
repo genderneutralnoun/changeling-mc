@@ -218,6 +218,10 @@ file = "configureddefaults/config/almanac-common.toml"
 hash = "60804e0ec79a4117e82b9a4c8506077e916a5dc1a0f9bd7eebea977cce9b6a94"
 
 [[files]]
+file = "configureddefaults/config/almostunified/debug.json"
+hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
+
+[[files]]
 file = "configureddefaults/config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
@@ -283,11 +287,11 @@ hash = "55e2d8a3668335828f0fd1e9be6f5520126533504df83e3980b23360978f3972"
 
 [[files]]
 file = "configureddefaults/config/beltborne_lanterns.json"
-hash = "f1a13c5ef5ea4287e3553a5406880b35a65ec7c9727a542a4f2d2ffc558836c2"
+hash = "0fe4c4957e56b10dbd2264d6004a450a95cf62655f895f1db95bf1c3efd06048"
 
 [[files]]
 file = "configureddefaults/config/beltborne_lanterns_lamps.json"
-hash = "4f9c649fd7dcd4f258d8c1dbcc3c866c54e9f3254df52c778cef8ae682db25b6"
+hash = "518707604cc95279b549f9f3e5c30fcbac54106fc076a9c9d7796b1b2def72bd"
 
 [[files]]
 file = "configureddefaults/config/better-advanced-tooltips-client.toml"
@@ -587,11 +591,11 @@ hash = "a8fd83796badb83fa2da7f36f9c31788b8aa7534672934fdf55c0c47b51c29b8"
 
 [[files]]
 file = "configureddefaults/config/cobblemonintegrations-common-4.toml.bak"
-hash = "f357950adbd75b30273670e3c3bd37d14a321a65c1e30adec949078c38f6e353"
+hash = "2993baeb987bd3781e07645f0ef0308d4a17f3ebaea90edae1b26c5d9a17815c"
 
 [[files]]
 file = "configureddefaults/config/cobblemonintegrations-common-5.toml.bak"
-hash = "bc5344f6e3aea5609df31f9c11523d61ca4833b6ae811da6c585d5561acf8b25"
+hash = "a8fd83796badb83fa2da7f36f9c31788b8aa7534672934fdf55c0c47b51c29b8"
 
 [[files]]
 file = "configureddefaults/config/cobblemonintegrations-common.toml"
@@ -690,6 +694,10 @@ file = "configureddefaults/config/configured-client.properties"
 hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
 
 [[files]]
+file = "configureddefaults/config/confirmdisconnect.json"
+hash = "cd4c0ed9161dcc42ed71a78739e68cf6f5c158d46ac6a4dca98b7997dd17fb75"
+
+[[files]]
 file = "configureddefaults/config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
@@ -751,7 +759,7 @@ hash = "c4a8d180b5ea4196a3a1ba06c39ef7fd5e91cd80ad5dfc0b9f1007c1c9e38c34"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/config.toml"
-hash = "5719d6d590078e3186cf91d6c107ff49114836eacd19eba04de6008c3baf97ba"
+hash = "d940beef5f5214c2ec59641916165f39d328ec27cf4ce54c9c9ea040d075fe0c"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/crash_assistant_localization_overrides/README.md"
@@ -759,7 +767,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/modlist.json"
-hash = "921735145c1f8782e18c702ce48eea6c535dad630569b74151d21b80b034bd65"
+hash = "4f5dcf33a2dabfa0c062ebed72aa626f8f163ae7ef821336870be2d72912f4db"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -767,7 +775,7 @@ hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/scripts/startup/example.jexl"
-hash = "b34373d4cb64be695c42bdacb55d8aaf065f3466789dcdcf4b43f42cd20a6537"
+hash = "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37"
 
 [[files]]
 file = "configureddefaults/config/create-client-1.toml.bak"
@@ -1163,7 +1171,7 @@ hash = "dc38be15cae51c0235f39c08d7055d09b5916234a7761270cc9035201d6cc788"
 
 [[files]]
 file = "configureddefaults/config/euphoria_patcher/data.json"
-hash = "71be75ed49c4384299a05056802fc62fb5074e0f9f97b9e1032b956de1c6b06f"
+hash = "7e55a7e8efa8169b4fcfb5ec57345e4c16c7c58b9e05a7e674d018c22cb1f59f"
 
 [[files]]
 file = "configureddefaults/config/euphoria_patcher/settings.toml"
@@ -1179,27 +1187,27 @@ hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
 
 [[files]]
 file = "configureddefaults/config/everycomp-entries-1.toml.bak"
-hash = "b0c9ce30071a6ae93a53b8ce1ea39093e8b1f41637f93e3cb471a0fc013c432c"
+hash = "f100ced79bb253f2f864eb4d135b28abd01d3a0e7db7755e26d2b65ac4353eb5"
 
 [[files]]
 file = "configureddefaults/config/everycomp-entries-2.toml.bak"
-hash = "9534911d1d0eae8146568c1157f2877e72b22a2e1314b670bc2c2644c80a69cd"
+hash = "b0c9ce30071a6ae93a53b8ce1ea39093e8b1f41637f93e3cb471a0fc013c432c"
 
 [[files]]
 file = "configureddefaults/config/everycomp-entries-3.toml.bak"
-hash = "f39a5ed1bd5f1ae7d293807bec83d962eda84a197c6e96efa71290421c7538a6"
+hash = "9534911d1d0eae8146568c1157f2877e72b22a2e1314b670bc2c2644c80a69cd"
 
 [[files]]
 file = "configureddefaults/config/everycomp-entries-4.toml.bak"
-hash = "47b6adc8f21eb82c01eecf99b21b882790628667b692ceaa0fa708ef979b5692"
+hash = "f39a5ed1bd5f1ae7d293807bec83d962eda84a197c6e96efa71290421c7538a6"
 
 [[files]]
 file = "configureddefaults/config/everycomp-entries-5.toml.bak"
-hash = "34a02ff0a6aed5d122fbcdbdbed28792f62bd60753f95abbebb19c625434ef68"
+hash = "47b6adc8f21eb82c01eecf99b21b882790628667b692ceaa0fa708ef979b5692"
 
 [[files]]
 file = "configureddefaults/config/everycomp-entries.toml"
-hash = "f100ced79bb253f2f864eb4d135b28abd01d3a0e7db7755e26d2b65ac4353eb5"
+hash = "2b761530a7616ea2517c112f8c711fca4ef6e5aa852699d44b2c54227c321401"
 
 [[files]]
 file = "configureddefaults/config/everycomp-hazardous-1.toml.bak"
@@ -1263,7 +1271,7 @@ hash = "97461c56c8cd7ba14756413561a57aa83c21d6f0559850a593a508c3d692bd93"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "3d00098af79503b4006b002378369bb2235251421b5c0aa03bec2a657a28f5fb"
+hash = "295b679635c39ec9e4c6461dc5ae03251e0faa223527b84af12733d518c4272c"
 
 [[files]]
 file = "configureddefaults/config/farmersdelight-client-1.toml.bak"
@@ -1387,15 +1395,15 @@ hash = "514ca389c59f890c74e1a83f82f74a250f106f1a7bab77045a158366badd473a"
 
 [[files]]
 file = "configureddefaults/config/ftblibrary-client.snbt"
-hash = "ccbb60bd91c921e43b3c0b9bf5bc9c60be794417dd279f3ad21e1c6479e1efe9"
+hash = "c23ceeb7e2fc3917d8f467aceef29e57076ea35892eb5206831681a3ce33ff34"
 
 [[files]]
 file = "configureddefaults/config/ftbqopt.snbt"
-hash = "1f0e0ac0ce55496dd1319db610b361880ce62b1f6033856fe5b706464b594fcc"
+hash = "90229be03969145172208ee98652fb58468dc631db4184b0aa473127bdb0470b"
 
 [[files]]
 file = "configureddefaults/config/ftbquests-client.snbt"
-hash = "a98e2aa9c5f1ce56312c9166fade2e31c83a1c39d4eb54ac160b553e746dc69b"
+hash = "83b3c8c5548b8e419f97857e0694fac7ae08442ebd894f41868db4b30ae1030f"
 
 [[files]]
 file = "configureddefaults/config/ftbquests/quests/chapter_groups.snbt"
@@ -1631,7 +1639,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "ffdce7b7b4b7465b4f5235378b914ab58c0e9b1db460c9211fa960bd3d293e74"
+hash = "3ac67a45d2ef868f0c7a8fba9b97cae7cc1096d3680e7da014554c2a47305a6d"
 
 [[files]]
 file = "configureddefaults/config/iris_shader_folder.properties"
@@ -2095,7 +2103,7 @@ hash = "a68d734f0cdcd29d7ed8bbb8b1ec1797ea725bc73a6eb80438c1121cad63850a"
 
 [[files]]
 file = "configureddefaults/config/packetfixer.properties"
-hash = "a8169a9dc8afbf954a78b52ff3a48156298cb97785474fdde1ed9f8d45cd1df5"
+hash = "b3bcd33f2aea197746d7a8cbfffb5712ee2a159372b9a08f540f8dfb8e067c6a"
 
 [[files]]
 file = "configureddefaults/config/palladium_config.json"
@@ -2148,6 +2156,10 @@ hash = "adf97b689b6ebc7c921d92a11df8f51137a10c6b4f1a6e40f76e4813add34013"
 [[files]]
 file = "configureddefaults/config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
+
+[[files]]
+file = "configureddefaults/config/paxi-neoforge-1_21.toml"
+hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
 file = "configureddefaults/config/pehkui-client.toml"
@@ -2243,7 +2255,7 @@ hash = "7a80567083aab9504f334369fd8b032e3d72a5a4691c281fe163af6e98d5733c"
 
 [[files]]
 file = "configureddefaults/config/redstone_sound_slider.json"
-hash = "e7619b4cd01a30cb673cae1e5d6ad6ca1a983ceaa9b4f1e6b933d25e6704bb8e"
+hash = "0ae444fb13b21fe6ddd7f89727ab993aef31ada200e982600d68d4826af4a1ae"
 
 [[files]]
 file = "configureddefaults/config/refinedstorage-common-1.toml.bak"
@@ -2551,7 +2563,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "configureddefaults/config/sound_physics_remastered/sound_rates.properties"
-hash = "1d74518b5e02097d190859aba142ec630a2d1fd0ffb1761f114d1b97fea040d1"
+hash = "578e27b83779ee117e731a8553a22a7332c4fe2782ad19c28ccd9cb68a937e4e"
 
 [[files]]
 file = "configureddefaults/config/sound_physics_remastered/soundphysics.properties"
@@ -2991,7 +3003,7 @@ hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "f6d8963668126f552e6173fe5808f25e1aaf282829b1eee1fd95ce3e57a31301"
+hash = "3db603b469a464c94d71fdb97568374047c05cd871f8b2258d3641e9dbf7f4de"
 
 [[files]]
 file = "icon.png"
