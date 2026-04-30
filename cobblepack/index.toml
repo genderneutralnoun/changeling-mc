@@ -4504,7 +4504,7 @@ metafile = true
 
 [[files]]
 file = "mods/mighty-mail.pw.toml"
-hash = "63960bf9e2c6d54ee5f3f3f816b3bb54b8b7481067bdde1eeed055dcd9dfeaac"
+hash = "cfa49c262d039f7f3ac13761560cdb83dfe2ca7adb0513b1bd7b9a6444b5fe16"
 metafile = true
 
 [[files]]
