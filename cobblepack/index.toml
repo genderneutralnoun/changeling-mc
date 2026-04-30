@@ -4019,7 +4019,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "1b42f538278125750c0714dd60d5f6f0a00e38b50fe3d4853edfc1ef5a6e84a1"
+hash = "33bdd71f0c777204fa83e908c11b06008443c50d8e4f6b1b02aaa94793276622"
 metafile = true
 
 [[files]]
@@ -4419,7 +4419,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a5186084487e6177de58550b001499b330aec4a4cea54b25279c5a6716a5d0af"
+hash = "5a46384385b13806d362e3bb29e5233ee6331a1c014211163c4fdf2231510fe7"
 metafile = true
 
 [[files]]
