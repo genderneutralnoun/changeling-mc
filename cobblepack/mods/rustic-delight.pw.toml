@@ -1,21 +1,13 @@
-filename = 'rusticdelight-neoforge-1.21-1.5.4.jar'
-name = 'Rustic Delight'
-side = 'both'
- 
- 
- 
- 
+name = "Rustic Delight"
+filename = "rusticdelight-neoforge-1.21-1.6.0.jar"
+side = "both"
 
 [download]
-hash = 'e10ecfccc0fe140cfdb102c77a56a5c87148c71cdcad825077a8001704b40def02c93840932bdf72f8a19c3ea83457f5f8ea6ef0cc7ca365e1644c27a54eb577'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/foa4fGIH/versions/oXFAuLx3/rusticdelight-neoforge-1.21-1.5.4.jar'
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/1h2Mvp8M/rusticdelight-neoforge-1.21-1.6.0.jar"
+hash-format = "sha512"
+hash = "2a1f519d99129354d7575e2baa3213e5f96bbe297b19b1d7b4be945accf8da46a3d5c8b5415bc9e292e6ea75bf5ab0884c4f78cbfa0d92efa01744a587d167ef"
 
+[update]
 [update.modrinth]
-mod-id = 'foa4fGIH'
-version = 'oXFAuLx3'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'R2OftAxM'
-type = 'REQUIRED'
+mod-id = "foa4fGIH"
+version = "1h2Mvp8M"

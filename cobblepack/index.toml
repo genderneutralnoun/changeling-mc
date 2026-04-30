@@ -3372,7 +3372,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "434eaeb5ddf3081e34cdba020efefcabedec405ea67061136dfcaaf6180cfa8e"
+hash = "e756b52951b3d81c99bfebb6bcf7db8e385bb250cbdf4e8d68cc79d1c727e049"
 metafile = true
 
 [[files]]
@@ -3412,7 +3412,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "33bdd71f0c777204fa83e908c11b06008443c50d8e4f6b1b02aaa94793276622"
+hash = "ccf01e8d28be82c4a333119aaaa195f2524d1a0c9a33210f6b488f548cb4c783"
 metafile = true
 
 [[files]]
@@ -3962,7 +3962,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-delight.pw.toml"
-hash = "593eeedb9da520309d388e4000ad25509d5028a6e198b1006e0f4d8ec91d9b86"
+hash = "7966920d214425c608bea199b72becfff8d00dc26bd798835686cd311afe1111"
 metafile = true
 
 [[files]]
@@ -4287,7 +4287,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "76b05f461720e45151f7cb1a30885ca91a9d93e45d2b67a9c22f6191947ae801"
+hash = "b3642a3ffe97146f608687a711b753ef84bfa876fcf2be5415c057877677158b"
 metafile = true
 
 [[files]]
@@ -4322,7 +4322,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "b29f40e74b82e8c7769a06eb61f6bc31f14cee2cb6fbb4edac40ec4af57cd9da"
+hash = "d08d160c8f2a3074b496365a842d6cd7503a0e36091b35e80a1a96bc89c04dad"
 metafile = true
 
 [[files]]
@@ -4467,7 +4467,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "6faa4448a89420b481b36a4eeb2982ed5c38830cc8aa19a91ae10e2364a655bf"
+hash = "d34ef6a8ae4fa661524b3d93467004430e66656ba762843d915aaca6a0c23f63"
 metafile = true
 
 [[files]]
