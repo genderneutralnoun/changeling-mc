@@ -1,6 +1,6 @@
 filename = "Torterras O' Plenty.zip"
 name = "Torterras O' Plenty"
-side = ''
+side = 'server'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

@@ -1,6 +1,6 @@
 filename = 'InfiniTweaks - Silent Gear Tag Compat.zip'
 name = 'InfiniTweaks - Silent Gear Tag Compat'
-side = ''
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.20.1' ]

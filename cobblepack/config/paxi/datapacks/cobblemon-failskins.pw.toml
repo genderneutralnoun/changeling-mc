@@ -1,6 +1,6 @@
 filename = 'Failskins 8.21.zip'
 name = 'Cobblemon: FailSkins'
-side = ''
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1' ]
