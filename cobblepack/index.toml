@@ -5442,6 +5442,10 @@ file = "server-icon.png"
 hash = "3f46822936d104172e70f5405bc69487b65230bd5e520a41c24ac7e7cc463279"
 
 [[files]]
+file = "servers.dat"
+hash = "06ba26af48a5964ab238a423c20e6bcd9eaab95f8ca15490c065e56d695da1f6"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
 hash = "277acb210eba9640daf33b502376c653b16ef81c9124d9a0cbcb47b17365385e"
 
