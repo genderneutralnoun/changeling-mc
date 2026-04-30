@@ -1,10 +1,10 @@
 filename = 'cobblemarks+-1.2.1-release.jar'
 name = 'Cobblemarks+ (Cobblemon)'
-side = ''
- 
- 
- 
- 
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1-release+mod'
 
 [download]
 hash = '47f50d660a7182379f1d11885d50e6edc62ce066171af35ccd772947a115cc12d6d513c52438f172191846c3a261dd820a0e4a87456fb8d9405b2a1040c59597'

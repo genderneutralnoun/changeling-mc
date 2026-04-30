@@ -1,10 +1,10 @@
 filename = 'CobbleFurnies-neoforge-1.1.jar'
 name = 'CobbleFurnies'
-side = ''
- 
- 
- 
- 
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
 
 [download]
 hash = 'a8384570f6a902fcf10fab47bf8fa555b1c370f5bb7639d6226f95dc6d6594fff17aadb701f681cc0ba0ecdd99b2ab664937af8285d145b9e733d0134a97a63d'
@@ -17,11 +17,11 @@ mod-id = 'AXY1OO9m'
 version = 'g6YTiF66'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'MdwFAVRL'
+addonId = 'lhGA9TYQ'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
+addonId = 'MdwFAVRL'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]

@@ -1,10 +1,10 @@
 filename = 'betterdays-1.21.1-3.3.6.3-NEOFORGE.jar'
-name = 'BetterDays'
-side = ''
- 
- 
- 
- 
+name = 'Better Days'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-3.3.6.3-NEOFORGE'
 
 [download]
 hash = '0eb11977abb06a0c36764019a9299347480bfc728233a2df4e968b368487626728d546ade45a2edcb0e620485189e440c22fc7a99671888a86367514551ac78d'

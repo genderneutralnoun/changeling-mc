@@ -1,8 +1,8 @@
 filename = 'chunky-offline-v1.1.0.jar'
 name = 'Chunky Offline'
 side = 'both'
- 
- 
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
     '1.21',
     '1.21.1',
     '1.21.2',
@@ -15,10 +15,12 @@ side = 'both'
     '1.21.9',
     '1.21.10',
     '1.21.11',
-    '26.1'
+    '26.1',
+    '26.1.1',
+    '26.1.2'
 ]
- 
- 
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.1.0+mod'
 
 [download]
 hash = '12506295bba4909b8882b8e4b8802cadb648877be1ba8dfe3f7d8f9a7dbe5cbc6ff712be7d5a3f3b54cdc4190df1be005ae8bb53ae202b40173064810ffb536e'

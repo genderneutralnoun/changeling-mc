@@ -1,11 +1,11 @@
 filename = 'createfood-neoforge-1.21.1-2.3.0.jar'
 name = 'Create: Food'
-side = ''
- 
- 
- 
- 
- 
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3.0'
 
 [download]
 hash = 'f35151c54a3a1993ad3f68438244528028e6ce2e22994f9ad8e507f27aa9795396de5334902de01b758d382223fc575a72a8ce6ce3dfc5f7c10aab109eaff8d0'
