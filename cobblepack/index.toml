@@ -3173,7 +3173,7 @@ metafile = true
 
 [[files]]
 file = "mods/berryharvester.pw.toml"
-hash = "ac5598e19719f17d6597ac872e63ef0bdf38c093b2e17437b742b1407ac73619"
+hash = "cd8450115156e357c9eccaabda05cc83f23780e88be02c810762ec5fc015050a"
 metafile = true
 
 [[files]]
@@ -4503,7 +4503,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "dcf24b538806f682b98e9308d427a770c2e4d9890112adbb19d5f7914c5bad68"
+hash = "3382daf9b5fadbbef742b84fe5b09fa912cc75cd4234e0ba573b85a513354123"
 metafile = true
 
 [[files]]
