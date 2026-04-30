@@ -4208,11 +4208,6 @@ hash = "795790fa19b171f0db3c0d68e022346b288b6890e541382f26d4fac824dcdac2"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "ca462dccd7eab34d02ca76ddd6d0b06f4f2b3b52392913078c632cc387cb502b"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "44b98082bb13c980829673c538dfd6f062b9e3bfdc62c466aed4394cf3d583de"
 metafile = true
@@ -4608,11 +4603,6 @@ hash = "dd8027556711cb025deabaae6cede4e207a4627f51c00292ab4a646a9b63559b"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "9d562acc1d779f64f987204c3cff0c5b6043b2308a1d0ee5fc3fcaa35b11faa2"
-metafile = true
-
-[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "f15450c767ce5c3fe9416c3d7d8d7a9c6855e5a559a5f0d311b2c56313c4a3ea"
 metafile = true
@@ -4910,6 +4900,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "76b05f461720e45151f7cb1a30885ca91a9d93e45d2b67a9c22f6191947ae801"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "18cecf7ff5fdf9527a13f425a36136bb68a09eab66bb7731bdfaa1e0cf4663f0"
 metafile = true
 
 [[files]]
@@ -5225,11 +5220,6 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "68b41722b3a466d1209452fefcd13642adbbd96d23ab8adc6a13a8a5beaa0953"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "6e5eff7ee87c39ee1d99e9731508c2a2fc213d6d79679e38f24d85fca5ba5aab"
 metafile = true
 
 [[files]]
