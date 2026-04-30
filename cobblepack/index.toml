@@ -1315,7 +1315,7 @@ hash = "3cc7ed87bdec171a69f73510ad01a61276c660160eda776070ef4d4a63c8c3df"
 
 [[files]]
 file = "configureddefaults/config/item_obliterator.json5"
-hash = "2950b85b80ad2f31a93dd8de37521c77a9f8c3e61f9931e0a40d35a1f7de919d"
+hash = "5505609167a520b06ec4c765cba2ee034583ac2240a6f0a7e18c12174d155696"
 
 [[files]]
 file = "configureddefaults/config/itemborders.toml"

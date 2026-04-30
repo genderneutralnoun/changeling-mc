@@ -22,7 +22,8 @@
     "cobblemon_utility:poketreat",
     "cobblemon_utility:stalepoketreat",
     "bronze:bronze_blend",
-    "bronze:bronze_blend_block"
+    "bronze:bronze_blend_block",
+    "animal_pen:guide_book"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
