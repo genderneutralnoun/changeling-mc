@@ -589,11 +589,6 @@ hash = "df69a8b7819f74d055cb4e3e41c9fbb55ca11ae19f7593ee2ec8a04e9ed27e67"
 metafile = true
 
 [[files]]
-file = "mods/crashexploitfixer.pw.toml"
-hash = "5e415ad03abe322b33000bf5101819dd02493164b35aea46a6b6c6f2fbe2746c"
-metafile = true
-
-[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "fb17e4400f235f692377fe3d1e41f5fee3ac15e494d41509b52d0ea639fe8dd9"
 metafile = true
