@@ -3143,6 +3143,11 @@ hash = "45f49c67fbd1271542374bee44e9cb6f1d56fee50fddcff75ab3c5f61ebed8ab"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "fa166a1ab3206c80e7630dca46023134343b6085b844a808d8c24923da32709c"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "4fb44c3b9c0d9c6f8fc644d8f2c737c4a9baf51dc3af57b354d31620fc6f68be"
 metafile = true
@@ -3570,6 +3575,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+metafile = true
+
+[[files]]
+file = "mods/confirm-disconnect.pw.toml"
+hash = "3fde19d7e9534524633d8f72559e4515180158babd5c5b30bf8474b3fa9f9e09"
 metafile = true
 
 [[files]]
@@ -5325,6 +5335,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3949b914c488a4944cb874e3d226c8b398846801962e1bd18e9489a9fb013a97"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "59837badd4a6ecadbd8e0dbe06fbaaf4f838ec8133ecf8254797b12b6a95e6bc"
 metafile = true
 
 [[files]]
