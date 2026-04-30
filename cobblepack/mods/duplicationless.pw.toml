@@ -1,18 +1,13 @@
-filename = 'duplicationless-1.21.1-1.1.6.jar'
-name = 'Duplicationless'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'duplicationless-1.21.1-1.1.6'
+name = "Duplicationless"
+filename = "duplicationless-1.21.1-1.1.6.jar"
+side = "both"
 
 [download]
-hash = 'ce8412af8c79be4af213c2a41e1884b6a010c5e0'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "ce8412af8c79be4af213c2a41e1884b6a010c5e0"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8004496
 project-id = 1380105
