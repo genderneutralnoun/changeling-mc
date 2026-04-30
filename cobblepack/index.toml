@@ -5441,3 +5441,16 @@ metafile = true
 file = "resourcepacks/twemoji-visibility.pw.toml"
 hash = "53bd2dafb39705f877e4722cd3349a5f416aceb92a18e07a0c0eab91b44fa487"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+hash = "277acb210eba9640daf33b502376c653b16ef81c9124d9a0cbcb47b17365385e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+hash = "1a1d9c39760e9946f4da61e2fd898501d33263d15656d3c926362d6584e4ade5"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "e5bc26aa136d05b3d594b9342c49dc7ea2bb5b75d541d3627112c6b80e6dbb59"
+metafile = true
