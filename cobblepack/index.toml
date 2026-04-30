@@ -3198,7 +3198,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "67a2966828758ac1324f568ef55914cdcbc83b8ea53b0ba3038a057414c4bc4c"
+hash = "a59878aa69c8cbd052f3105ef544573a3617809556e1629ee587cda665cbea54"
 metafile = true
 
 [[files]]
@@ -3433,7 +3433,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-integrations.pw.toml"
-hash = "b87d1449b01276ef1abd004bfc5975252ca765f4881ce17ffb899a0f2d2f1b90"
+hash = "9b3091783ba671059420d7caf9077e9293a2c708a8fdae0fa20760d5ac6846ca"
 metafile = true
 
 [[files]]
@@ -3563,7 +3563,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "fdd3b4d59da9d00e88bfba284e507c6e8f8be4e6cf9d672d9c4f2dff3cc3a3bd"
+hash = "376c62c0be2c12265cde00c5dc2f4cb0b58dfcaf8cefc6c5f9d647e9025eae28"
 metafile = true
 
 [[files]]
@@ -4028,7 +4028,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f0b946726b969d4d57d5bc26da453da8054b77f454b7bd19a3d6f32ba849a127"
+hash = "37dc4670ece9ad52cb80302ffbdd5fa0af812d041568a1090d21e389ef8909bd"
 metafile = true
 
 [[files]]
@@ -4038,7 +4038,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-cutting-collection.pw.toml"
-hash = "b01dd5dc9aeeba347e2f2b8df0b07ed0e80881f9426d17e09b0e3f6200820875"
+hash = "0fef75970f873e761c17a15e900a6b5a0b073ef11acf1575de5fe9ff4302d541"
 metafile = true
 
 [[files]]
@@ -4358,7 +4358,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "00ae9508381c4ce59595bdd3a2fa103c5738d41b50d85a092a5db87e0f58d8f2"
+hash = "94c79c22905df1c10d62ce020c13c404ccc17d139987f8b721df4378c1f38254"
 metafile = true
 
 [[files]]
@@ -5073,7 +5073,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "cbe915686de5b0ff6706ecdae2849d9dfc96a5d554429302fffca91e82cf97b5"
+hash = "c09bf9770c3186bc0466e5262f40cd4df455cf841440b114375a3e98ab85cae1"
 metafile = true
 
 [[files]]
@@ -5093,7 +5093,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "ab54ce0df005617d6010f58062481f5aa4ef3a9d1e4b2278434e29d0563d7b0d"
+hash = "9feb056d3b4e961e93d843a9405011388341e4c551e409c49c196c8524ad44da"
 metafile = true
 
 [[files]]
@@ -5233,7 +5233,7 @@ metafile = true
 
 [[files]]
 file = "mods/totw-modded.pw.toml"
-hash = "f60b7bd42b8923f75b5844ddb5346055128e158a75a017a6f7c9376c36789dcb"
+hash = "5cba99e424d8681d0a4cd72c5c9af8cc7a60c88dbf26d67cc0875b8f5fab7851"
 metafile = true
 
 [[files]]
