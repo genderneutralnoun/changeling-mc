@@ -4458,11 +4458,6 @@ hash = "82223d15c932045de6306771f9c9116176980b2ddf5731f22b99145eff8929a9"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "ecd39cc32f94efd2ffd7f5a0e0573ee262172b7f1d5d77d56badbfa3868aaf2f"
-metafile = true
-
-[[files]]
 file = "mods/ly-clumps.pw.toml"
 hash = "64b9a79d32d7d3ecd15b0a23ffa7290ba11d8186481df0b93903fadb4714a43b"
 metafile = true
