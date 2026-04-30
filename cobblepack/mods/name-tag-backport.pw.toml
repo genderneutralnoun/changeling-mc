@@ -1,9 +1,9 @@
 filename = 'name-tag-crafting-backport-v1.0.1.jar'
 name = 'Name Tag Backport'
 side = 'both'
- 
- 
- 
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
     '1.14 Pre-Release 1',
     '1.14 Pre-Release 2',
     '1.14 Pre-Release 3',
@@ -640,8 +640,8 @@ side = 'both'
     '25w45a',
     '25w46a'
 ]
- 
- 
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
 
 [download]
 hash = 'daab0729c5eae1af861ce042073f6c6e667bda24ffe811d1094c53ae19444aae5502a4a12ccd9914fb96f4a454f7bfe95ab06f4dbe4d7245d7171c46181fb459'

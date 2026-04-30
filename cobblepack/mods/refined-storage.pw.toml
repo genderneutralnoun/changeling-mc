@@ -1,11 +1,11 @@
 filename = 'refinedstorage-neoforge-2.0.4.jar'
 name = 'Refined Storage'
-side = ''
- 
- 
- 
- 
- 
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.4'
 
 [download]
 hash = 'b76b0402668f3ec40d46e7bedbd8d53716c812b3cf31e577bbd857ebf49900b609eebc2ade6b1d9b0aaf9cc641f116a294fa73e8b6b6437a1c9068f5db0ec88c'
