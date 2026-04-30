@@ -3033,6 +3033,11 @@ hash = "0f93cd70c2cf47ac0e2f5aa242f97d74eb51a2c8eb69999b50edb485915d0981"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "ce1b98662d2f0d374cdbc363ee974fe28aaca5e047e93c52873a059a9ca53d0e"
 metafile = true
