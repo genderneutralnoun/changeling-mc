@@ -4718,12 +4718,12 @@ metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
-hash = "1da9fb9f765aac498e2234dbebccf48a6a382d3c1800fa54539e6cf743129057"
+hash = "73ac9b377e4783196f55f0343da8c85e4767bf103e45d352ce97498d4699ecfd"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
-hash = "e8af520bff5e8b257a033e24495cf5be5e3296aed005b6a53590255a00c51711"
+hash = "eb045b8823c41b658530d231ce14c53f43deb2981c17f03eb48d12cebb18f296"
 metafile = true
 
 [[files]]
@@ -4798,7 +4798,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "a671689824d91e5948b3f146352471b8c43696dc316f510459e6d68bcf14cbb8"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
@@ -4858,7 +4858,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainbow-sheep.pw.toml"
-hash = "7201de9659f4bd3a78b4d18d208f5f2990a90cc056a0ccca77c091e8e7f6ea49"
+hash = "211d70d5920669f49972070dd595b5e88bb35c48b02c739e4db5e2457511a572"
 metafile = true
 
 [[files]]
@@ -5393,12 +5393,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/clean-connected-glass.pw.toml"
-hash = "c3b476df78182fc4263474fad29b7aa19cdba33b2703dbdb9ae2a1a056c70ca8"
+hash = "a03d6ebc1ff136de6f3ea9715f368034de232464175f93f86184aacabbc4b882"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-music-pack.pw.toml"
-hash = "2cf6912490af4b44673806356b75f988fd55e395957cc913643674608b2dd238"
+hash = "e05e0bab2aa87a0761fa168290bb6cd7b7667804dc1033bed4a530f5ee77b3b2"
 metafile = true
 
 [[files]]
@@ -5413,7 +5413,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/geometric-font-2.pw.toml"
-hash = "a204cb49c9b7bbaeece312424b5f3764771d80c8d6cf41c6ecef7db1a6fb157b"
+hash = "4a685fe6628064ced5b34cb33d7ec54aa9610b79e010beea6f61a3e8f7fad527"
 metafile = true
 
 [[files]]
@@ -5428,15 +5428,15 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rakk-jas-pokemon-mystery-dungeon-jukebox.pw.toml"
-hash = "881895bc575d0dd478adf56b45dfed1692d80343e7d1641d0382a752b2449e9a"
+hash = "03e3bfaffcb2b3cfe375a1534ab1359a66ca5b41def685ebd47e5cd013ee488c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reactive-music-off.pw.toml"
-hash = "8dd4f4bd97e2a9d43103d93d54d458ebe3ec7c163e5c1f8abc765d0739b61242"
+hash = "646e4a2cceb29f087ab03c4edd0725ad79e3e516e1428e7a010636856381a660"
 metafile = true
 
 [[files]]
 file = "resourcepacks/twemoji-visibility.pw.toml"
-hash = "7a2644d1ecd9d5e0bb5269d21bf73b106fbf44510fa6c084026c61aa5353ad48"
+hash = "53bd2dafb39705f877e4722cd3349a5f416aceb92a18e07a0c0eab91b44fa487"
 metafile = true

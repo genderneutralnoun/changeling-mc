@@ -1,18 +1,13 @@
-filename = 'rainbowsheep-1.21.1-1.2.1.jar'
-name = 'Rainbow Sheep'
-side = ''
- 
- 
- 
- 
- 
+name = "Rainbow Sheep"
+filename = "rainbowsheep-1.21.1-1.2.1.jar"
+side = "both"
 
 [download]
-hash = 'e4f74c1fa616754e5d086067776034dac7761f4f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "e4f74c1fa616754e5d086067776034dac7761f4f"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7248268
 project-id = 1333544
