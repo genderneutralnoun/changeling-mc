@@ -3991,6 +3991,11 @@ hash = "dd8027556711cb025deabaae6cede4e207a4627f51c00292ab4a646a9b63559b"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "5e8b5faf6de08b02b7129c80af61b59d6d7f34e1cae21a9b77d7093c77d95b85"
+metafile = true
+
+[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "f15450c767ce5c3fe9416c3d7d8d7a9c6855e5a559a5f0d311b2c56313c4a3ea"
 metafile = true
