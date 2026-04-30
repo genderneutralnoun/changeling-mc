@@ -1,6 +1,6 @@
 filename = 'chisels-and-bits-neoforge-21.1.32.jar'
 name = 'Chisels & Bits - For Forge'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

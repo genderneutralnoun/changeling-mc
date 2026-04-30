@@ -1,11 +1,11 @@
 filename = 'LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar'
-name = 'Legendary Monuments'
-side = ''
- 
- 
- 
- 
- 
+name = 'Cobblemon: Legendary Monuments'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '7.1-NEOFORGE-CONNECTOR'
 
 [download]
 hash = '993a08d2cc8ff856d3266a496c95a86fc0e4a7e2547bf043dcb8866a52033e436ecab3918acb8501727b060b3ca333665c76ae51269af07d10d1c4ebee801cd6'

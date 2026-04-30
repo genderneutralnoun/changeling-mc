@@ -1,10 +1,10 @@
 filename = 'everycomp-1.21-2.11.39-neoforge.jar'
-name = 'Every Compat'
-side = ''
- 
- 
- 
- 
+name = 'Every Compat (Wood Good)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21-2.11.39-neoforge'
 
 [download]
 hash = 'c30e7c45dfad967cffdb9c3d0b385050a37294f113e365cfd504c09c5437a153d06916ef31f88ac4aebce23e82b3c20d5ab748db9d17edd67532c29899ca5333'
