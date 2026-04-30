@@ -1,8 +1,18 @@
-filename = 'ATM x MSD [3.4.0].zip'
+filename = 'ATM x MSD [v3.5.0].zip'
 name = 'AllTheMons x Mega Showdown'
-side = 'server'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v3.5.0'
 
 [download]
-hash = '0ee2bed7e74ceef4ed42bb3a795e63e95109f602446792ed1a537a0d57e24d2f801882e303cb9bf7a2f125ed41325c9db8d6baadcf3ad89e767b6360df49de28'
+hash = 'edfa186e5991dc3147591fda44e0075f629c4a1dbdece1100493c720ba873549e30eaf795c14758013aff5d91f20f539fb08791bc4f548f3a13262857851162f'
 hash-format = 'sha512'
-url = 'https://drive.proton.me/urls/KNCK7866KR#j55UPhDfcJzQ'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/odZZdRCE/versions/D7z5VLh4/ATM x MSD %5Bv3.5.0%5D.zip'
+
+[update.modrinth]
+mod-id = 'odZZdRCE'
+version = 'D7z5VLh4'

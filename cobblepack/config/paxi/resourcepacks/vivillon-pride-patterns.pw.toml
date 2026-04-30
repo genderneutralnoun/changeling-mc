@@ -1,0 +1,21 @@
+filename = 'Vivillon Pride Patterns v1.0.zip'
+name = 'Vivillon Pride Patterns [Cobblemon]'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0'
+
+[download]
+hash = '4520931f877a79e68e8faa447309df60207b777e44fb985fcc8547a93e9f015b4fdcf2839f4f0d8a85e880cda38ce46b1194275f7523cdfb01027e8bfde3a77a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2PwY98im/versions/bqpDxE3E/Vivillon Pride Patterns v1.0.zip'
+
+[update.modrinth]
+mod-id = '2PwY98im'
+version = 'bqpDxE3E'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'

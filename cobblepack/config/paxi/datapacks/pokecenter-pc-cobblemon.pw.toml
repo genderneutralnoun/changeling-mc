@@ -1,6 +1,6 @@
 filename = 'PokeCenter_PCs_1.1.zip'
 name = 'PokeCenter PCs (Cobblemon Addon)'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

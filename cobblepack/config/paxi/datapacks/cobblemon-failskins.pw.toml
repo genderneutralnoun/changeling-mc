@@ -1,17 +1,18 @@
-filename = 'Failskins 8.22.zip'
+filename = 'Failskins 8.21.zip'
 name = 'Cobblemon: FailSkins'
-side = 'server'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '24w03a', '24w03a', '24w03b', '24w03b', '24w04a', '24w04a' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '8.22'
+x-prismlauncher-version-number = '8.21'
 
 [download]
-hash = 'af178133f3d2e2c766d151d2965bfe55f56565a4bff2e9de1f2793f8bd7834b21e6b28f7663783e8f3a77e45f71b490432f7feff4b2f1cb8302581acdbffdee3'
+hash = '7c1c4c7874f6591c32b5768c11bdf7d5a798633148c38c6aeffa4d98c297cb605b0eeaf43cecd5b6795e3712371e3f47bfe4b662a08337df800ab3dbf2337b19'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/GFTKLMrj/versions/PC0TdtDB/Failskins 8.22.zip'
+url = 'https://cdn.modrinth.com/data/GFTKLMrj/versions/kRT2s8YN/Failskins 8.21.zip'
 
 [update.modrinth]
 mod-id = 'GFTKLMrj'
-version = 'PC0TdtDB'
+version = 'kRT2s8YN'
