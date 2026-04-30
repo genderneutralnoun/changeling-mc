@@ -3598,11 +3598,6 @@ hash = "9dea39fb5994df972a2f002db2b8886b479b0aeb07ff9e79713fbe47960c7e59"
 metafile = true
 
 [[files]]
-file = "mods/contactquests.pw.toml"
-hash = "d14b6c07827e25c61931de907b5c077cec4ba4ab1a140fe2b035619ba9fd6e78"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "940f7b3ebaf4efe7293271bfa2ea792617a51b3d0ff5cb5629e6390ab0cf8093"
 metafile = true
