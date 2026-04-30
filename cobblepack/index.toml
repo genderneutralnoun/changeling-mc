@@ -3593,11 +3593,6 @@ hash = "fd0e8e05ef5e67b65ec14460549fe36813baa6c2b6a4dbf56bde244d8c2a66e5"
 metafile = true
 
 [[files]]
-file = "mods/contact-loverekindled.pw.toml"
-hash = "9dea39fb5994df972a2f002db2b8886b479b0aeb07ff9e79713fbe47960c7e59"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "940f7b3ebaf4efe7293271bfa2ea792617a51b3d0ff5cb5629e6390ab0cf8093"
 metafile = true
@@ -4508,6 +4503,11 @@ hash = "3382daf9b5fadbbef742b84fe5b09fa912cc75cd4234e0ba573b85a513354123"
 metafile = true
 
 [[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "c4beaf748135c8e5aa82b25f24ca7a9c40f6810dafba03790ac6e2a07470377d"
+metafile = true
+
+[[files]]
 file = "mods/mine-menu.pw.toml"
 hash = "7ae16dfa6217dafbda645982d1be2f485d31549a72835cbc7470c405d2467087"
 metafile = true
@@ -4680,11 +4680,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "fc8f2f804315f74d95c98876cf2672d16e0bddef68304404fe7c09656afbd212"
-metafile = true
-
-[[files]]
-file = "mods/oelib.pw.toml"
-hash = "778b54427d53c266ea27e8e29cc60c699ede6749866ccc5d65a738c0f91233be"
 metafile = true
 
 [[files]]
