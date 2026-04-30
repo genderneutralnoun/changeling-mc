@@ -4581,6 +4581,11 @@ hash = "e88d26b3ca6adc0d4502bf71e8d7bdd736e5c09796e393e974323746e34a1144"
 metafile = true
 
 [[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "e028316a51dd1ef49cba88f1afab9b677aaf4961e67e1f7afb4dfd7bd76a0d44"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "ffc4b51582782fce5c4f62ae96e6933ceee922f1c14817effd6f78a02a5d35a9"
 metafile = true

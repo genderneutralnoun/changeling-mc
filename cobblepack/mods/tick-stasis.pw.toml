@@ -1,0 +1,13 @@
+filename = 'tick-stasis-1.1.1.jar'
+name = 'Tick Stasis'
+side = 'server'
+
+[download]
+hash = '346fae7e0f1a62636525a9331643ac4343b781c240db6ef9bafe1b3a295d24d131d2b4b20cef8edc33835e9069fcaf1c2e2b3ce9ced9a2ec6e4e3d82770f52c6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t6XBQ2xn/versions/fDbxgNHz/tick-stasis-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 't6XBQ2xn'
+version = 'fDbxgNHz'
