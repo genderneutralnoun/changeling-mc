@@ -1,25 +1,13 @@
-filename = 'gemsrealm-1.21-2.11.2-neoforge.jar'
-name = 'Every Compat (Gems Realm)'
-side = 'both'
- 
- 
- 
- 
+name = "Every Compat (Gems Realm)"
+filename = "gemsrealm-1.21-2.11.3-neoforge.jar"
+side = "both"
 
 [download]
-hash = '9893020cd55408376fdb03787dfb0dbdc36d49c20db83adf52646f5f33e5d93c61a912cc6a8e401dcac6020327c0fe6fc4590fb729170229dd9337b950afbc00'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/v259p1An/versions/U9jBYib3/gemsrealm-1.21-2.11.2-neoforge.jar'
+url = "https://cdn.modrinth.com/data/v259p1An/versions/XIE0asyq/gemsrealm-1.21-2.11.3-neoforge.jar"
+hash-format = "sha512"
+hash = "8d1416601738c2f60fcb48446527fdcb5db84c8189ddfd92be5b5469bd35389d300a2f85301d2e481fd055374570b261efc4b74eceb83b92d4b89870df834d95"
 
+[update]
 [update.modrinth]
-mod-id = 'v259p1An'
-version = 'U9jBYib3'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'twkfQtEc'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'eiktJyw1'
-type = 'REQUIRED'
+mod-id = "v259p1An"
+version = "XIE0asyq"

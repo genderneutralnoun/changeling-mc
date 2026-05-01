@@ -2912,7 +2912,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "32bd27eeab2b4258d8af6aadd27c246ff79eec5e2c547ea51ffe7adf4d99d858"
+hash = "f195925ef4a89eb4eaa2f2fd78d93a2610e48392f5bf885117a4a4c8b9eb6811"
 metafile = true
 
 [[files]]
@@ -3012,7 +3012,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "73e5337d9ca1d7b5dd9d8f2ca0d8e4830d06d024745ce3d639a8f357c35a1703"
+hash = "b607b4c0f30caa94f29f1624a5f58eb8673040bd50845145e5f0533fd9e9b6b8"
 metafile = true
 
 [[files]]
@@ -3577,7 +3577,7 @@ metafile = true
 
 [[files]]
 file = "mods/gems-realm.pw.toml"
-hash = "fc0d147d7116361ab99013e29a129e71a456765cb818f06adf1ea28bfb12b917"
+hash = "f8eef1c338297f16e3dbcddd92a63d11130dde0b1823a43be276dcdb02f581b0"
 metafile = true
 
 [[files]]
@@ -3687,7 +3687,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "9676b6f356ee124147ecd8be3adc31365bac21e99c844038f74eb47cb1f3d33e"
+hash = "23304e6c503133b275b54c0527c908b91a596d4ddb5c56d4db002fdd122b49fe"
 metafile = true
 
 [[files]]
@@ -3827,7 +3827,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "c9a80884a5e636479440e53bdc86c7843e33b48040d14c48e869d355c2733d01"
+hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
 metafile = true
 
 [[files]]
@@ -4372,7 +4372,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "8ff1f748050607027a67325748c23f95781a80f9912e3bcfb1d61f80ad3c74b6"
+hash = "dc745029b8e5b1abe2a824df899d04b3c7a0400c57f75c07ba72f769a29074df"
 metafile = true
 
 [[files]]
@@ -4502,7 +4502,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "1d92479f871592ba6de5683c0eee5b76b4727eb370b62018a03410a0921b986d"
+hash = "184c63d81d401e2e8b1e63d446afeaa577e4836cd29c147edff387a57f08f9e4"
 metafile = true
 
 [[files]]
