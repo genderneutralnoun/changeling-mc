@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/nrikgvxm/versions/AqUoRBvS/particlerain-4.0
 mod-id = 'nrikgvxm'
 version = 'AqUoRBvS'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'c3onkd5k'
-type = 'INCOMPATIBLE'
+[option]
+optional = true
+default = true
+description = '''Looks amazing, but heavy on resources. Disable to improve performance.'''

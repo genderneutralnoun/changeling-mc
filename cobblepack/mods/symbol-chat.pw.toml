@@ -16,14 +16,7 @@ url = 'https://cdn.modrinth.com/data/NKvLVQMc/versions/OXCY0CpU/symbol-chat-1.21
 mod-id = 'NKvLVQMc'
 version = 'OXCY0CpU'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'mOgUt4GM'
-type = 'OPTIONAL'
+[option]
+optional = true
+default = true
+description = '''Adds a visual keyboard in the chat menu for selecting characters that you can't usually enter via a physical keyboard, like emojis.'''

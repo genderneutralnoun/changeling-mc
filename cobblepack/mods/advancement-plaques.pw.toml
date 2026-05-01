@@ -11,3 +11,8 @@ url = 'https://cdn.modrinth.com/data/9NM0dXub/versions/OWylG33I/AdvancementPlaqu
 [update.modrinth]
 mod-id = '9NM0dXub'
 version = 'OWylG33I'
+
+[option]
+optional = true
+default = true
+description = '''Neat pop-up and sound effect when you make an advancement.'''

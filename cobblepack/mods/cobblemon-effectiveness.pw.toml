@@ -1,11 +1,6 @@
 filename = 'cobeffectiveness-neoforge-0.3.jar'
 name = 'Cobblemon Effectiveness'
 side = 'client'
- 
- 
- 
- 
- 
 
 [download]
 hash = 'b9d799f7123cdba1b576d9d2da3d26c12d8507e681cb33e798bb9cc5a3d5d98137d885143993bb8a16b7f1118c664d302b380bebcc9f732b1fc8e7b833ae24fc'
@@ -16,3 +11,8 @@ url = 'https://cdn.modrinth.com/data/mCT9ubLg/versions/Z5K4hOXd/cobeffectiveness
 [update.modrinth]
 mod-id = 'mCT9ubLg'
 version = 'Z5K4hOXd'
+
+[option]
+optional = true
+default = true
+description = '''Shows what types are effective against your opponent Pokémon.'''

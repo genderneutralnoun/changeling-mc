@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11
 mod-id = 'LQ3K71Q1'
 version = 'T238FZpQ'
 
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'OPTIONAL'
+[option]
+optional = true
+default = true
+description = '''Optimization mod, disable only if having issues.'''

@@ -11,3 +11,8 @@ url = 'https://cdn.modrinth.com/data/z6d6n7ve/versions/yXZeHmn8/accessible-step-
 [update.modrinth]
 mod-id = 'z6d6n7ve'
 version = 'yXZeHmn8'
+
+[option]
+optional = true
+default = true
+description = '''Enables the option to step up one block high ledges in various ways, making it easier to traverse the world for some people. Does nothing by default.'''

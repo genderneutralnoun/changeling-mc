@@ -100,7 +100,7 @@
 #General Config
 [general]
 	#Play a sound effect when the game is loaded.
-	ding = true
+	ding = false
 	#Specify a sound event to custom the ding sound effect.
 	#The default is "minecraft:entity.experience_orb.pickup"
 	dingSound = ""

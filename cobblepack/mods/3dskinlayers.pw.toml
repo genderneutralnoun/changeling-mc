@@ -11,3 +11,8 @@ url = 'https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neo
 [update.modrinth]
 mod-id = 'zV5r3pPn'
 version = 'lWa5oHuK'
+
+[option]
+optional = true
+default = true
+description = '''Causes the second skin layer to render with 3D voxels instead of a flat layer.'''

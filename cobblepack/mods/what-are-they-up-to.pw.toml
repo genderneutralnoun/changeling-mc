@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1
 mod-id = 'AtB5mHky'
 version = 'uWr2aTW9'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'rLLJ1OZM'
-type = 'REQUIRED'
+[option]
+optional = true
+default = true
+description = '''Shows animations of what other players are doing. May causes issues on Thistle Linux.'''

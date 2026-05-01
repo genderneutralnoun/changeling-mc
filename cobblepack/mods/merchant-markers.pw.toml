@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/AGhiJWsU/versions/aH2sSwUn/MerchantMarkers-
 mod-id = 'AGhiJWsU'
 version = 'aH2sSwUn'
 
-[[x-prismlauncher-dependencies]]
-addonId = '5faXoLqX'
-type = 'REQUIRED'
+[option]
+optional = true
+default = true
+description = '''Adds little markers over villagers indicating their profession.'''

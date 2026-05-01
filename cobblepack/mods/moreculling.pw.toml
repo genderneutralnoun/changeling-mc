@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/51shyZVL/versions/BvOuEhk4/moreculling-neof
 mod-id = '51shyZVL'
 version = 'BvOuEhk4'
 
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
+[option]
+optional = true
+default = true
+description = '''Optimization mod, disable only if having issues.'''

@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/T8MMXTpr/versions/lUfydr2z/Drip Sounds-0.5.
 mod-id = 'T8MMXTpr'
 version = 'lUfydr2z'
 
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
+[option]
+optional = true
+default = true
+description = '''Makes dripping water make sounds.'''

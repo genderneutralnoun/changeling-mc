@@ -11,3 +11,8 @@ url = 'https://cdn.modrinth.com/data/DfECZO3a/versions/cNOung9q/acceleratedrende
 [update.modrinth]
 mod-id = 'DfECZO3a'
 version = 'cNOung9q'
+
+[option]
+optional = true
+default = true
+description = '''Optimization mod, disable only if having issues.'''

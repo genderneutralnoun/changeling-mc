@@ -16,7 +16,7 @@ url = 'https://cdn.modrinth.com/data/RyrUIzkQ/versions/I2fdBeiu/complexleafculli
 mod-id = 'RyrUIzkQ'
 version = 'I2fdBeiu'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'AANobbMI'
-type = 'REQUIRED'
-version = 'u1OEbNKx'
+[option]
+optional = true
+default = true
+description = '''Optimization mod, disable only if having issues.'''

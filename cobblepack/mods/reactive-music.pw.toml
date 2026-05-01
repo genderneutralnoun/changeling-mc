@@ -16,3 +16,8 @@ url = 'https://cdn.modrinth.com/data/Bqnfeesx/versions/n9oYTze1/reactivemusic-ne
 [update.modrinth]
 mod-id = 'Bqnfeesx'
 version = 'n9oYTze1'
+
+[option]
+optional = true
+default = true
+description = '''Dynamic music engine. Takes up a lot of space on your hard drive, but has no performance impact.'''

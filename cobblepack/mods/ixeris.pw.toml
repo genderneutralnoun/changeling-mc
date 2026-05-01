@@ -11,3 +11,8 @@ hash = "fa25783633fa0f9e06260fe58240f9e20d78a8de28bf9b0e20305be4658f2a921bec52b4
 [update.modrinth]
 mod-id = "p8RJPJIC"
 version = "g4SUCeMF"
+
+[option]
+optional = true
+default = true
+description = '''Optimization mod, disable only if having issues.'''

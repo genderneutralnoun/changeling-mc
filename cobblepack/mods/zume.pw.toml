@@ -12,6 +12,7 @@ url = 'https://cdn.modrinth.com/data/o6qsdrrQ/versions/Rh2ImJ86/zume-1.2.2.jar'
 mod-id = 'o6qsdrrQ'
 version = 'Rh2ImJ86'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'sk9rgfiA'
-type = 'OPTIONAL'
+[option]
+optional = true
+default = true
+description = '''Adds a zoom key.'''

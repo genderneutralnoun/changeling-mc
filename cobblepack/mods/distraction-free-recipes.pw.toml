@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/gbJLUhZP/versions/H0rFJIiC/distraction_free
 mod-id = 'gbJLUhZP'
 version = 'H0rFJIiC'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'vBbPDuOs'
-type = 'REQUIRED'
+[option]
+optional = true
+default = true
+description = '''Hides EMI (recipe viewer) when not using it. Can be disabled in-game.'''

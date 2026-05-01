@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/UEtTD3gP/versions/xDYKoTCG/Ding-1.21-NeoFor
 mod-id = 'UEtTD3gP'
 version = 'xDYKoTCG'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'W6ROj0Hl'
-type = 'REQUIRED'
+[option]
+optional = true
+default = true
+description = '''Plays a ding sound upon game load.'''

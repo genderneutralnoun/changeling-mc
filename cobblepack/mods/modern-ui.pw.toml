@@ -16,3 +16,8 @@ url = 'https://cdn.modrinth.com/data/3sjzyvGR/versions/RM220vWV/ModernUI-NeoForg
 [update.modrinth]
 mod-id = '3sjzyvGR'
 version = 'RM220vWV'
+
+[option]
+optional = true
+default = true
+description = '''Fixes various UI bugs and improves the UI in other ways. Generally should only disable if having issues.'''

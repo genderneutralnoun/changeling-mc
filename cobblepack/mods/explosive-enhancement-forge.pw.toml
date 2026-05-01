@@ -16,3 +16,8 @@ url = 'https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhance
 [update.modrinth]
 mod-id = 'r0camchr'
 version = 'XVYkZnNg'
+
+[option]
+optional = true
+default = true
+description = '''Adds a cool explosion animation.'''

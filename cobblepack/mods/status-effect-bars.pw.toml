@@ -16,10 +16,7 @@ url = 'https://cdn.modrinth.com/data/x02cBj9Y/versions/ramqgou6/status-effect-ba
 mod-id = 'x02cBj9Y'
 version = 'ramqgou6'
 
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'mOgUt4GM'
-type = 'OPTIONAL'
+[option]
+optional = true
+default = true
+description = '''Shows buff/debuff icons in the corner of the screen with bars to represent how long you have left.'''

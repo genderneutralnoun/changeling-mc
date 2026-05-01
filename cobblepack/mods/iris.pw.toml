@@ -16,7 +16,7 @@ url = 'https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.
 mod-id = 'YL57xq9U'
 version = 't3ruzodq'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'AANobbMI'
-type = 'REQUIRED'
-version = 'Pb3OXVqC'
+[option]
+optional = true
+default = true
+description = '''Shaders mod for beefy computers. Does nothing by default, but you can disable it if you're certain you won't use it.'''

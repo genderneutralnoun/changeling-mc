@@ -16,6 +16,7 @@ url = 'https://cdn.modrinth.com/data/XTzhksrl/versions/o1MgrmED/waygl-neoforge-1
 mod-id = 'XTzhksrl'
 version = 'o1MgrmED'
 
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
+[option]
+optional = true
+default = true
+description = '''Only needed to fix bugs for Wayland users (which is some Linux users), but won't hurt at all to leave enabled.'''
