@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changelog.md"
+hash = "fce2d7fbe91866bc239fec44d8b072735b0f1c631059569f5018a494c5cfd284"
+
+[[files]]
 file = "config/beltborne_lanterns.json"
 hash = "f25452abbf1fa501702ac3beb350604acdd22374502fd1f4f2329cd51775e556"
 
@@ -119,10 +123,6 @@ hash = "d80303242d592bce2450f488b4f5b85ddefce7167f36255086c7288072799862"
 [[files]]
 file = "config/yosbr/config/starterkit/kits/inactive/Witch.txt"
 hash = "0d28e1544a862d8114f40dc2c7a829eae27ab353960fbe1ebc5db0e4f04b5d74"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "71585cf9664bdebfdf934a96a4316d4f7368fa00a615792df551e5eb5c6320d9"
 
 [[files]]
 file = "icon.png"
@@ -2214,10 +2214,6 @@ hash = "03bec1531c18c42fc721f9cfa4accfe9a82e6a5f4243b9bef52a0b7eb9eed2bf"
 metafile = true
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "resourcepacks/3d-crops.pw.toml"
 hash = "eef5487bc99e1d18e29d752b4c7d9f49dd68c5996802ebced93343d981d1fa11"
 metafile = true
@@ -2725,7 +2721,7 @@ hash = "00ed5bad2366a5448471a412fa2dde011c80777da632d2af7cbabb7119411f6a"
 
 [[files]]
 file = "servers.dat"
-hash = "7044640de2b509b5a1302083465179727c69ec5305dbaf51e9d31e57574b9324"
+hash = "e0aa83396565d0e5c2c4aa0de0eb388e364dd37db57de2e5555d538a90115b6e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
