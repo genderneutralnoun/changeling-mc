@@ -3827,7 +3827,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
 metafile = true
 
 [[files]]
@@ -3988,11 +3988,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "dd8027556711cb025deabaae6cede4e207a4627f51c00292ab4a646a9b63559b"
-metafile = true
-
-[[files]]
-file = "mods/multiplayer-server-pause.pw.toml"
-hash = "5e8b5faf6de08b02b7129c80af61b59d6d7f34e1cae21a9b77d7093c77d95b85"
 metafile = true
 
 [[files]]
@@ -4687,7 +4682,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "6333bf67f2b2eca44307f176b2cb04f8f17c2375637361729402b2fda9793373"
+hash = "42cdece705e7b0e04f3ffa76cd012330f14fc5eaedfaa380b999ee92dcfa6374"
 metafile = true
 
 [[files]]
