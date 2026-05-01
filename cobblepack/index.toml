@@ -3246,6 +3246,11 @@ hash = "0a457323e9bee7192315084ebcd78f7e85363c37619c2e152383d8daa1f87386"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "0801006b10239d5db6aea1f73ae2b265418d6ed11d2b33f8d59c775a8d6bd065"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "7424fc02e15b2933da88772983dcbe883f367c08462438daaa99476fe139d775"
 metafile = true
