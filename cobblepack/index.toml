@@ -4351,6 +4351,11 @@ hash = "59c518bd7a8b00b97a184956e35666abd19360e18edb6cc798a5a712cc26bf3a"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "2542119f36f9da97055af35664aff60923772866a4a63b617836b2a0a74ea12b"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "671b70c5dac4fdedf9b9f38fe44d496f291cf8acbd7e3eae617506af7fd3f362"
 metafile = true
