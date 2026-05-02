@@ -2752,7 +2752,7 @@ metafile = true
 
 [[files]]
 file = "mods/choppers-delight.pw.toml"
-hash = "d694aa3d44be964b5e72c6b1133c38fd60fb36ddaecfdf4290dcfd31fb2be986"
+hash = "6be77d3ba560f1b22ecdb5fcf802692d72184131d5b378dfc6970dcefb7dcb3c"
 metafile = true
 
 [[files]]
@@ -3173,6 +3173,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "b812f0c71b8e157edc758433e8f159792ee279b547cdd6129104ac6395115b33"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "b12498607a19bfebf372ffdce168629e2c10169d5f23d0bed789007d76be1555"
 metafile = true
 
 [[files]]
@@ -3667,7 +3672,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b40c0a78ab7cea452bfabf382a762e6dde7d858414bd3c2b410fd226d790aba0"
+hash = "8434bb6e583dd08300fde47dba5b85ee70cc0c01b4273475558629642721fd7b"
 metafile = true
 
 [[files]]
@@ -4287,7 +4292,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "18cecf7ff5fdf9527a13f425a36136bb68a09eab66bb7731bdfaa1e0cf4663f0"
+hash = "ac00ddc5c3528db796cc939c91cc9d03d9f04e55474b68b0e4f094dc6d00fbc3"
 metafile = true
 
 [[files]]
@@ -4387,7 +4392,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-clouds.pw.toml"
-hash = "12a02630a1ef0749194eb26380a31b77be02212c57e42d6c9377c884c5f80d47"
+hash = "32acd6555e155d72e0f175987933430edfd2164f6b8138f8a0e416f207d1543a"
 metafile = true
 
 [[files]]
@@ -4428,6 +4433,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "b855e4c5248c21dbd86fc76b917243e84bf0258ac97629e5f19de43efd880a6d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
 
 [[files]]

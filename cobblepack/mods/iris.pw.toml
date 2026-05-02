@@ -19,4 +19,4 @@ version = 't3ruzodq'
 [option]
 optional = true
 default = true
-description = '''Shaders mod for beefy computers. Does nothing by default, but you can disable it if you're certain you won't use it.'''
+description = '''Shaders mod for beefy computers. Does nothing by default, but you can disable it if you're certain you won't use it. Distant Horizons, Simple Clouds, and Iris cannot all be used together - you must pick two at most.'''

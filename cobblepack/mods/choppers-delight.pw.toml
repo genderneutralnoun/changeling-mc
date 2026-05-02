@@ -1,21 +1,13 @@
-filename = 'choppersdelight-neoforge-1.21.1-1.1.2.jar'
 name = "Chopper's Delight"
-side = 'both'
- 
- 
- 
- 
+filename = "choppersdelight-neoforge-1.21.1-1.2.0.jar"
+side = "both"
 
 [download]
-hash = '39cd4dfe5b1d3861733acb30c28b776f51d1dd82c4b6da44f8e7b7fedc774a2b1e31bb5b5e32d9856bdcf6366a74fee633bbb78fcfc599d85ff5280ea7a162bc'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/5Ngo9jUy/versions/thB4dgEM/choppersdelight-neoforge-1.21.1-1.1.2.jar'
+url = "https://cdn.modrinth.com/data/5Ngo9jUy/versions/hEUl3S23/choppersdelight-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "e475226a61c192208f32bb6780cabf545eae790f73bb05ed4d8c83dea741f82ae5c628d72d3cef0caca29f6045d64902d972fb01780f99beea303f03f8ed53a8"
 
+[update]
 [update.modrinth]
-mod-id = '5Ngo9jUy'
-version = 'thB4dgEM'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'R2OftAxM'
-type = 'REQUIRED'
+mod-id = "5Ngo9jUy"
+version = "hEUl3S23"
