@@ -13,6 +13,6 @@ mod-id = 'LtZfKhel'
 version = 'qpinHX2C'
 
 [option]
-optional = true
+optional = false
 default = true
 description = '''Greatly overhauls the visuals of clouds. Distant Horizons, Simple Clouds, and Iris cannot all be used together - you must pick two at most.'''
