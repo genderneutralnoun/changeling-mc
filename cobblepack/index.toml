@@ -2912,7 +2912,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f195925ef4a89eb4eaa2f2fd78d93a2610e48392f5bf885117a4a4c8b9eb6811"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
@@ -3237,7 +3237,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
-hash = "6dee391f4ae78da2e1199256ac31f2b450bdb243ca6d27f0098d26fb65955c1d"
+hash = "87a61d4fb5ff4a4800c3af8f71ba66e79583b769b6b53f50dcb5089cd660774f"
 metafile = true
 
 [[files]]
@@ -3417,7 +3417,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "ccf01e8d28be82c4a333119aaaa195f2524d1a0c9a33210f6b488f548cb4c783"
+hash = "506b558b0864c02f2409e993242fbdcf867028932fecec074fe354e2909f8328"
 metafile = true
 
 [[files]]
@@ -3767,7 +3767,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "d95997e89aec6608e646c66440e7db00659fdc0a528a4b4b0a338c924d693801"
+hash = "57f44a64caaf9f02ee4f1bab73808a735d7b462e4c5e4ddbe38732000ae82f24"
 metafile = true
 
 [[files]]
@@ -3878,11 +3878,6 @@ metafile = true
 [[files]]
 file = "mods/mega-showdown-item-pack.pw.toml"
 hash = "27fe8d9ba1c65c61244e339067b0a7477a618b710134258d984a3181f696ddbc"
-metafile = true
-
-[[files]]
-file = "mods/memorysweep.pw.toml"
-hash = "933175c6ab088f8cf816c1f89b61c12a15c0e873cc9f85374774e75657b0ed03"
 metafile = true
 
 [[files]]
@@ -4542,7 +4537,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fa6fb1b73515246f4e1ca9f78c95fc495208d6895f69f5bc497122f5fcb42ee1"
+hash = "24b70724aa94bba51a410eb4812a2729638cc761a1954af0a394752c2cd75432"
 metafile = true
 
 [[files]]

@@ -1,29 +1,13 @@
-filename = 'dtquark-2.6.0.jar'
-name = 'Dynamic Trees - Quark'
-side = 'both'
- 
- 
- 
- 
+name = "Dynamic Trees - Quark"
+filename = "dtquark-2.6.1.jar"
+side = "both"
 
 [download]
-hash = 'd73a98f4cef40df076f5f571c6a0e4c5606d8c826a63e6e01dfdf783217e106dc85f17cc6fed07f8faccbf8f659c696b97272b8bc84202e3b22ba75b23d48d4a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/9paueCZy/versions/AFvrFo2l/dtquark-2.6.0.jar'
+url = "https://cdn.modrinth.com/data/9paueCZy/versions/rn17sHPV/dtquark-2.6.1.jar"
+hash-format = "sha512"
+hash = "c0e4ec5933d12869f7d24e33468a1902736e0705e550eb45408328946a63af2265dc2fdf4bbf3d97e33bbd9c8fd7c2612f6a0ada8c5795c74ea429a75d99adf4"
 
+[update]
 [update.modrinth]
-mod-id = '9paueCZy'
-version = 'AFvrFo2l'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'qaO9Dqpu'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'vdjF5PL5'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'qnQsVE2z'
-type = 'REQUIRED'
+mod-id = "9paueCZy"
+version = "rn17sHPV"
