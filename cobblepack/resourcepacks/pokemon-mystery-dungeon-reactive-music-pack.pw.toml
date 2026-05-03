@@ -1,0 +1,13 @@
+filename = 'Pokemon Mystery Dungeon - ReactiveMusic.zip'
+name = 'Pokemon Mystery Dungeon - Reactive Music Pack'
+side = 'client'
+
+[download]
+hash = '9fb8f1ff1ed10811cb5e5d38c31f5fdfd1a934b7ef9cbf99ce425cfbff58f10bfbac7fba1874c255d763171400729d5c8284f4c634d0a5ffa8318bb89300da8c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ntl2A9gj/versions/99KcioTP/Pokemon Mystery Dungeon - ReactiveMusic.zip'
+
+[update.modrinth]
+mod-id = 'Ntl2A9gj'
+version = '99KcioTP'

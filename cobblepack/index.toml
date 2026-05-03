@@ -4836,6 +4836,11 @@ hash = "fea5c8c7e182fa305a2ad98a5d360ff6ef4d735f96a2d12ad3a3b5e99c899c1e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pokemon-mystery-dungeon-reactive-music-pack.pw.toml"
+hash = "d12032ac6bcc0ce8ebaf44fe70d322163955c742320a97880a8030392beee0ac"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rakk-jas-pokemon-mystery-dungeon-jukebox.pw.toml"
 hash = "03e3bfaffcb2b3cfe375a1534ab1359a66ca5b41def685ebd47e5cd013ee488c"
 metafile = true
