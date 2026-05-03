@@ -1,0 +1,13 @@
+name = "Cosmetic Megas [Cobblemon]"
+filename = "Cosmetic Megas [v1.2-mod].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qY5iPZRU/versions/ck5iJ3G2/Cosmetic%20Megas%20%5Bv1.2-mod%5D.jar"
+hash-format = "sha512"
+hash = "46edf5646b0e7d8c4d2c8d0b3e6e4d9a8c38d550a16240404a6899aafdae85fce6766aa8844907bbded4547d730910f0271e20ca1fc285e61130e318b2767503"
+
+[update]
+[update.modrinth]
+mod-id = "qY5iPZRU"
+version = "ck5iJ3G2"

@@ -3011,6 +3011,16 @@ hash = "ff74ecf81bf9bc516479f239ef0ee295802374144b85a35365b02f4fcf8f5af8"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-megas.pw.toml"
+hash = "9d35033c86b60a17c3c959c2c796d7cec630493290549f9280f1265725ce673d"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b607b4c0f30caa94f29f1624a5f58eb8673040bd50845145e5f0533fd9e9b6b8"
 metafile = true
