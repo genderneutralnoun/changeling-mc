@@ -2421,6 +2421,11 @@ hash = "0f93cd70c2cf47ac0e2f5aa242f97d74eb51a2c8eb69999b50edb485915d0981"
 metafile = true
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "834f0a3bf0d7556e1009fb1f23bc77d99dab0704c226d4ce766a78b8838791a7"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
 metafile = true
@@ -3863,6 +3868,11 @@ metafile = true
 [[files]]
 file = "mods/ly-clumps.pw.toml"
 hash = "64b9a79d32d7d3ecd15b0a23ffa7290ba11d8186481df0b93903fadb4714a43b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "cba980a2d83df3c53e319b7cb08dff9e043d1b3c9ab9d5656848273d72ba63f7"
 metafile = true
 
 [[files]]
