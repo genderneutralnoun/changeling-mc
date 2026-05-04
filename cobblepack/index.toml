@@ -3426,11 +3426,6 @@ hash = "fd49142da34de1905008f3bc2230313ea150304e7554ec41eaac390d77303e4f"
 metafile = true
 
 [[files]]
-file = "mods/extra-move-anims-cobblemon.pw.toml"
-hash = "500f8b02599d911a95cde81351375a021a09fe272265755782e2fbea32c9365d"
-metafile = true
-
-[[files]]
 file = "mods/extralib.pw.toml"
 hash = "506b558b0864c02f2409e993242fbdcf867028932fecec074fe354e2909f8328"
 metafile = true
