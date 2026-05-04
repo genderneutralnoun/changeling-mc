@@ -1,0 +1,13 @@
+name = "Login Protection[Forge/Fabric]"
+filename = "logprot-fabric-1.21-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jOYNQz4H/versions/SvdQKo1O/logprot-fabric-1.21-3.5.jar"
+hash-format = "sha512"
+hash = "936d3a3798826de3f24672eca1add9cf962d4da14b5c52c58ba40bf4f21c528e3c88a059df75b1b05a58d87037a6002c63eaf1e713074654f99cf830c626a1a2"
+
+[update]
+[update.modrinth]
+mod-id = "jOYNQz4H"
+version = "SvdQKo1O"
