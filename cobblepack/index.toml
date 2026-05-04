@@ -2421,6 +2421,11 @@ hash = "0f93cd70c2cf47ac0e2f5aa242f97d74eb51a2c8eb69999b50edb485915d0981"
 metafile = true
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "834f0a3bf0d7556e1009fb1f23bc77d99dab0704c226d4ce766a78b8838791a7"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
 metafile = true
@@ -3151,6 +3156,11 @@ hash = "50574eeba7b531cd2d5f5c82d4baa301a146eecce3ee3972e52ee29f6f940d48"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "d7db57c2ebce81c8068a80e5256cbe55eca9e4d8955854a991f78099c539e068"
 metafile = true
@@ -3423,11 +3433,6 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "fd49142da34de1905008f3bc2230313ea150304e7554ec41eaac390d77303e4f"
-metafile = true
-
-[[files]]
-file = "mods/extra-move-anims-cobblemon.pw.toml"
-hash = "500f8b02599d911a95cde81351375a021a09fe272265755782e2fbea32c9365d"
 metafile = true
 
 [[files]]
@@ -3846,6 +3851,11 @@ hash = "985777c112c71db60e8c2d974b796ad9d7850b527c97fb94dfa39bd50695d84d"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "befbb4e87240d661241fbbd9b2c3dff07123c97850e62322fbdc036ce454d5e2"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
 metafile = true
@@ -3858,6 +3868,11 @@ metafile = true
 [[files]]
 file = "mods/ly-clumps.pw.toml"
 hash = "64b9a79d32d7d3ecd15b0a23ffa7290ba11d8186481df0b93903fadb4714a43b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "cba980a2d83df3c53e319b7cb08dff9e043d1b3c9ab9d5656848273d72ba63f7"
 metafile = true
 
 [[files]]
