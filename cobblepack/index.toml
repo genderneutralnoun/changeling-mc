@@ -3151,11 +3151,6 @@ hash = "50574eeba7b531cd2d5f5c82d4baa301a146eecce3ee3972e52ee29f6f940d48"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "d7db57c2ebce81c8068a80e5256cbe55eca9e4d8955854a991f78099c539e068"
 metafile = true
@@ -3843,11 +3838,6 @@ metafile = true
 [[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "985777c112c71db60e8c2d974b796ad9d7850b527c97fb94dfa39bd50695d84d"
-metafile = true
-
-[[files]]
-file = "mods/login-protectionforgefabric.pw.toml"
-hash = "3093bc98635435a77cbbdf1da4987c0b08d6951c3009561b79facbb12588ffc6"
 metafile = true
 
 [[files]]
