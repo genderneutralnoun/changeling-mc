@@ -1,18 +1,17 @@
-filename = 'hdr_mod-neoforge-2.1.2-1.21.1.jar'
 name = "rrtt217's HDR Mod"
-side = 'client'
+filename = "hdr_mod-neoforge-2.2.0-1.21.1.jar"
+side = "client"
 
 [download]
-hash = '17de5d5d5fcc94e45fa362bee7b33f5b0e9a9ff5605c9d2e41d4b53d20a84ae1ccd130790da052a27fcc4ceeaabb3ef1ff0871db713b988defbbcc857f23f0fe'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/tycXenOB/versions/e29gJpCJ/hdr_mod-neoforge-2.1.2-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/tycXenOB/versions/5npb9Wg2/hdr_mod-neoforge-2.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "0f7139fa9f20f80eff38bd25c525f5af76ca2f89afab25be02be7ac621c738b3385ad5b9295b6b7d30999226370978ba6a6a31b1d4b1ac6b8ac5ec7de2dc1737"
 
+[update]
 [update.modrinth]
-mod-id = 'tycXenOB'
-version = 'e29gJpCJ'
+mod-id = "tycXenOB"
+version = "5npb9Wg2"
 
 [option]
 optional = true
-default = false
-description = '''Native HDR mod. Enable only if you have an HDR/SDR capable monitor and are using Iris.'''
+description = "Native HDR mod. Enable only if you have an HDR/SDR capable monitor and are using Iris."
