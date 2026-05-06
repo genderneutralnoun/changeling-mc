@@ -2417,7 +2417,7 @@ metafile = true
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
-hash = "0f93cd70c2cf47ac0e2f5aa242f97d74eb51a2c8eb69999b50edb485915d0981"
+hash = "251955516bae46c555c6b53c0228546d4bcdd82ce697a05f74b54d4eaf490a23"
 metafile = true
 
 [[files]]
@@ -2722,7 +2722,7 @@ metafile = true
 
 [[files]]
 file = "mods/certain-questing-additions.pw.toml"
-hash = "597266e63c961cd7b0b943529b6d1a8b75fe8d3760ffa5ce41bdf7a1d07e5739"
+hash = "bd46e5e374acb67080300cbcd18acf528c070576271d8bb40085955eb0ee8451"
 metafile = true
 
 [[files]]
@@ -2986,6 +2986,11 @@ hash = "fd0e8e05ef5e67b65ec14460549fe36813baa6c2b6a4dbf56bde244d8c2a66e5"
 metafile = true
 
 [[files]]
+file = "mods/contact-loverekindled.pw.toml"
+hash = "6bc8f6fe3eedd16cce03108091afd17253c9d6cfa899ca33e1a6a0dd46db4aa0"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "940f7b3ebaf4efe7293271bfa2ea792617a51b3d0ff5cb5629e6390ab0cf8093"
 metafile = true
@@ -3057,7 +3062,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "e98e3fe0226e1f035c90250e19b526e21af64393c20460e0e59695e4620f74dd"
+hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
@@ -3787,7 +3792,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "07ab0d8cf0641bc2441dfc7f96b22b0b8002a64b778f016d99aaebe85435b9f2"
+hash = "c1d1d67f2b3924a3f2694af3206b425d2f88a04853010f98a99953d5894047a6"
 metafile = true
 
 [[files]]
@@ -3857,7 +3862,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
+hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
 metafile = true
 
 [[files]]
@@ -3881,8 +3886,33 @@ hash = "1daba2bd36f83f3a3b0b365119c0c61b61550d5c8274c0294a67d8c3e3a99643"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "1e16889971b82d156fea9fe0cfefde4d7c693e3644169d1eb5a041bd22d207ce"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "87366a5d82152829103539d930ad9c0e8edbd5a917f65657db76f718f5296927"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "e04b1ac906167721ae2696ec837be362e6d6da252e8bc5c0bac29974fbae0461"
+metafile = true
+
+[[files]]
+file = "mods/macaws-quark.pw.toml"
+hash = "4ee2eb6702d21d85aa825c5fbf61273564e4b0bee3182bb9c0b3e24e51203081"
 metafile = true
 
 [[files]]
@@ -3893,6 +3923,16 @@ metafile = true
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "5dc9a93cf97615f18e8ef4cdf290da13cd2a166821a9816f1a824a3499193ce7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "4a1f84dbcd179fa481a4d0e5f45da24415158d373117348d4438eaceff4f5fcc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
@@ -3918,11 +3958,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
-metafile = true
-
-[[files]]
-file = "mods/mighty-mail.pw.toml"
-hash = "cfa49c262d039f7f3ac13761560cdb83dfe2ca7adb0513b1bd7b9a6444b5fe16"
 metafile = true
 
 [[files]]
@@ -3972,7 +4007,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a074ec86a5a1f5641155ea24660ef50180155a7759d1e8a71c5bfab48e17e38b"
+hash = "d2d2b14614ad6820caffa69219414d491d59280685662cbe808f5df33c687555"
 metafile = true
 
 [[files]]
@@ -4097,7 +4132,12 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "fc8f2f804315f74d95c98876cf2672d16e0bddef68304404fe7c09656afbd212"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/oelib.pw.toml"
+hash = "08cdf5ca1d3f2e70d6735dbeb31cee1325d7e985d13d059a5048ee8d15685c28"
 metafile = true
 
 [[files]]
@@ -4317,7 +4357,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "ac00ddc5c3528db796cc939c91cc9d03d9f04e55474b68b0e4f094dc6d00fbc3"
+hash = "993cc8875b10dd2d17df51981abddcc7502533e61bfb2ffd4a94b59db737feaa"
 metafile = true
 
 [[files]]
@@ -4387,7 +4427,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6fedebcb7833879f768a99e687ac5cc464bf8ef092184f9e375c712a0e18a2d7"
+hash = "1adb38171f100615423b3117dee282584aaf0ef29e3597cf87dda99c7c8cef66"
 metafile = true
 
 [[files]]
@@ -4497,7 +4537,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "837c0b55831062fffd281e63b5381a56bf3aa76aebc974a2f56fef3b2e3d1c06"
+hash = "e6f7c1b43dbb3a62dd8638228eb17a942a37e6aa50a8f32e9625769c6d4e090e"
 metafile = true
 
 [[files]]
@@ -4572,7 +4612,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ec7a83525d0e5e848acd1dbac0b24526cbc89604bbc44b29d09910dfd5f87ab2"
+hash = "a382dc176a54944d74070de2a17f34a880834158eaf697b868e6d196d25000ca"
 metafile = true
 
 [[files]]
@@ -4737,17 +4777,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "328167486a5dae64531f06cae042a75944db0432ff48fb7ea075c1a0ad6ea856"
+hash = "cc5a06fa5edddaa41f1fb40bfb15c37d24449bb241de871b0c45b25d0ad3ceef"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "665a4e14825aa7695c087996db848330519c6fa301df3539c683964520f72096"
+hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3949b914c488a4944cb874e3d226c8b398846801962e1bd18e9489a9fb013a97"
+hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
 metafile = true
 
 [[files]]

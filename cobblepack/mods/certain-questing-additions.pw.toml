@@ -1,21 +1,13 @@
-filename = 'certain_questing_additions-neoforge-1.1.6+mc1.21.1.jar'
-name = 'Certain Questing Additions'
-side = 'client'
- 
- 
- 
- 
+name = "Certain Questing Additions"
+filename = "certain_questing_additions-neoforge-1.1.7+mc1.21.1.jar"
+side = "client"
 
 [download]
-hash = 'dd64869fb00f00aeea71b3297db45c46c5c80f0a90caa9473c148d5e2245d0c84698a894bda04ec18c07551245697a079628418a58714bab1ac4fd2018b57bc9'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/5BPpCYUe/versions/p06WzjAp/certain_questing_additions-neoforge-1.1.6%2Bmc1.21.1.jar'
+url = "https://cdn.modrinth.com/data/5BPpCYUe/versions/Pq4OMDNA/certain_questing_additions-neoforge-1.1.7%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "a66b8331c558afee8bf6ee26a41c5d55a53dc0b7b47996f16d9b49e36f4c9450c2e3105488c4ab61000754b4e1d7f1c603e88ae0ae5d01862da38038a5d2988f"
 
+[update]
 [update.modrinth]
-mod-id = '5BPpCYUe'
-version = 'p06WzjAp'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
+mod-id = "5BPpCYUe"
+version = "Pq4OMDNA"
