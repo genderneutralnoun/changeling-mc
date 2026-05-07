@@ -4266,11 +4266,6 @@ hash = "2d0d1b907ad31b2461db3bcaf3341ccc89d238895a2dbbc8ac57a1d9d22ea915"
 metafile = true
 
 [[files]]
-file = "mods/put-a-plug-in-it!.pw.toml"
-hash = "ce8c8352932de33aa2ae3ba8fd2f222ce362b5a6c5b9a7fbe5f782ce3ceb9fc8"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "61e1f6275ed5baa070854792f670c819c7e38058f2295e9b4a49ae6a3191a5f4"
 metafile = true
