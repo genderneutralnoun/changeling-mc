@@ -2622,7 +2622,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliobiomes-legacy.pw.toml"
-hash = "c8931804e61b0704da133a670f37119156125761c3f461abd9f8f90b237e83e9"
+hash = "00784c80056f34d03d983fa8849de236b4faf359ec807f80a23c1adc347d2d68"
 metafile = true
 
 [[files]]
@@ -2647,7 +2647,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "1f0d378b8680dc2221aabef1b0bea4933172272d4b61a44b387982aee174d575"
+hash = "0ab9d26c800d8bfc998341bf2d34c91238dbcba1f646f2c57705c1760148cc17"
 metafile = true
 
 [[files]]
@@ -2712,7 +2712,7 @@ metafile = true
 
 [[files]]
 file = "mods/catch-rate-display.pw.toml"
-hash = "690c038c17dec5e5cdc47d1cf3bfd27a6139b89d185fa36f0542acc0d3d09b05"
+hash = "bce7082eeb364a1622523eba17d7c9d3217891448c76dbd22d66c999c28d111a"
 metafile = true
 
 [[files]]
@@ -3037,7 +3037,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "3c5a210a3f3814d467393ee935ccc89698ae5ff2d8689ad85b9f015a70e44366"
+hash = "063c0d3e7621de7c2f33406085721e08989f87169f61d50024bfd4df6e835b15"
 metafile = true
 
 [[files]]
@@ -3987,7 +3987,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d2d2b14614ad6820caffa69219414d491d59280685662cbe808f5df33c687555"
+hash = "20dec98f262b50ec6488caec4b88f05668618af38a0c1bfdee9ed893260f6e47"
 metafile = true
 
 [[files]]
@@ -4592,7 +4592,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a382dc176a54944d74070de2a17f34a880834158eaf697b868e6d196d25000ca"
+hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
 metafile = true
 
 [[files]]
