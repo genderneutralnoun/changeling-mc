@@ -3874,11 +3874,6 @@ hash = "82223d15c932045de6306771f9c9116176980b2ddf5731f22b99145eff8929a9"
 metafile = true
 
 [[files]]
-file = "mods/ly-clumps.pw.toml"
-hash = "64b9a79d32d7d3ecd15b0a23ffa7290ba11d8186481df0b93903fadb4714a43b"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "1daba2bd36f83f3a3b0b365119c0c61b61550d5c8274c0294a67d8c3e3a99643"
 metafile = true
