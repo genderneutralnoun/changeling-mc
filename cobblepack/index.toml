@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/everycomp-client.toml"
+hash = "f4d0c2784c248ec9df8c21f5c809083435ea0d9b645cc648184f06f223e7cba6"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
