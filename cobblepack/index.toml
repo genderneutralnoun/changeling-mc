@@ -998,6 +998,22 @@ file = "configureddefaults/config/euphoria_patcher/settings.toml"
 hash = "1ca09c8cb52e88edfbd3afb7a6b8bbec920b6398134984bd2bdcddfe37ae4e1c"
 
 [[files]]
+file = "configureddefaults/config/everycomp-client.toml"
+hash = "f4d0c2784c248ec9df8c21f5c809083435ea0d9b645cc648184f06f223e7cba6"
+
+[[files]]
+file = "configureddefaults/config/everycomp-common.toml"
+hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
+
+[[files]]
+file = "configureddefaults/config/everycomp-entries.toml"
+hash = "2b761530a7616ea2517c112f8c711fca4ef6e5aa852699d44b2c54227c321401"
+
+[[files]]
+file = "configureddefaults/config/everycomp-hazardous.toml"
+hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
+
+[[files]]
 file = "configureddefaults/config/excavated_variants.json"
 hash = "24305a5e4a6cb6f8e482ac643cca6c18d0f92af3394c4296360a5ee029ea3d5b"
 
@@ -3857,6 +3873,11 @@ metafile = true
 [[files]]
 file = "mods/ly-clumps.pw.toml"
 hash = "64b9a79d32d7d3ecd15b0a23ffa7290ba11d8186481df0b93903fadb4714a43b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "cba980a2d83df3c53e319b7cb08dff9e043d1b3c9ab9d5656848273d72ba63f7"
 metafile = true
 
 [[files]]
