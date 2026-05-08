@@ -3876,11 +3876,6 @@ hash = "64b9a79d32d7d3ecd15b0a23ffa7290ba11d8186481df0b93903fadb4714a43b"
 metafile = true
 
 [[files]]
-file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "cba980a2d83df3c53e319b7cb08dff9e043d1b3c9ab9d5656848273d72ba63f7"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "1daba2bd36f83f3a3b0b365119c0c61b61550d5c8274c0294a67d8c3e3a99643"
 metafile = true
@@ -3908,11 +3903,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "e04b1ac906167721ae2696ec837be362e6d6da252e8bc5c0bac29974fbae0461"
-metafile = true
-
-[[files]]
-file = "mods/macaws-quark.pw.toml"
-hash = "4ee2eb6702d21d85aa825c5fbf61273564e4b0bee3182bb9c0b3e24e51203081"
 metafile = true
 
 [[files]]
