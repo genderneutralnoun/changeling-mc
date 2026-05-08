@@ -2421,11 +2421,6 @@ hash = "251955516bae46c555c6b53c0228546d4bcdd82ce697a05f74b54d4eaf490a23"
 metafile = true
 
 [[files]]
-file = "mods/addonslib.pw.toml"
-hash = "834f0a3bf0d7556e1009fb1f23bc77d99dab0704c226d4ce766a78b8838791a7"
-metafile = true
-
-[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
 metafile = true
