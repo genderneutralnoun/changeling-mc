@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/everycomp-client.toml"
-hash = "f4d0c2784c248ec9df8c21f5c809083435ea0d9b645cc648184f06f223e7cba6"
+hash = "70a860a528bcc236fdf5c5e58c6340088e71d8d55769972e2da8c9156a08f0b2"
 
 [[files]]
 file = "config/everycomp-common.toml"
-hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
+hash = "1cf9769697920419571892e3f5fdb0a2fc73e23690038a3b1b7d395d1dd929bc"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
