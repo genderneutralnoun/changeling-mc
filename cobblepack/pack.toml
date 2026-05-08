@@ -1,12 +1,12 @@
 name = "Changeling Guild Cobblepack"
 author = "genderneutralnoun"
-version = "0.0.5.hotfix"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19f279e05360651cf4046068a1d3da273207049b6b5d4f7575e8d0b1e09e71e3"
+hash = "44d7af13a811e382c3d8231f767376ba3d6fc8a09af82315c6959ca40c630c8b"
 
 [versions]
 minecraft = "1.21.1"
