@@ -4739,6 +4739,11 @@ hash = "1eee09597843b497dce9c3f43185f943a7540a4fe7494c6036367f620de7f706"
 metafile = true
 
 [[files]]
+file = "mods/waystones-plus.pw.toml"
+hash = "a44f84a7b4326971394fc450cd0e93858ea6ff57f0f9c7ef6d7a2a55d7f3a755"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "a73524011088b8fd80c0f5c705cca72f51918c0ff0fa94ec83898fe4362b5cd9"
 metafile = true
