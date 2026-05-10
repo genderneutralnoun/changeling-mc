@@ -1,0 +1,13 @@
+name = "Put A Plug In it! (PAPI)"
+filename = "papi-1.21.1-neoforge-1.1.3.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "ec0302b684428de88efa18b4adf8043f53387541"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8055505
+project-id = 1461195

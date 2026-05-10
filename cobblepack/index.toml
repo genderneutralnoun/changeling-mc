@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/everycomp-client.toml"
+hash = "70a860a528bcc236fdf5c5e58c6340088e71d8d55769972e2da8c9156a08f0b2"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "1cf9769697920419571892e3f5fdb0a2fc73e23690038a3b1b7d395d1dd929bc"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -2421,11 +2429,6 @@ hash = "251955516bae46c555c6b53c0228546d4bcdd82ce697a05f74b54d4eaf490a23"
 metafile = true
 
 [[files]]
-file = "mods/addonslib.pw.toml"
-hash = "834f0a3bf0d7556e1009fb1f23bc77d99dab0704c226d4ce766a78b8838791a7"
-metafile = true
-
-[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
 metafile = true
@@ -3461,8 +3464,13 @@ hash = "7f9dafb1b1d72100632c3df2547349247c531e3976bb7a00ba41d480a4b5a761"
 metafile = true
 
 [[files]]
-file = "mods/farmers-cutting-collection.pw.toml"
-hash = "0fef75970f873e761c17a15e900a6b5a0b073ef11acf1575de5fe9ff4302d541"
+file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
+hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-quark.pw.toml"
+hash = "f725640348e9ae5af4edd59d1498fc7c08e58dddc29e1dd41056432a93d2737e"
 metafile = true
 
 [[files]]
@@ -3871,16 +3879,6 @@ hash = "82223d15c932045de6306771f9c9116176980b2ddf5731f22b99145eff8929a9"
 metafile = true
 
 [[files]]
-file = "mods/ly-clumps.pw.toml"
-hash = "64b9a79d32d7d3ecd15b0a23ffa7290ba11d8186481df0b93903fadb4714a43b"
-metafile = true
-
-[[files]]
-file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "cba980a2d83df3c53e319b7cb08dff9e043d1b3c9ab9d5656848273d72ba63f7"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "1daba2bd36f83f3a3b0b365119c0c61b61550d5c8274c0294a67d8c3e3a99643"
 metafile = true
@@ -3888,6 +3886,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
 metafile = true
 
 [[files]]
@@ -3901,6 +3904,11 @@ hash = "87366a5d82152829103539d930ad9c0e8edbd5a917f65657db76f718f5296927"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "e04b1ac906167721ae2696ec837be362e6d6da252e8bc5c0bac29974fbae0461"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "203938bc7d8a399a87a8190e0ce96717ac3dc1972ed2ea8244788f9f2fee6dd4"
 metafile = true
@@ -3908,6 +3916,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "5dc9a93cf97615f18e8ef4cdf290da13cd2a166821a9816f1a824a3499193ce7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "4a1f84dbcd179fa481a4d0e5f45da24415158d373117348d4438eaceff4f5fcc"
 metafile = true
 
 [[files]]
@@ -3997,7 +4010,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
+hash = "2f14e94f4642986d2a5ac68cd623737e4b62b53517c9c1b164ce7b516ac3c671"
 metafile = true
 
 [[files]]
@@ -4723,6 +4736,11 @@ metafile = true
 [[files]]
 file = "mods/waygl.pw.toml"
 hash = "1eee09597843b497dce9c3f43185f943a7540a4fe7494c6036367f620de7f706"
+metafile = true
+
+[[files]]
+file = "mods/waystones-plus.pw.toml"
+hash = "a44f84a7b4326971394fc450cd0e93858ea6ff57f0f9c7ef6d7a2a55d7f3a755"
 metafile = true
 
 [[files]]
