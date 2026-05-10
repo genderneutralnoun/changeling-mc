@@ -2515,7 +2515,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "0bb721c8c6af39448c3fe3c5fdb7531805be1d3420d2612d0079fc1aa5a0656c"
+hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
 metafile = true
 
 [[files]]
@@ -4276,6 +4276,11 @@ metafile = true
 [[files]]
 file = "mods/puddles-floods.pw.toml"
 hash = "2d0d1b907ad31b2461db3bcaf3341ccc89d238895a2dbbc8ac57a1d9d22ea915"
+metafile = true
+
+[[files]]
+file = "mods/put-a-plug-in-it.pw.toml"
+hash = "4c5616d10321b3e3611bdc0850bb9f7c2143871ea63d16e071964e844813e3c9"
 metafile = true
 
 [[files]]
