@@ -3464,8 +3464,13 @@ hash = "7f9dafb1b1d72100632c3df2547349247c531e3976bb7a00ba41d480a4b5a761"
 metafile = true
 
 [[files]]
-file = "mods/farmers-cutting-collection.pw.toml"
-hash = "0fef75970f873e761c17a15e900a6b5a0b073ef11acf1575de5fe9ff4302d541"
+file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
+hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-quark.pw.toml"
+hash = "f725640348e9ae5af4edd59d1498fc7c08e58dddc29e1dd41056432a93d2737e"
 metafile = true
 
 [[files]]
