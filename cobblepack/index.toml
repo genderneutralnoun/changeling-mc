@@ -2759,11 +2759,6 @@ hash = "6be77d3ba560f1b22ecdb5fcf802692d72184131d5b378dfc6970dcefb7dcb3c"
 metafile = true
 
 [[files]]
-file = "mods/chunk-activity-tracker.pw.toml"
-hash = "831c6043ba97f0a4e8ed0688fcedfcf56a6c8ffbd6ac762bc6d6ba6b698ce44d"
-metafile = true
-
-[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "9e65b60689f3ed40e5ecd7136fd35756f303cdeb8e6eb16620cf5ad73f576186"
 metafile = true
@@ -3756,11 +3751,6 @@ metafile = true
 [[files]]
 file = "mods/krypton-foxified.pw.toml"
 hash = "33253d9e9d90a4250e08a3139c5fd8a2ce51eb40582080802b6c7930b61fe2c0"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "94c79c22905df1c10d62ce020c13c404ccc17d139987f8b721df4378c1f38254"
 metafile = true
 
 [[files]]
