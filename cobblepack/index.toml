@@ -2684,11 +2684,6 @@ hash = "b760f59b37738ae2cf66d8ca40e3db7e9d3480a9f69795ea142f1f3c9819e842"
 metafile = true
 
 [[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "4e6b365e3c0b9c7538e851c44192d9e29fe958af2e895f398f25546b4f17852e"
-metafile = true
-
-[[files]]
 file = "mods/cake-chomps.pw.toml"
 hash = "05e03e70b2bcbc45789508fcc3430ef5604e3902a4473e3440170b261e1aefc6"
 metafile = true
@@ -3161,11 +3156,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "d7db57c2ebce81c8068a80e5256cbe55eca9e4d8955854a991f78099c539e068"
-metafile = true
-
-[[files]]
-file = "mods/data-anchor.pw.toml"
-hash = "cc9069372593897ea4b611660c55eaae653d80959267184fcf4753223d1d3d9c"
 metafile = true
 
 [[files]]
@@ -4116,11 +4106,6 @@ metafile = true
 [[files]]
 file = "mods/oelib.pw.toml"
 hash = "08cdf5ca1d3f2e70d6735dbeb31cee1325d7e985d13d059a5048ee8d15685c28"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "749faccaf85cfc7c4a15d1c405f78abdf1c27cde3e269d2e864dc559c0686ab8"
 metafile = true
 
 [[files]]
