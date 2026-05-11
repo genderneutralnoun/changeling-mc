@@ -3209,11 +3209,6 @@ hash = "bf0434a1adbfd6c08b86a723c9942b1ad5b1a1c897b0e66e07cc7e227b47d61f"
 metafile = true
 
 [[files]]
-file = "mods/doespotatotick.pw.toml"
-hash = "330601304689ce9a0b3795cacce03aaa297ce4b0ec34e532145fc5b67300a0a6"
-metafile = true
-
-[[files]]
 file = "mods/double-slabs.pw.toml"
 hash = "5a30733bba6f16b3315e22b1be079cc2e2a3b2157f26aa4f12c132d0333395ed"
 metafile = true
@@ -3660,7 +3655,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "1fe110c519cee38e372cba98d2600a425a328db5450b4509a7507603bbb753f7"
+hash = "68dea5aaacce3d37f90e1de5908cb7e85424f2439266eeafac1b17e8cabb8672"
 metafile = true
 
 [[files]]
