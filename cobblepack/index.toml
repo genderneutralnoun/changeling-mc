@@ -2684,6 +2684,11 @@ hash = "b760f59b37738ae2cf66d8ca40e3db7e9d3480a9f69795ea142f1f3c9819e842"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
+metafile = true
+
+[[files]]
 file = "mods/cake-chomps.pw.toml"
 hash = "05e03e70b2bcbc45789508fcc3430ef5604e3902a4473e3440170b261e1aefc6"
 metafile = true
@@ -4096,6 +4101,11 @@ metafile = true
 [[files]]
 file = "mods/oelib.pw.toml"
 hash = "08cdf5ca1d3f2e70d6735dbeb31cee1325d7e985d13d059a5048ee8d15685c28"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
 
 [[files]]
