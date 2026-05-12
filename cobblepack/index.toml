@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/audrops.pw.toml"
-hash = "9056986b6cc38eaee4a6f64609e2ac1d1809d61291049b2435b7bf2254f1ecdf"
+hash = "2800cec961266d55c97631cd8b81e848c6e2ae71b89cd9102d60c550dcf63f06"
 metafile = true
 
 [[files]]
