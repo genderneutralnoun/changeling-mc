@@ -3209,11 +3209,6 @@ hash = "5a30733bba6f16b3315e22b1be079cc2e2a3b2157f26aa4f12c132d0333395ed"
 metafile = true
 
 [[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "5536b6c0701c7ab3ea24f585176ec51e58694d2325c43a4029b735aa91d569e3"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "832f57b322850bdd0a792265e213c46c05fc1e4605ae2cdaa378b450e33df135"
 metafile = true
