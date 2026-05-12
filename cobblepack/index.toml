@@ -2689,6 +2689,11 @@ hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
 metafile = true
 
 [[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "77d9d82e6bcf4f39f42cca22774ae09f2ab21f07116f2097f602a7438725440a"
+metafile = true
+
+[[files]]
 file = "mods/cake-chomps.pw.toml"
 hash = "05e03e70b2bcbc45789508fcc3430ef5604e3902a4473e3440170b261e1aefc6"
 metafile = true
