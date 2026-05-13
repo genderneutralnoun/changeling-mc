@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/audrops.pw.toml"
-hash = "9056986b6cc38eaee4a6f64609e2ac1d1809d61291049b2435b7bf2254f1ecdf"
+hash = "2800cec961266d55c97631cd8b81e848c6e2ae71b89cd9102d60c550dcf63f06"
 metafile = true
 
 [[files]]
@@ -2685,7 +2685,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "4e6b365e3c0b9c7538e851c44192d9e29fe958af2e895f398f25546b4f17852e"
+hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
+metafile = true
+
+[[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "77d9d82e6bcf4f39f42cca22774ae09f2ab21f07116f2097f602a7438725440a"
 metafile = true
 
 [[files]]
@@ -2761,21 +2766,6 @@ metafile = true
 [[files]]
 file = "mods/choppers-delight.pw.toml"
 hash = "6be77d3ba560f1b22ecdb5fcf802692d72184131d5b378dfc6970dcefb7dcb3c"
-metafile = true
-
-[[files]]
-file = "mods/chunk-activity-tracker.pw.toml"
-hash = "831c6043ba97f0a4e8ed0688fcedfcf56a6c8ffbd6ac762bc6d6ba6b698ce44d"
-metafile = true
-
-[[files]]
-file = "mods/chunky-offline.pw.toml"
-hash = "9bf4871e10adc305d88ab0f980815bfb349e6db3e07a0f2d4f50b8791ec42850"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "dba46aa8fa47fd271a1c0a9b79cae7535f11ee787e4091fa1d41870fcc087959"
 metafile = true
 
 [[files]]
@@ -3174,11 +3164,6 @@ hash = "d7db57c2ebce81c8068a80e5256cbe55eca9e4d8955854a991f78099c539e068"
 metafile = true
 
 [[files]]
-file = "mods/data-anchor.pw.toml"
-hash = "cc9069372593897ea4b611660c55eaae653d80959267184fcf4753223d1d3d9c"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "205b279636bdda8f11e8a4a177767ff4a521f48c499ea4a7b6543dfcf0b33774"
 metafile = true
@@ -3221,11 +3206,6 @@ metafile = true
 [[files]]
 file = "mods/double-slabs.pw.toml"
 hash = "5a30733bba6f16b3315e22b1be079cc2e2a3b2157f26aa4f12c132d0333395ed"
-metafile = true
-
-[[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "5536b6c0701c7ab3ea24f585176ec51e58694d2325c43a4029b735aa91d569e3"
 metafile = true
 
 [[files]]
@@ -3779,11 +3759,6 @@ hash = "33253d9e9d90a4250e08a3139c5fd8a2ce51eb40582080802b6c7930b61fe2c0"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "94c79c22905df1c10d62ce020c13c404ccc17d139987f8b721df4378c1f38254"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "4fc5cdc3f481206c00a67bfca9af505b65a1dc010a4ea7f7d571551a7a984f85"
 metafile = true
@@ -4130,7 +4105,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "749faccaf85cfc7c4a15d1c405f78abdf1c27cde3e269d2e864dc559c0686ab8"
+hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
 
 [[files]]
@@ -4391,11 +4366,6 @@ metafile = true
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "34af2e80a084c1072aa3d95c0a843b9c0f2e7294985d35179f22e8101db50907"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "ff8587f60b47a184d3322d3cd23df8fbb48d8c1444975fc9f11cabcb63dbb7df"
 metafile = true
 
 [[files]]
