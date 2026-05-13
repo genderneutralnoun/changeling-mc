@@ -4485,7 +4485,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3d345a05ac9311932718be537f6a64025f658d29d21e258d8bbcea40addf6f17"
+hash = "0e22e7195a9d982a411b61b3d249af07eb5df7adcb40153d6137a09c5e39f316"
 metafile = true
 
 [[files]]
@@ -4500,7 +4500,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bce52f752c8d3bae9ed17dba8f96ec7ff3f1ab7032fe2258a9573e1a8657bb85"
+hash = "50e47fd9fadb581368eba709a8777b34b73938a0911cd436783979c032a0145f"
 metafile = true
 
 [[files]]
@@ -4515,12 +4515,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "09d47512bdeaff087a0e09c3083656d93bbd13399281fd0b8116b40979195a04"
+hash = "ece28d893f8e011cf66e084679a85581be54459aecf7c6bdac18770ed6fb21e1"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "1e0e4292870a22a5a2bf76f70eca35391d065f1d2213f92b60149b03167a0a82"
+hash = "ee46e9f41ca605056827996fe8afb9fd3282e455ab21283fc199d6da0e6beb58"
 metafile = true
 
 [[files]]
