@@ -28,6 +28,11 @@ hash = "c1aa7258d071e1b6def796c86d83b44285dafaf8292b952478a98069280a439a"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/cobblemon-all-ride-mons.pw.toml"
+hash = "8dbc3f2f3184b9b48cd03bf8dac7fbf0b7cb8e487e0a6e0683ef242f0e6a3331"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/cobblemon-failskins.pw.toml"
 hash = "b2ee099b9579ff116859a14f7a5aa6eb9780fa054e8b6c9726db9c92df17bd35"
 metafile = true
@@ -84,6 +89,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
 hash = "36b0b37d6ae226451798da5e70e3f575600ff440c0fac303c255517d0c3c85dd"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cobblemon-all-ride-mons.pw.toml"
+hash = "c0ce2bf028b7049671067b0ef936f1ec72d29b79c4d06bcdcd5ff299542b8395"
 metafile = true
 
 [[files]]
