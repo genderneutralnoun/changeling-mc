@@ -4204,6 +4204,11 @@ hash = "2cf35afb6ede4147aba1ec1aa4334fc9d86004a0434574ffab2d9fec725429a9"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
+metafile = true
+
+[[files]]
 file = "mods/pizza-delight.pw.toml"
 hash = "59ac5cc9742503bb4bce43b85665e86743b25aa9166c4d4fe78b5312a8b3320d"
 metafile = true
