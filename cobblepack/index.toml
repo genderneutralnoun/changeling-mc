@@ -4239,6 +4239,11 @@ hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
+file = "mods/platinum-reinforced.pw.toml"
+hash = "40c00723d079b6a58f98977b591a7d580c74fe542ec40cb269868bcd86d13040"
+metafile = true
+
+[[files]]
 file = "mods/plenty-plates.pw.toml"
 hash = "600407216df1b79c2b772a0b254e6d26c29c8416a820d1e9b740c4761b762646"
 metafile = true
