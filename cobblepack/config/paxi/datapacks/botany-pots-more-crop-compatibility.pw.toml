@@ -1,0 +1,18 @@
+filename = 'BotanyPots-ImprovedCompat.zip'
+name = 'Botany Pots - More Crop Compatibility'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = 'fdfeff5daca1d57b27e51fb6efe4294072804478936b0c49598360e140f631048c47210776951fbcb1ff05c862c15b0616e2971498e20818636d6d83da03af86'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ikuwUJXz/versions/HbHnUKoE/BotanyPots-ImprovedCompat.zip'
+
+[update.modrinth]
+mod-id = 'ikuwUJXz'
+version = 'HbHnUKoE'

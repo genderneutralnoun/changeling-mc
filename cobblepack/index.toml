@@ -23,6 +23,21 @@ hash = "367138b282d4075c38addb46c91d75283fd7981ff50a3c198c4c8cc340f4fef4"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/botany-pots-more-crop-compatibility.pw.toml"
+hash = "f68d54f7643b17b3ce94dd9e6ab14a6b88b09a0f8a6dba2723f04434a32dc3cc"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/botany-trees-x-farmers-delight-expanded-compatibility.pw.toml"
+hash = "7e7e92a6ee1d552a7ddad4cec4bd32f2b0cef0dd7e1f41322559baed59cf67dc"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/botanypots-farmers-delight-rich-soil-compatibility.pw.toml"
+hash = "49786996b23a7721846c17dedcfcd10d0a90f296df6092092d6330c9f7e99225"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/ceezuns-better-shoulder-mounts-cobblemon.pw.toml"
 hash = "c1aa7258d071e1b6def796c86d83b44285dafaf8292b952478a98069280a439a"
 metafile = true
