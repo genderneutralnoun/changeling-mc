@@ -1,6 +1,6 @@
 filename = 'BotanyPots-FarmersDelight-Compat.zip'
 name = 'BotanyPots × Farmer’s Delight – Improved Compatibility'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1' ]

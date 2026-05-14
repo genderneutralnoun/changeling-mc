@@ -24,17 +24,17 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/botany-pots-more-crop-compatibility.pw.toml"
-hash = "f68d54f7643b17b3ce94dd9e6ab14a6b88b09a0f8a6dba2723f04434a32dc3cc"
+hash = "03157ed9a54e7d6589a4a7aff77dc01692033d66fdd3017b8ff965f5970d875b"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/botany-trees-x-farmers-delight-expanded-compatibility.pw.toml"
-hash = "7e7e92a6ee1d552a7ddad4cec4bd32f2b0cef0dd7e1f41322559baed59cf67dc"
+hash = "80646730eb08e08a87ab6e4df94ab95df60529974a997372e14eedd00b14c71d"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/botanypots-farmers-delight-rich-soil-compatibility.pw.toml"
-hash = "49786996b23a7721846c17dedcfcd10d0a90f296df6092092d6330c9f7e99225"
+hash = "f830e18d336be22c767c0a2fa42c53953c77be6ad7ae70306c65ef1ca82b5e07"
 metafile = true
 
 [[files]]

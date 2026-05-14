@@ -1,6 +1,6 @@
 filename = 'BotanyTrees-ExapandedCompat.zip'
 name = 'Botany Trees x Farmers Delight - Expanded Compatibility'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
