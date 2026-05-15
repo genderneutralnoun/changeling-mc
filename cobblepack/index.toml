@@ -4922,14 +4922,6 @@ file = "servers.dat"
 hash = "06ba26af48a5964ab238a423c20e6bcd9eaab95f8ca15490c065e56d695da1f6"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
-hash = "277acb210eba9640daf33b502376c653b16ef81c9124d9a0cbcb47b17365385e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "1a1d9c39760e9946f4da61e2fd898501d33263d15656d3c926362d6584e4ade5"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
 metafile = true
