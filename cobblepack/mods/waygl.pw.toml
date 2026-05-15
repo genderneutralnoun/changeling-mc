@@ -1,22 +1,18 @@
-filename = 'waygl-neoforge-1.2.0.jar'
-name = 'WayGL'
-side = 'client'
- 
- 
- 
- 
+name = "WayGL"
+filename = "waygl-neoforge-1.2.1.jar"
+side = "client"
 
 [download]
-hash = '5c250c3bf36edef16b6f7ee386955a5c9e11845e0f7ebe3f3236f5521cf2a6214abcc6d707cd8d421a763b7589970247a2dd3f9c3259d2a42df403befdf47c39'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/XTzhksrl/versions/o1MgrmED/waygl-neoforge-1.2.0.jar'
+url = "https://cdn.modrinth.com/data/XTzhksrl/versions/mJqNbGji/waygl-neoforge-1.2.1.jar"
+hash-format = "sha512"
+hash = "74b0a9eff7631aa16703b36c80a652a760c864f1a49dc7a35da65739398031907494c1ead401729af9fd8b089f92e6a1bc9589e13d93ffd01004744e3b1b090b"
 
+[update]
 [update.modrinth]
-mod-id = 'XTzhksrl'
-version = 'o1MgrmED'
+mod-id = "XTzhksrl"
+version = "mJqNbGji"
 
 [option]
 optional = true
+description = "Only needed to fix bugs for Wayland users (which is some Linux users), but won't hurt at all to leave enabled."
 default = true
-description = '''Only needed to fix bugs for Wayland users (which is some Linux users), but won't hurt at all to leave enabled.'''

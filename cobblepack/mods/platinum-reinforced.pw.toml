@@ -1,0 +1,13 @@
+name = "Platinum Reinforced"
+filename = "mrplt-2.0.0-neof-1.21-x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pBOIoQT/versions/dvAihoFO/mrplt-2.0.0-neof-1.21-x.jar"
+hash-format = "sha512"
+hash = "d63814cc5f7691bfa95ba31964d668f3e0c14b5157b856dea9b83aa228e54d2c5f82b6ea6e62b4a1f3ef82934391b6f140cc6a660e357306588865230f020ce4"
+
+[update]
+[update.modrinth]
+mod-id = "9pBOIoQT"
+version = "dvAihoFO"

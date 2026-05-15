@@ -1,21 +1,13 @@
-filename = 'tesseract-api-neoforge-1.11.11-1.21.1.jar'
-name = 'Tesseract API'
-side = 'both'
- 
- 
- 
- 
+name = "Tesseract API"
+filename = "tesseract-api-neoforge-1.11.12-1.21.1.jar"
+side = "both"
 
 [download]
-hash = '8416b82b9100d894ab73ce78a809a3d1ac4b1c510ad932bd803188dd1985a52f7f3ce8289d7afd60e0cc614dd88d2d05129a1dcf3b8d70a3c2483ba6e4dc6e3c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/pHNT1iyc/versions/o1g3v0XL/tesseract-api-neoforge-1.11.11-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/pHNT1iyc/versions/yOrn6SZA/tesseract-api-neoforge-1.11.12-1.21.1.jar"
+hash-format = "sha512"
+hash = "448557fba4238f51a014cec3847e348e6ecbefe71951328025140fa7bd3f7d3bb5f23304abc0996eca0675877785ee1525e397d247e1bba1e0a6c431bd13e65a"
 
+[update]
 [update.modrinth]
-mod-id = 'pHNT1iyc'
-version = 'o1g3v0XL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Gov5Dboq'
-type = 'OPTIONAL'
+mod-id = "pHNT1iyc"
+version = "yOrn6SZA"
