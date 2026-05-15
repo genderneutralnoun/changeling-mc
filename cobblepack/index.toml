@@ -3865,7 +3865,7 @@ metafile = true
 
 [[files]]
 file = "mods/login-shield.pw.toml"
-hash = "b0a337f8b0ec772fe9604d2745a4b06a42d4d9e2b5ce7b31ce7ed6d0eee784ef"
+hash = "7d0cb1ce8ac42f118a7012af3dddec098a7fa1673542fe39f079b689ddbff9cf"
 metafile = true
 
 [[files]]
