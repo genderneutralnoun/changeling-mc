@@ -2444,11 +2444,6 @@ hash = "6088d45c2e2931f0b6c6abc5d7049b65ad02c64e1e544dbab3afb94674dfd58a"
 metafile = true
 
 [[files]]
-file = "mods/akashic-tome.pw.toml"
-hash = "d4074d951c0617450d3d2b54dd92e0d439d01156e0b4ba14da974f3cb5e78193"
-metafile = true
-
-[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
 metafile = true
@@ -3286,6 +3281,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "290048aa0755277b9ebc7d1be8cbd3331d1a6ddb2cfc2d5de3a46905460a4daf"
+metafile = true
+
+[[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "56479d65b6c075f0a389add1db65b372175e4998a284378f8870a2f5bdc65fea"
 metafile = true
 
 [[files]]
