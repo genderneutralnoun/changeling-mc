@@ -3314,11 +3314,6 @@ hash = "b3a14b8078a0b4baf45b393341703a8c418d2dc7dade461465b00251abacd727"
 metafile = true
 
 [[files]]
-file = "mods/eccentric-tome.pw.toml"
-hash = "56479d65b6c075f0a389add1db65b372175e4998a284378f8870a2f5bdc65fea"
-metafile = true
-
-[[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "d23207d80b378007d0ebe025cf8f613e54ba7ad08a289ec2b669a143e458b792"
 metafile = true
