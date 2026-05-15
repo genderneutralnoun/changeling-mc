@@ -3789,6 +3789,11 @@ hash = "4fc5cdc3f481206c00a67bfca9af505b65a1dc010a4ea7f7d571551a7a984f85"
 metafile = true
 
 [[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "0b80c71bfe9082ec21843c7a6f2b98c96aee0d01ca92337154cb39002b40f461"
+metafile = true
+
+[[files]]
 file = "mods/large-meals.pw.toml"
 hash = "672e9a1b2ce1030ab3dd7daa24d744fc7507938a65d402d9380096b9b84bb5cf"
 metafile = true
@@ -3859,8 +3864,8 @@ hash = "985777c112c71db60e8c2d974b796ad9d7850b527c97fb94dfa39bd50695d84d"
 metafile = true
 
 [[files]]
-file = "mods/login-protection.pw.toml"
-hash = "befbb4e87240d661241fbbd9b2c3dff07123c97850e62322fbdc036ce454d5e2"
+file = "mods/login-shield.pw.toml"
+hash = "b0a337f8b0ec772fe9604d2745a4b06a42d4d9e2b5ce7b31ce7ed6d0eee784ef"
 metafile = true
 
 [[files]]

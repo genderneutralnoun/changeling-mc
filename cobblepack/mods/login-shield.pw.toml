@@ -1,0 +1,13 @@
+name = "Login Shield"
+filename = "loadingprotection-1.0.2-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vpjnuUWT/versions/sfGRonBq/loadingprotection-1.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "8f443f2db8a19a0df99f46ec0a337d4e74af8201a75bdfdaf167e38b97e13198476a0ba13e39da5eac881aac49cbeadbb0999a23125a0cec05350ba6d8af6260"
+
+[update]
+[update.modrinth]
+mod-id = "vpjnuUWT"
+version = "sfGRonBq"
