@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "722f5dea3168e26d3c58878fa05c94546436598824252927bfb196c25f8d1964"
-=======
-hash = "aad1e416c22d06865f4b310da014b31354a1374b4e7b4bd70a3998966a541fd4"
->>>>>>> cobblepack-pre
+hash = "3dfb623313e33205e776f933698b037811b8e8254bf23b7aa2822acffdb08a4c"
 
 [versions]
 minecraft = "1.21.1"

@@ -3309,13 +3309,13 @@ hash = "290048aa0755277b9ebc7d1be8cbd3331d1a6ddb2cfc2d5de3a46905460a4daf"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/eccentric-tome.pw.toml"
-hash = "56479d65b6c075f0a389add1db65b372175e4998a284378f8870a2f5bdc65fea"
-=======
 file = "mods/eccentric-tome-updated.pw.toml"
 hash = "b3a14b8078a0b4baf45b393341703a8c418d2dc7dade461465b00251abacd727"
->>>>>>> cobblepack-pre
+metafile = true
+
+[[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "56479d65b6c075f0a389add1db65b372175e4998a284378f8870a2f5bdc65fea"
 metafile = true
 
 [[files]]
