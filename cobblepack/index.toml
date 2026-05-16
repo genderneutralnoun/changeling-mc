@@ -4699,6 +4699,11 @@ hash = "39475dcf18c25d93d0446fa1395a38ac5a4f8a0fd8d90b83829d8ba40692c9cc"
 metafile = true
 
 [[files]]
+file = "mods/travelers-compass.pw.toml"
+hash = "22f8deacca8123d04d1d6a4143aa1062e5bcb761780b959cc2b2ae478d168bf6"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d7f6aa2fe62f48f6c905b45d3c32ed3333c4b000952ba9b39f4175d59cb87703"
 metafile = true
