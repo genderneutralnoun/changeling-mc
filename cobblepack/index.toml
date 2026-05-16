@@ -2899,6 +2899,11 @@ hash = "9459a276042f497cc03c63b51a76ff12a7f12e302ac8d6e0feafc4e4944d67d8"
 metafile = true
 
 [[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "58825929d4134645ade28edaeeb59348399c2d3a2c0f4015394c0e9933014485"
+metafile = true
+
+[[files]]
 file = "mods/cobblepots-neoforge.pw.toml"
 hash = "9d6c053e9a808959de0f09a49727b9c5181a3beabc2079ccd3433d3f5de1d581"
 metafile = true
