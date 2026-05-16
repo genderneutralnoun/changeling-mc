@@ -4444,6 +4444,11 @@ hash = "9b328764be6c701e85633e343856b351ce503ba8510b61d4eeb829d3aa60c8d2"
 metafile = true
 
 [[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "307a39080394cbe930be57e67fb8dae37601e8f0842da10da10977d261dac07d"
+metafile = true
+
+[[files]]
 file = "mods/sizeshiftingpotions.pw.toml"
 hash = "23de1f888d291b31a1c1888a37d7f5f81dec1c7958c017cc3e4d5c1d0ac80355"
 metafile = true
