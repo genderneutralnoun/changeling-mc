@@ -3369,6 +3369,11 @@ hash = "dabb16b7bf8c6a0c55f05b9aa69a1e3e3e9007c787b580a203647d20326d99ad"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-switch.pw.toml"
+hash = "4584243a37d1babc6278679dfe0d716955c211266a4d7564d37b1b6c348f99bf"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "443fb18863f0544df93ab432d86424b3c1aa2fce2f39023c9bb3262717f30607"
 metafile = true
