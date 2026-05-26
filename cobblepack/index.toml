@@ -4089,6 +4089,11 @@ hash = "126f5083553d05ec4a9640709f7bd8d15afbe60557992c430e4af7d59918ca45"
 metafile = true
 
 [[files]]
+file = "mods/new-health-bars.pw.toml"
+hash = "2b71863edd2540d93517f6a0a40e6dd04a460039a3a8c385308c45ffc453a347"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "04f30cc90181305693dd94ea8f734f1e2e790c81b78cbdcfffef7fc4172c55cf"
 metafile = true
