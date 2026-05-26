@@ -3635,7 +3635,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "c11346fdd65bd965971729e3abb542e9c23435f36189f5c83a13d0b29a27799b"
+hash = "d6ea929f4c0e1876523e23b196bc19fcbcdfee8dd60f1aeefd7350eb568d9130"
 metafile = true
 
 [[files]]
@@ -3656,11 +3656,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3ec69a4bf05045b6b3bac0aec5b10ca269af6a0fd8340f82d0f469ea1ad81caa"
-metafile = true
-
-[[files]]
-file = "mods/immersive-armor-hud.pw.toml"
-hash = "606f2bc9f600d87530fcc7c93d412fdfc884dbfe68a7f8e7350fb0f5b566e28b"
 metafile = true
 
 [[files]]
