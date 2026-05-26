@@ -1,18 +1,18 @@
-filename = 'gnetum-3.3.2.jar'
-name = 'Gnetum'
-side = 'client'
+name = "Gnetum"
+filename = "gnetum-3.3.4.jar"
+side = "client"
 
 [download]
-hash = 'c1718f112256c9d00b6dc202a83d46c278e3228bc9893963c409de4863c977178c5b8b4829576384e12d33a491827899d3e782a9604ab17e4a4053045497455c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/7MoE34WK/versions/Sd6QGfdR/gnetum-3.3.2.jar'
+url = "https://cdn.modrinth.com/data/7MoE34WK/versions/Ft7Yf40c/gnetum-3.3.4.jar"
+hash-format = "sha512"
+hash = "1be541a1a4214e9be94ccd84b9a46c8889e65a1255d4fe29b0a74a0ff1fc60fcb73d2381461146a438e6a856e1f67be612adfe2e843362e8cb6f546be3de56fe"
 
+[update]
 [update.modrinth]
-mod-id = '7MoE34WK'
-version = 'Sd6QGfdR'
+mod-id = "7MoE34WK"
+version = "Ft7Yf40c"
 
 [option]
 optional = true
+description = "Optimization mod, disable only if having issues."
 default = true
-description = '''Optimization mod, disable only if having issues.'''
