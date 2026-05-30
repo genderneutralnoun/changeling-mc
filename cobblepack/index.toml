@@ -3784,6 +3784,21 @@ hash = "33253d9e9d90a4250e08a3139c5fd8a2ce51eb40582080802b6c7930b61fe2c0"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "631adbbd5fb0115ae38f113b75d940c971cf2779c6dbd0cefa33aa9a60028a88"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-diesel-generators.pw.toml"
+hash = "9e198088ade63c2d2e83cef7c4c30272fe0480e69d1ff778785eac888fcfe41e"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
