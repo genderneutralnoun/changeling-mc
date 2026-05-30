@@ -3784,6 +3784,11 @@ hash = "33253d9e9d90a4250e08a3139c5fd8a2ce51eb40582080802b6c7930b61fe2c0"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "4fc5cdc3f481206c00a67bfca9af505b65a1dc010a4ea7f7d571551a7a984f85"
 metafile = true
